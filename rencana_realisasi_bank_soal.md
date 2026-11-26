@@ -5,7 +5,7 @@
 - **Fungsi:** panduan kerja hidup menuju produksi Bank Soal SD.
 - **Acuan utama:** [dokumen induk V5-salinan 61](<ringkasan_bank_soal_sd_v5-salinan 61.md>), AGENTS.md, dan keputusan Romo yang telah disetujui.
 - **Tanggal pembaruan terakhir:** 27 November 2026.
-- **Status keseluruhan:** Gerbang 1 dan Gerbang 2 telah final di `main`; Tahap 3, verifikasi lingkungan, dan produksi soal belum dimulai.
+- **Status keseluruhan:** Persiapan migrasi Tahap 2 telah final di `main`; perangkat Tahap 3 sedang dalam verifikasi teknis; Tahap 4, analisis indikator, dan produksi soal belum dimulai.
 - **Aturan pembaruan:** status hanya boleh berubah berdasarkan pekerjaan dan pemeriksaan aktual, bukan berdasarkan rencana, keberadaan kode, atau asumsi.
 
 ## Keputusan ruang lingkup
@@ -81,11 +81,11 @@ Repositori, cabang, commit dasar, working tree, dan sumber acuan telah diperiksa
 
 ### Status aktual
 
-**Lulus pada tingkat checkout kerja, belum final pada `main`.** Checkout tersedia di `D:\ribuan_pengguna\CLAUDE\soalsd-repo` dengan remote `https://github.com/parentingtangguh-png/soalsd.git`, branch dasar `main`, commit dasar `13dbb56172cc965c37f250cd67856bdf628d716c`, dan working tree bersih pada saat checkout. Cabang kerja `setup/tahap-2-persiapan` telah dibuat. `main` remote masih memuat baseline V4-51; acuan V5 aktif disiapkan pada cabang kerja dan belum masuk `main`.
+**Lulus dan final pada `main`.** `main` memuat AGENTS.md terbaru, dokumen induk V5 aktif, lima skill, struktur direktori, register, dan catatan persetujuan melalui PR #7 (merge `14e156a`) serta PR #8 (merge `69d3418`).
 
 ### Tindakan berikutnya
 
-Menyiapkan penugasan dan pengajuan Tahap Migrasi 3. Jangan memulai pembangunan perangkat sebelum lingkup Tahap 3 disetujui sesuai prosedur.
+Pembangunan perangkat Tahap Migrasi 3 sedang berjalan pada branch terpisah; selesaikan verifikasi dan ajukan persetujuan sebelum Tahap 4.
 
 ---
 
@@ -134,7 +134,7 @@ Delapan perangkat tersedia, dapat dijalankan, dan hasil pengujian awalnya terdok
 
 ### Status aktual
 
-**Final.** Dua skill yang sudah ada telah dibaca dan rujukan acuan diselaraskan ke V5 aktif. Tiga skill yang belum tersedia telah dibuat: `generator-html`, `verifikasi-bank-soal`, dan `pembaruan-register`. Struktur register, catatan persetujuan, struktur direktori, dan direktori bukti antiduplikasi telah disiapkan. Persetujuan Romo dicatat pada commit `1c28b3e`; PR #7 telah masuk `main` melalui merge commit `14e156a`. Tahap ini tidak mencakup pembangunan delapan perangkat produksi; Tahap 3 belum dimulai.
+**Final untuk persiapan migrasi Tahap 2.** Persetujuan Romo dicatat pada commit `1c28b3e`; PR #7 masuk `main` melalui merge `14e156a`, dan statusnya diperbarui melalui PR #8 (merge `69d3418`). Delapan perangkat Tahap Migrasi 3 dicatat pada Gerbang ini sebagai pekerjaan terpisah.
 
 ---
 
@@ -380,7 +380,7 @@ Jika perubahan memengaruhi soal, gambar, metode, rubrik, HTML, JSON, koleksi pem
 | 27 November 2026 | Gerbang 2 | Register dan panduan progres diperbarui untuk mencatat commit serta status verifikasi. | Commit `7eee7ad`. | Dalam verifikasi; menunggu persetujuan Tahap 2 |
 | 27 November 2026 | Gerbang 2 | Pengajuan formal Tahap Migrasi 2 dibuat, status register diubah menjadi Menunggu persetujuan, dan pull request dibuka. | `docs/pengajuan_MIG-T2-PERSIAPAN.md`; PR `#7`; commit pengajuan `25b95d1`. | Menunggu persetujuan Romo |
 | 27 November 2026 | Gerbang 2 | Persetujuan Romo diterima dan PR #7 difinalkan ke `main` berdasarkan commit `1811052`. | Catatan persetujuan `1c28b3e`; PR `#7`; merge commit `14e156a`. | Final |
-| 27 November 2026 | Gerbang 3–7 | Belum ada pembangunan delapan perangkat, verifikasi lingkungan, produksi soal, atau finalisasi indikator. Tahap 3 siap disiapkan, tetapi belum dimulai. | Belum tersedia. | Belum dimulai |
+| 27 November 2026 | Tahap 3 / Gerbang 2 | Delapan perangkat, fixture sintetis, suite unit, dan uji CLI dibuat pada branch kerja. Suite teknis lulus 7 uji; belum ada perubahan soal atau produksi. | `build/tahap-3-perangkat`; `docs/tahap-3-perangkat.md`; `tests/test_devices.py`; hasil `python scripts/test_runner.py`. | Dalam verifikasi; menunggu pengajuan persetujuan Romo |
 
 ## Rujukan dokumen induk
 
