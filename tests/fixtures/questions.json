@@ -1,0 +1,38 @@
+{
+  "id_indikator": "IND-MTK-A-K1-B.1-KM01-I01",
+  "soal": [
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM01-I01-DIA-01",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM01-I01",
+      "jenis_soal": "DIA",
+      "pertanyaan": "Ada berapa lingkaran?",
+      "pilihan": {"A": "2", "B": "3", "C": "4"},
+      "kunci_jawaban": "B",
+      "panduan_orang_tua": "Bacakan pertanyaan dan minta anak memilih jawaban.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": true,
+      "image_description": "Tiga lingkaran biru.",
+      "image_spec": "2D",
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM01-I01-PGT-01",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM01-I01",
+      "jenis_soal": "PGT",
+      "pertanyaan": "Hitung gambar tiga benda berikut.",
+      "pilihan": {"A": "2", "B": "3", "C": "4"},
+      "kunci_jawaban": "B",
+      "panduan_orang_tua": "Minta anak menunjuk setiap benda satu kali lalu memilih.",
+      "penjelasan_konsep": "Membilang dilakukan dengan memasangkan satu bilangan pada setiap benda.",
+      "penerapan_nyata": "Anak dapat membilang tiga sendok saat menata meja.",
+      "butuh_gambar": false,
+      "image_description": null,
+      "image_spec": null,
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    }
+  ]
+}
+
