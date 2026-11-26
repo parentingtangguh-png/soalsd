@@ -134,7 +134,7 @@ Delapan perangkat tersedia, dapat dijalankan, dan hasil pengujian awalnya terdok
 
 ### Status aktual
 
-**Dalam verifikasi.** Dua skill yang sudah ada telah dibaca dan rujukan acuan diselaraskan ke V5 aktif. Tiga skill yang belum tersedia telah dibuat: `generator-html`, `verifikasi-bank-soal`, dan `pembaruan-register`. Struktur register, catatan persetujuan, struktur direktori, dan direktori bukti antiduplikasi telah disiapkan. Tahap ini belum disetujui dan belum mencakup delapan perangkat produksi.
+**Dalam verifikasi.** Dua skill yang sudah ada telah dibaca dan rujukan acuan diselaraskan ke V5 aktif. Tiga skill yang belum tersedia telah dibuat: `generator-html`, `verifikasi-bank-soal`, dan `pembaruan-register`. Struktur register, catatan persetujuan, struktur direktori, dan direktori bukti antiduplikasi telah disiapkan. Commit draft `0816f76` telah dibuat pada branch kerja. Tahap ini belum disetujui dan belum mencakup delapan perangkat produksi.
 
 ---
 
@@ -376,6 +376,7 @@ Jika perubahan memengaruhi soal, gambar, metode, rubrik, HTML, JSON, koleksi pem
 | 27 November 2026 | Gerbang 1 | Checkout repositori remote dibuat di folder terpisah tanpa menimpa workspace lama. Remote, branch dasar, commit, dan working tree diverifikasi. | `soalsd-repo`, remote GitHub, branch `main`, commit `13dbb56172cc965c37f250cd67856bdf628d716c`. | Lulus pada checkout kerja |
 | 27 November 2026 | Gerbang 1 | Cabang kerja dibuat dan acuan V5-salinan 61, AGENTS.md terbaru, serta panduan realisasi disiapkan pada cabang kerja. Dokumen V4 historis tidak dihapus. | Branch `setup/tahap-2-persiapan`; hash salinan diverifikasi sama dengan sumber lokal. | Dalam verifikasi sebelum persetujuan |
 | 27 November 2026 | Gerbang 2 | Tiga skill tambahan dibuat, dua skill lama dibaca dan rujukan V5 diperbarui, struktur register/persetujuan/antiduplikasi disiapkan. | `.agents/skills/`; `docs/register_bank_soal.md`; `docs/catatan_persetujuan.md`; `docs/struktur_direktori.md`; `docs/antiduplikasi/`. | Dalam verifikasi |
+| 27 November 2026 | Gerbang 2 | Artefak persiapan dicatat dalam commit draft. Validasi struktur kelima skill lulus. Pemeriksaan `git diff --check` menemukan tiga trailing whitespace pada rumusan V5 yang disalin verbatim; tidak diubah sepihak. | Commit `0816f76`; hasil validator skill-creator: kelima skill valid. | Dalam verifikasi; temuan format tercatat |
 | 27 November 2026 | Gerbang 3–7 | Belum ada pembangunan delapan perangkat, verifikasi lingkungan, produksi soal, atau finalisasi indikator. | Belum tersedia. | Belum dimulai |
 
 ## Rujukan dokumen induk
