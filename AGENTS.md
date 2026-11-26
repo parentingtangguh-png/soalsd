@@ -11,6 +11,8 @@ Proyek Bank Soal SD mengembangkan bank soal kelas 1–6 berdasarkan kurikulum na
 - Bahasa konten pendidikan: Bahasa Indonesia
 - Dokumen induk resmi pada saat penetapan instruksi ini: `docs/ringkasan_bank_soal_sd_v4-51.md`
 
+Setelah keputusan Romo pada 26 November 2026, dokumen induk aktif/final yang berlaku adalah `ringkasan_bank_soal_sd_v5-salinan 61.md`; V4-51 dan versi sebelumnya menjadi arsip sejarah.
+
 Gunakan dokumen induk terbaru yang telah disetujui, diverifikasi, dan ditetapkan sebagai acuan bersama.
 
 Jangan memilih versi dokumen hanya berdasarkan nama atau nomor versi terbesar.
@@ -22,7 +24,7 @@ Dokumen historis bukan acuan utama apabila telah digantikan oleh versi yang dise
 Ikuti urutan kewenangan berikut, dari tertinggi:
 
 1. Keputusan Romo yang telah disetujui.
-2. Dokumen induk V4 terbaru yang telah ditetapkan sebagai acuan bersama.
+2. Dokumen induk final V5-salinan 61 yang telah ditetapkan Romo sebagai acuan bersama.
 3. Rancangan indikator yang telah disetujui.
 4. AGENTS.md dan SKILL.md.
 5. Instruksi tugas Codex.
