@@ -1,12 +1,12 @@
 # Tahap Migrasi 3 — Perangkat Produksi
 
-Status awal: **Draf / dalam verifikasi teknis**.
+Status aktual: **Dalam verifikasi**.
 
 Dokumen ini mencatat perangkat yang dibuat pada Tahap 3. Ia tidak menetapkan keputusan pendidikan baru dan tidak mengubah 14 atribut soal.
 
 | No. | Perangkat | Berkas | Fungsi yang tersedia | Status awal |
 |---:|---|---|---|---|
-| 1 | Ekstraktor kompetensi | `scripts/competency_extractor.py` | Membaca tabel Markdown atau manifest JSON dan mempertahankan field yang tertulis eksplisit. | Draf |
+| 1 | Ekstraktor kompetensi | `scripts/competency_extractor.py` | Membaca tabel Markdown atau manifest JSON dan mempertahankan field yang tertulis eksplisit. | Dalam verifikasi |
 | 2 | Generator identitas | `scripts/question_id_generator.py` | Membuat ID soal sesuai format Bab 19.1 dan membatasi jenis/nomor soal. | Draf |
 | 3 | Validator JSON | `scripts/json_validator.py` | Memeriksa tepat 14 atribut dan aturan bersyarat; dapat memeriksa parsial atau lengkap. | Draf |
 | 4 | Perangkat pembuatan gambar | `scripts/image_generator.py` | Menghasilkan SVG deterministik untuk stimulus programatis yang didukung. | Draf |
