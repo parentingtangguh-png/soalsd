@@ -24,7 +24,7 @@ Setiap persetujuan produksi harus mencantumkan:
 
 | ID tugas / indikator | Tahap | Lingkup | Status | Tindakan berikutnya |
 |---|---|---|---|---|
-| `MIG-T2-PERSIAPAN` | Tahap Migrasi 2 | AGENTS.md, lima skill, struktur, register, dan mekanisme persetujuan | Dalam verifikasi | Periksa commit `0816f76`, selesaikan temuan, lalu ajukan bukti |
+| `MIG-T2-PERSIAPAN` | Tahap Migrasi 2 | AGENTS.md, lima skill, struktur, register, dan mekanisme persetujuan | Menunggu persetujuan | Ajukan `docs/pengajuan_MIG-T2-PERSIAPAN.md`; jangan mulai Tahap 3 sebelum keputusan |
 | `MIG-T3-PERANGKAT` | Tahap Migrasi 3 | Delapan perangkat produksi | Belum dimulai | Menunggu Tahap 2 disetujui |
 | `MIG-T4-VERIFIKASI` | Tahap Migrasi 4 | Verifikasi lingkungan produksi | Belum dimulai | Menunggu perangkat tersedia |
 | `IND-MTK-A-K1-B.1-KM01-I01` | Tahap 1 penyusunan | Analisis dan rancangan empat jenis soal | Belum dimulai | Menunggu Tahap 4 dan persiapan produksi |
