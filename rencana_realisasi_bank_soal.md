@@ -5,7 +5,7 @@
 - **Fungsi:** panduan kerja hidup menuju produksi Bank Soal SD.
 - **Acuan utama:** [dokumen induk V5-salinan 61](<ringkasan_bank_soal_sd_v5-salinan 61.md>), AGENTS.md, dan keputusan Romo yang telah disetujui.
 - **Tanggal pembaruan terakhir:** 27 November 2026.
-- **Status keseluruhan:** Gerbang 1 lulus pada checkout kerja; Gerbang 2 menunggu persetujuan. Produksi soal belum boleh dimulai.
+- **Status keseluruhan:** Gerbang 1 lulus pada checkout kerja; Gerbang 2 disetujui dan menunggu finalisasi di `main`. Tahap 3 dan produksi soal belum dimulai.
 - **Aturan pembaruan:** status hanya boleh berubah berdasarkan pekerjaan dan pemeriksaan aktual, bukan berdasarkan rencana, keberadaan kode, atau asumsi.
 
 ## Keputusan ruang lingkup
@@ -134,7 +134,7 @@ Delapan perangkat tersedia, dapat dijalankan, dan hasil pengujian awalnya terdok
 
 ### Status aktual
 
-**Menunggu persetujuan.** Dua skill yang sudah ada telah dibaca dan rujukan acuan diselaraskan ke V5 aktif. Tiga skill yang belum tersedia telah dibuat: `generator-html`, `verifikasi-bank-soal`, dan `pembaruan-register`. Struktur register, catatan persetujuan, struktur direktori, dan direktori bukti antiduplikasi telah disiapkan. Commit `0816f76`, `7eee7ad`, dan `09d5608` telah dibuat pada branch kerja. Pengajuan formal tersedia pada `docs/pengajuan_MIG-T2-PERSIAPAN.md`. Tahap ini belum disetujui dan belum mencakup delapan perangkat produksi.
+**Disetujui, menunggu finalisasi.** Dua skill yang sudah ada telah dibaca dan rujukan acuan diselaraskan ke V5 aktif. Tiga skill yang belum tersedia telah dibuat: `generator-html`, `verifikasi-bank-soal`, dan `pembaruan-register`. Struktur register, catatan persetujuan, struktur direktori, dan direktori bukti antiduplikasi telah disiapkan. Commit `0816f76`, `7eee7ad`, `09d5608`, `25b95d1`, dan `1811052` telah dibuat pada branch kerja. PR #7 telah disetujui Romo. Tahap ini menunggu finalisasi pada `main` dan belum mencakup delapan perangkat produksi.
 
 ---
 
@@ -379,6 +379,7 @@ Jika perubahan memengaruhi soal, gambar, metode, rubrik, HTML, JSON, koleksi pem
 | 27 November 2026 | Gerbang 2 | Artefak persiapan dicatat dalam commit draft. Validasi struktur kelima skill lulus. Pemeriksaan `git diff --check` menemukan tiga trailing whitespace pada rumusan V5 yang disalin verbatim; tidak diubah sepihak. | Commit `0816f76`; hasil validator skill-creator: kelima skill valid. | Dalam verifikasi; temuan format tercatat |
 | 27 November 2026 | Gerbang 2 | Register dan panduan progres diperbarui untuk mencatat commit serta status verifikasi. | Commit `7eee7ad`. | Dalam verifikasi; menunggu persetujuan Tahap 2 |
 | 27 November 2026 | Gerbang 2 | Pengajuan formal Tahap Migrasi 2 dibuat, status register diubah menjadi Menunggu persetujuan, dan pull request dibuka. | `docs/pengajuan_MIG-T2-PERSIAPAN.md`; PR `#7`; commit pengajuan `25b95d1`. | Menunggu persetujuan Romo |
+| 27 November 2026 | Gerbang 2 | Persetujuan Romo diterima untuk lingkup PR #7 berdasarkan commit `1811052`. | Catatan persetujuan; PR `#7`. | Disetujui, menunggu finalisasi di `main` |
 | 27 November 2026 | Gerbang 3–7 | Belum ada pembangunan delapan perangkat, verifikasi lingkungan, produksi soal, atau finalisasi indikator. | Belum tersedia. | Belum dimulai |
 
 ## Rujukan dokumen induk

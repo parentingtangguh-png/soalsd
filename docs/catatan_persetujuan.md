@@ -19,12 +19,13 @@ Setiap persetujuan produksi harus mencantumkan:
 | Tanggal | Lingkup | Keputusan | Status bukti formal |
 |---|---|---|---|
 | 27 November 2026 | Komponen 1 / cakupan CP | Kesenjangan tetap dicatat sebagai isu Komponen 1 dan tidak ditutup sepihak. | Keputusan percakapan; perlu dikaitkan dengan commit/register pada pengajuan resmi |
+| 27 November 2026 | `MIG-T2-PERSIAPAN` / Tahap Migrasi 2 | Tahap 2 disetujui dalam lingkup PR #7: AGENTS.md, dokumen induk V5, lima skill, struktur direktori, register, dan catatan persetujuan. | Disetujui Romo berdasarkan PR #7 dan commit yang diperiksa `1811052`; finalisasi PR dan pencatatan pada `main` menjadi tindakan berikutnya |
 
 ## Persetujuan yang masih diperlukan
 
 | ID tugas / indikator | Tahap | Lingkup | Status | Tindakan berikutnya |
 |---|---|---|---|---|
-| `MIG-T2-PERSIAPAN` | Tahap Migrasi 2 | AGENTS.md, lima skill, struktur, register, dan mekanisme persetujuan | Menunggu persetujuan | Pull request #7 terbuka; jangan mulai Tahap 3 sebelum keputusan |
+| `MIG-T2-PERSIAPAN` | Tahap Migrasi 2 | AGENTS.md, lima skill, struktur, register, dan mekanisme persetujuan | Disetujui, menunggu finalisasi | Finalisasi PR #7; setelah masuk `main`, siapkan Tahap 3 |
 | `MIG-T3-PERANGKAT` | Tahap Migrasi 3 | Delapan perangkat produksi | Belum dimulai | Menunggu Tahap 2 disetujui |
 | `MIG-T4-VERIFIKASI` | Tahap Migrasi 4 | Verifikasi lingkungan produksi | Belum dimulai | Menunggu perangkat tersedia |
 | `IND-MTK-A-K1-B.1-KM01-I01` | Tahap 1 penyusunan | Analisis dan rancangan empat jenis soal | Belum dimulai | Menunggu Tahap 4 dan persiapan produksi |
