@@ -378,7 +378,7 @@ Jika perubahan memengaruhi soal, gambar, metode, rubrik, HTML, JSON, koleksi pem
 | 27 November 2026 | Gerbang 2 | Tiga skill tambahan dibuat, dua skill lama dibaca dan rujukan V5 diperbarui, struktur register/persetujuan/antiduplikasi disiapkan. | `.agents/skills/`; `docs/register_bank_soal.md`; `docs/catatan_persetujuan.md`; `docs/struktur_direktori.md`; `docs/antiduplikasi/`. | Dalam verifikasi |
 | 27 November 2026 | Gerbang 2 | Artefak persiapan dicatat dalam commit draft. Validasi struktur kelima skill lulus. Pemeriksaan `git diff --check` menemukan tiga trailing whitespace pada rumusan V5 yang disalin verbatim; tidak diubah sepihak. | Commit `0816f76`; hasil validator skill-creator: kelima skill valid. | Dalam verifikasi; temuan format tercatat |
 | 27 November 2026 | Gerbang 2 | Register dan panduan progres diperbarui untuk mencatat commit serta status verifikasi. | Commit `7eee7ad`. | Dalam verifikasi; menunggu persetujuan Tahap 2 |
-| 27 November 2026 | Gerbang 2 | Pengajuan formal Tahap Migrasi 2 dibuat dan status register diubah menjadi Menunggu persetujuan. | `docs/pengajuan_MIG-T2-PERSIAPAN.md`; commit pengajuan berikutnya. | Menunggu persetujuan Romo |
+| 27 November 2026 | Gerbang 2 | Pengajuan formal Tahap Migrasi 2 dibuat, status register diubah menjadi Menunggu persetujuan, dan pull request dibuka. | `docs/pengajuan_MIG-T2-PERSIAPAN.md`; PR `#7`; commit pengajuan `25b95d1`. | Menunggu persetujuan Romo |
 | 27 November 2026 | Gerbang 3–7 | Belum ada pembangunan delapan perangkat, verifikasi lingkungan, produksi soal, atau finalisasi indikator. | Belum tersedia. | Belum dimulai |
 
 ## Rujukan dokumen induk
