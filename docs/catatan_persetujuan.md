@@ -19,7 +19,8 @@ Setiap persetujuan produksi harus mencantumkan:
 | Tanggal | Lingkup | Keputusan | Status bukti formal |
 |---|---|---|---|
 | 27 November 2026 | Komponen 1 / cakupan CP | Kesenjangan tetap dicatat sebagai isu Komponen 1 dan tidak ditutup sepihak. | Keputusan percakapan; perlu dikaitkan dengan commit/register pada pengajuan resmi |
-| 27 November 2026 | `MIG-T2-PERSIAPAN` / Tahap Migrasi 2 | Tahap 2 disetujui dan difinalkan dalam lingkup PR #7: AGENTS.md, dokumen induk V5, lima skill, struktur direktori, register, dan catatan persetujuan. | Disetujui Romo berdasarkan PR #7 dan commit yang diperiksa `1811052`; tercatat pada `1c28b3e` dan masuk `main` melalui merge commit `14e156a` |\n| 27 November 2026 | `MIG-T3-PERANGKAT` / Tahap Migrasi 3 | Delapan perangkat produksi, fixture sintetis, suite teknis, dan uji CLI. | Disetujui Romo berdasarkan PR #9 dan commit yang diperiksa `81acc59`; masuk `main` melalui merge commit `5d01801` |
+| 27 November 2026 | `MIG-T2-PERSIAPAN` / Tahap Migrasi 2 | Tahap 2 disetujui dan difinalkan dalam lingkup PR #7: AGENTS.md, dokumen induk V5, lima skill, struktur direktori, register, dan catatan persetujuan. | Disetujui Romo berdasarkan PR #7 dan commit yang diperiksa `1811052`; tercatat pada `1c28b3e` dan masuk `main` melalui merge commit `14e156a` |
+| 27 November 2026 | `MIG-T3-PERANGKAT` / Tahap Migrasi 3 | Delapan perangkat produksi, fixture sintetis, suite teknis, dan uji CLI. | Disetujui Romo berdasarkan PR #9 dan commit yang diperiksa `81acc59`; masuk `main` melalui merge commit `5d01801` |
 
 ## Status persetujuan dan pekerjaan berikutnya
 
