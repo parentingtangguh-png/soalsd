@@ -24,12 +24,12 @@ Penerapan skill tidak memberikan kewenangan untuk memulai produksi sebelum tahap
 Gunakan sumber resmi yang telah disetujui, dengan hierarki:
 
 1. Keputusan Romo yang telah disetujui.
-2. Dokumen induk V4 terbaru yang ditetapkan sebagai acuan bersama.
+2. Dokumen induk final V5-salinan 61 yang ditetapkan sebagai acuan bersama.
 3. Rancangan indikator yang telah disetujui.
 4. AGENTS.md dan SKILL.md yang relevan.
 5. Instruksi penugasan Codex.
 
-Dokumen induk resmi pada saat perumusan skill ini adalah `docs/ringkasan_bank_soal_sd_v4-51.md`.
+Dokumen induk aktif pada saat pelaksanaan adalah `ringkasan_bank_soal_sd_v5-salinan 61.md` di root repositori. Rujukan V4-51 di bagian lain dibaca sebagai riwayat jika telah digantikan oleh V5.
 
 Gunakan khususnya:
 
@@ -50,7 +50,7 @@ Terapkan lima ketentuan keputusan khusus Romo mengenai perangkat pembuatan gamba
 2. Pembuatan gambar menggunakan metode programatis.
 3. Python Pillow, SVG programatis, Matplotlib, serta Blender dan Python API merupakan kandidat yang akan dievaluasi pada Tahap 3.
 4. AI Image Generation tidak digunakan sebagai metode alternatif ketika terdapat kesulitan teknis.
-5. Keputusan terbaru tersebut membatasi ketentuan terdahulu mengenai alat generasi gambar pada Bab 20.4 V4-51 tanpa mengubah dokumen induk pada pembahasan ini.
+5. Keputusan terbaru tersebut membatasi ketentuan terdahulu mengenai alat generasi gambar; gunakan dokumen induk V5 aktif dan jangan menghidupkan kembali ketentuan historis yang telah digantikan.
 
 Keputusan tersebut berlaku sesuai hierarki kewenangan yang telah ditetapkan.
 
