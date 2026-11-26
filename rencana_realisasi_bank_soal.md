@@ -134,7 +134,11 @@ Delapan perangkat tersedia, dapat dijalankan, dan hasil pengujian awalnya terdok
 
 ### Status aktual
 
-**Final untuk persiapan migrasi Tahap 2.** Persetujuan Romo dicatat pada commit `1c28b3e`; PR #7 masuk `main` melalui merge `14e156a`, dan statusnya diperbarui melalui PR #8 (merge `69d3418`). Delapan perangkat Tahap Migrasi 3 dicatat pada Gerbang ini sebagai pekerjaan terpisah.
+**Dalam verifikasi.** Delapan perangkat Tahap Migrasi 3 telah dibuat pada branch `build/tahap-3-perangkat`, disertai fixture sintetis, suite unit, dan uji CLI. Suite teknis lulus 7 uji. Verifikasi integrasi, browser, visual aktual, dan dua belas kelompok uji antiduplikasi belum dijalankan.
+
+### Tindakan berikutnya
+
+Selesaikan verifikasi teknis yang relevan dan ajukan persetujuan Tahap 3. Jangan membuka Gerbang 3 atau memulai produksi soal sebelum perangkat disetujui dan verifikasi lingkungan dilaksanakan.
 
 ---
 
