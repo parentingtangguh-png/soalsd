@@ -20,7 +20,7 @@ Status **Final** hanya digunakan setelah hasil disetujui, disimpan, diverifikasi
 | Tahap | Lingkup | Status | Bukti | Kendala / tindakan berikutnya |
 |---:|---|---|---|---|
 | 1 | Inisialisasi repositori | Lulus pada checkout kerja | Checkout branch kerja dari `parentingtangguh-png/soalsd`, commit dasar `13dbb56172cc965c37f250cd67856bdf628d716c` | V5 aktif disiapkan pada branch kerja; belum masuk `main` |
-| 2 | AGENTS.md, lima skill, struktur, register, persetujuan | Disetujui, menunggu finalisasi | Branch `setup/tahap-2-persiapan`, commit diperiksa `1811052`, PR `#7` | Finalisasi PR #7; Tahap 3 belum dimulai |
+| 2 | AGENTS.md, lima skill, struktur, register, persetujuan | Final | Branch `setup/tahap-2-persiapan`, commit diperiksa `1811052`, persetujuan dicatat pada `1c28b3e`, merge commit `14e156a`, PR `#7` | Tahap 3 dapat diajukan/dimulai sesuai persetujuan; belum dimulai |
 | 3 | Delapan perangkat produksi | Belum dimulai | Belum tersedia | Menunggu Tahap 2 selesai dan disetujui |
 | 4 | Verifikasi lingkungan produksi | Belum dimulai | Belum tersedia | Menunggu perangkat tersedia |
 | 5 | Analisis indikator pertama | Belum dimulai | Belum tersedia | Menunggu Tahap 4 lulus dan persiapan produksi disetujui |
