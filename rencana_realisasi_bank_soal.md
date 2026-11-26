@@ -5,7 +5,7 @@
 - **Fungsi:** panduan kerja hidup menuju produksi Bank Soal SD.
 - **Acuan utama:** [dokumen induk V5-salinan 61](<ringkasan_bank_soal_sd_v5-salinan 61.md>), AGENTS.md, dan keputusan Romo yang telah disetujui.
 - **Tanggal pembaruan terakhir:** 27 November 2026.
-- **Status keseluruhan:** Persiapan migrasi Tahap 2 dan pembangunan perangkat Tahap 3 telah final di `main`; Tahap 4, analisis indikator, dan produksi soal belum dimulai.
+- **Status keseluruhan:** Persiapan migrasi Tahap 2 dan pembangunan perangkat Tahap 3 telah final di `main`; Tahap Migrasi 4 sedang dalam verifikasi; analisis indikator dan produksi soal belum dimulai.
 - **Aturan pembaruan:** status hanya boleh berubah berdasarkan pekerjaan dan pemeriksaan aktual, bukan berdasarkan rencana, keberadaan kode, atau asumsi.
 
 ## Keputusan ruang lingkup
@@ -134,7 +134,7 @@ Delapan perangkat tersedia, dapat dijalankan, dan hasil pengujian awalnya terdok
 
 ### Status aktual
 
-**Final.** Romo menyetujui PR #9 berdasarkan commit yang diperiksa `81acc59`; PR #9 masuk `main` melalui merge `5d01801`. Delapan perangkat, fixture sintetis, suite unit, dan uji CLI tersedia; suite teknis lulus 7 uji. Verifikasi integrasi, browser, visual aktual, dan dua belas kelompok uji antiduplikasi menjadi pekerjaan Tahap 4.
+**Final.** Romo menyetujui PR #9 berdasarkan commit yang diperiksa `81acc59`; PR #9 masuk `main` melalui merge `5d01801`, dan statusnya difinalkan melalui PR #10 (merge `9e5973b`). Delapan perangkat, fixture sintetis, suite unit, dan uji CLI tersedia; suite teknis lulus 7 uji. Verifikasi integrasi, browser, visual aktual, dan dua belas kelompok uji antiduplikasi menjadi pekerjaan Tahap 4.
 
 ### Tindakan berikutnya
 
@@ -185,7 +185,11 @@ Seluruh pemeriksaan wajib selesai, tidak ada kegagalan yang belum ditangani, dan
 
 ### Status aktual
 
-**Belum dimulai.**
+**Dalam verifikasi.** Pemeriksaan sintetis struktural, integrasi perangkat, HTML offline, stimulus SVG, hierarki, register, dan dua belas kelompok kasus antiduplikasi teknis telah dijalankan. Browser desktop lulus untuk Mode Pemeriksaan, Mode Pengerjaan, respons otomatis, ceklis orang tua, laporan, percabangan, dan ketuntasan. Uji tablet/ponsel belum tersedia karena tool browser tidak menyediakan kontrol viewport; pemeriksaan pedagogis dan empiris juga belum dilakukan.
+
+### Tindakan berikutnya
+
+Selesaikan uji lintas ukuran layar dengan perangkat yang menyediakan kontrol viewport dan dokumentasikan status pedagogis/visual yang relevan. Tahap 4 belum boleh diajukan sebagai Final atau membuka produksi soal.
 
 ---
 
@@ -384,7 +388,8 @@ Jika perubahan memengaruhi soal, gambar, metode, rubrik, HTML, JSON, koleksi pem
 | 27 November 2026 | Gerbang 2 | Register dan panduan progres diperbarui untuk mencatat commit serta status verifikasi. | Commit `7eee7ad`. | Dalam verifikasi; menunggu persetujuan Tahap 2 |
 | 27 November 2026 | Gerbang 2 | Pengajuan formal Tahap Migrasi 2 dibuat, status register diubah menjadi Menunggu persetujuan, dan pull request dibuka. | `docs/pengajuan_MIG-T2-PERSIAPAN.md`; PR `#7`; commit pengajuan `25b95d1`. | Menunggu persetujuan Romo |
 | 27 November 2026 | Gerbang 2 | Persetujuan Romo diterima dan PR #7 difinalkan ke `main` berdasarkan commit `1811052`. | Catatan persetujuan `1c28b3e`; PR `#7`; merge commit `14e156a`. | Final |
-| 27 November 2026 | Tahap 3 / Gerbang 2 | Persetujuan Romo diterima dan Tahap 3 difinalkan ke `main`. Suite teknis lulus 7 uji; belum ada perubahan soal atau produksi. | Catatan persetujuan; PR `#9`; merge commit `5d01801`. | Final |
+| 27 November 2026 | Tahap 3 / Gerbang 2 | Persetujuan Romo diterima dan Tahap 3 difinalkan ke `main`. Suite teknis lulus 7 uji; belum ada perubahan soal atau produksi. | Catatan persetujuan; PR `#9`; merge commit `5d01801`; finalisasi PR `#10` merge `9e5973b`. | Final |
+| 27 November 2026 | Tahap 4 / Gerbang 3 | Verifikasi sintetis struktural dan fungsional dijalankan; browser desktop menampilkan stimulus/hierarki dan menguji alur penilaian; dua belas kelompok kasus antiduplikasi teknis dijalankan. | `docs/verifikasi_tahap4.md`; `scripts/stage4_verify.py`; artefak uji lokal; bukti sesi browser. | Dalam verifikasi; uji tablet/ponsel dan pemeriksaan pedagogis masih terbuka |
 
 ## Rujukan dokumen induk
 
@@ -398,3 +403,4 @@ Jika perubahan memengaruhi soal, gambar, metode, rubrik, HTML, JSON, koleksi pem
 - Bab 20.6: empat tingkat pemeriksaan.
 - Bab 20.7: persetujuan dan register.
 - Bab 20.8: lima tahap migrasi.
+
