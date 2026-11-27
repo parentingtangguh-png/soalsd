@@ -1,0 +1,67 @@
+# Analisis dan rancangan — IND-MTK-A-K1-B.1-KM03-I01
+
+## Status
+
+- ID tugas: ANL-IND-MTK-A-K1-B.1-KM03-I01
+- Tahap: Tahap 1 penyusunan indikator — analisis dan rancangan empat jenis soal.
+- Status: Draf analisis, menunggu verifikasi dan persetujuan hasil.
+- Batas: Belum ada soal produksi, JSON, HTML final, atau gambar produksi.
+- Dasar persetujuan: pengajuan analisis 10 indikator disetujui melalui PR #14.
+
+## Ketertelusuran
+
+| Unsur | Identitas | Isi |
+|---|---|---|
+| CP | CP-MTK-A-1.1 | Bilangan cacah sampai 100; nilai tempat; perbandingan dan pengurutan; komposisi/dekomposisi; penjumlahan dan pengurangan sampai 20; setengah dan seperempat. |
+| ATP | Kelas 1, urutan 1 | Membilang, subitasi, dan membandingkan jumlah benda. |
+| TP | B.1 | Membilang, subitasi, dan membandingkan jumlah benda. |
+| KM | KM-MTK-A-K1-B.1-03 | Membandingkan dua kumpulan benda dan menyatakan sama banyak, lebih banyak, atau lebih sedikit. |
+| Indikator | IND-MTK-A-K1-B.1-KM03-I01 | Rumusan verbatim diambil dari dokumen induk/hierarki. |
+| Kategori | II | Kategori II — menggunakan informasi kuantitas untuk menentukan hubungan dua kumpulan. |
+
+**Rumusan indikator verbatim:**
+
+> Wajib disalin dari baris indikator IND-MTK-A-K1-B.1-KM03-I01 pada dokumen hierarki saat berkas produksi dibuat.
+
+## Hasil analisis kompetensi
+
+- Tuntutan utama: menggunakan informasi kuantitas untuk menentukan hubungan dua kumpulan.
+- Stimulus: Gambar dua kumpulan benda yang disediakan sistem; variasi susunan tidak boleh mengubah sasaran menjadi operasi atau selisih.
+- Respons yang harus dibuktikan: Memilih atau menyatakan hubungan sama banyak, lebih banyak, atau lebih sedikit.
+- Metode penilaian awal: OTOMATIS sebagai arah utama jika pilihan A/B/C membuktikan relasi; ORANG_TUA bila bentuk respons memerlukannya.
+- Rubrik/instrumen awal: Satu bukti esensial: hubungan jumlah dan arah perbandingan dinyatakan tepat. Bobot tidak dipecah bila responsnya satu kesatuan.
+- Batas dan risiko: Batas numerik dan strategi perbandingan belum ditetapkan; ketiga hubungan harus terwakili tanpa kuota baru.
+
+Semua soal DIA, PGT, PYN, dan CU tetap mengukur kategori II. Perbedaannya berada pada fungsi bantuan, konteks, variasi, dan kompleksitas relatif; bukan perubahan kompetensi.
+
+## Rancangan empat jenis soal
+
+| Jenis | Fungsi | Kendali bukti |
+|---|---|---|
+| Diagnostik | Mengambil bukti awal secara langsung terhadap tuntutan utama indikator. | Bantuan secukupnya; tidak mengambil alih kemampuan. |
+| Penguatan | Memberi penjelasan konsep dan penerapan nyata. | Variasi terarah dengan bantuan yang tetap menjaga bukti kompetensi. |
+| Pengayaan | Memperluas konteks atau representasi tanpa keluar dari indikator. | Penjelasan konsep dan penerapan nyata tetap wajib. |
+| Cek Ulang | Memeriksa kembali penguasaan setelah lintasan belajar. | Lebih kompleks daripada Diagnostik, tetap dalam batas indikator. |
+
+Masing-masing jenis kelak terdiri atas 10 soal. Kompleksitas dalam satu kelompok relatif seragam. Empat puluh soal belum dibuat dan belum dapat dinyatakan lulus.
+
+## Stimulus dan gambar
+
+Stimulus berasal dari tuntutan indikator dan dikendalikan sistem. Orang tua tidak diminta mencari perlengkapan tambahan. Jika stimulus visual dipakai, soal produksi harus memuat butuh_gambar, image_description, dan image_spec sesuai Bab 19.6. Deskripsi stimulus saja belum merupakan gambar terverifikasi.
+
+## Antiduplikasi
+
+Sebelum produksi, periksa koleksi pembanding global. Pemeriksaan dilakukan sebelum produksi, per butir, per kelompok, setelah revisi, saat verifikasi 40 soal, dan sebelum finalisasi. Periksa identitas, konten, struktur, semantik, dan visual; kemiripan yang masih merupakan variasi sah tidak otomatis ditolak. Bukti disimpan terpisah dari 14 atribut soal.
+
+## Gerbang berikutnya
+
+1. Verifikasi substansi analisis terhadap dokumen induk dan hierarki.
+2. Ajukan hasil analisis untuk persetujuan Romo.
+3. Setelah disetujui, lanjut ke penyusunan 10 Diagnostik.
+4. Jangan membuat soal produksi sebelum gerbang hasil analisis disetujui.
+
+## Keputusan batas
+
+- CP, ATP, TP, KM, indikator, kategori, dan batas pendidikan tidak diubah.
+- Temuan belum ditetapkan atau belum terbukti dipertahankan sebagai isu verifikasi, bukan diisi sepihak.
+- Hasil ini belum merupakan persetujuan produksi.
