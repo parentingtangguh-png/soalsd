@@ -104,13 +104,17 @@ def rubrics(kind: str):
 def svg_for(kind: str, data: dict) -> str:
     if kind in {"count", "subitize", "match"}:
         n = data["n"]
+        shape = data.get("shape", "lingkaran")
         cols = min(n, 10)
         rows = (n + cols - 1) // cols
         shapes = []
         for i in range(n):
             x = 30 + (i % cols) * 48
             y = 30 + (i // cols) * 48
-            shapes.append(f'<circle cx="{x}" cy="{y}" r="14" fill="#2563eb"/>')
+            if shape == "persegi":
+                shapes.append(f'<rect x="{x - 14}" y="{y - 14}" width="28" height="28" fill="#2563eb"/>')
+            else:
+                shapes.append(f'<circle cx="{x}" cy="{y}" r="14" fill="#2563eb"/>')
         w, h = 60 + cols * 48, 60 + rows * 48
         return f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {w} {h}" role="img">{"".join(shapes)}</svg>\n'
     if kind == "compare":
@@ -538,7 +542,7 @@ def write_svg(question: dict, meta: dict):
     data_index = (idx + type_index * 3) % 10
     if kind == "count":
         n = COUNTS[(idx + (0 if typ == "DIA" else 2 if typ == "PGT" else 4 if typ == "PYN" else 1)) % len(COUNTS)]
-        svg_kind = "count"; data = {"n": n}
+        svg_kind = "count"; data = {"n": n, "shape": "lingkaran" if idx % 2 == 0 else "persegi"}
     elif kind == "subitize":
         svg_kind = "subitize"; data = {"n": [3, 4, 5, 6, 4, 5, 3, 6, 5, 4][data_index]}
     elif kind == "compare":

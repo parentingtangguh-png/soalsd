@@ -37,6 +37,7 @@ HTML audit gabungan adalah `bank_soal/MTK/A/K1/MTK-A-K1-10-INDIKATOR-400.html`. 
 | Metode/respons | **Lulus struktural** | Soal otomatis memiliki A/B/C dan kunci; soal `ORANG_TUA` memiliki rubrik serta pilihan/kunci `null`. |
 | Konsep/penerapan | **Lulus struktural** | Penguatan dan Pengayaan terisi; Diagnostik dan Cek Ulang `null` sesuai aturan generator. |
 | Stimulus | **Lulus struktural** | 160 file SVG aktual ditemukan dan disematkan pada HTML; pemeriksaan pedagogis/visual penuh belum selesai. |
+| Konsistensi bentuk count | **Lulus programatis** | 40/40 stimulus indikator membilang telah dicocokkan: deskripsi `lingkaran` menghasilkan lingkaran dan deskripsi `persegi` menghasilkan persegi. |
 | Antiduplikasi persis | **Lulus** | 0 duplikasi isi persis. |
 | Kandidat kemiripan | **Dalam verifikasi** | 52 kandidat pada ambang 0,86; seluruhnya berada dalam variasi terkontrol pada indikator yang sama, tetapi memerlukan pemeriksaan pedagogis manual sebelum status Final. |
 | Fungsional browser | **Belum diuji** | Menunggu uji aktual pada HTML batch dan HTML indikator. |
