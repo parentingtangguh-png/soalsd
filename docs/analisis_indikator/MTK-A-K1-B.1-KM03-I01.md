@@ -21,7 +21,7 @@
 
 **Rumusan indikator verbatim:**
 
-> Wajib disalin dari baris indikator IND-MTK-A-K1-B.1-KM03-I01 pada dokumen hierarki saat berkas produksi dibuat.
+> Membandingkan banyak benda dalam dua kumpulan yang ditampilkan melalui gambar, kemudian menentukan dan menyatakan hubungan jumlah kedua kumpulan secara tepat menggunakan istilah sama banyak, lebih banyak, atau lebih sedikit.
 
 ## Hasil analisis kompetensi
 
