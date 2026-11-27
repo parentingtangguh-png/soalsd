@@ -21,7 +21,7 @@
 
 **Rumusan indikator verbatim:**
 
-> Wajib disalin dari baris indikator IND-MTK-A-K1-B.1-KM02-I01 pada dokumen hierarki saat berkas produksi dibuat.
+> Menentukan banyak benda dalam satu kumpulan kecil yang ditampilkan melalui gambar secara langsung tanpa menghitung benda satu per satu, serta menyatakan jumlahnya dengan tepat.
 
 ## Hasil analisis kompetensi
 
