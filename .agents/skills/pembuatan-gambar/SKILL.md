@@ -24,12 +24,12 @@ Penerapan skill tidak memberikan kewenangan untuk memulai produksi sebelum tahap
 Gunakan sumber resmi yang telah disetujui, dengan hierarki:
 
 1. Keputusan Romo yang telah disetujui.
-2. Dokumen induk final V5-salinan 61 yang ditetapkan sebagai acuan bersama.
+2. Dokumen induk final V5-salinan 62 (setelah penetapan eksplisit) yang ditetapkan sebagai acuan bersama.
 3. Rancangan indikator yang telah disetujui.
 4. AGENTS.md dan SKILL.md yang relevan.
 5. Instruksi penugasan Codex.
 
-Dokumen induk aktif pada saat pelaksanaan adalah `ringkasan_bank_soal_sd_v5-salinan 61.md` di root repositori. Rujukan V4-51 di bagian lain dibaca sebagai riwayat jika telah digantikan oleh V5.
+Dokumen induk aktif pada saat pelaksanaan adalah `ringkasan_bank_soal_sd_v5-salinan 62.md` di root repositori. Rujukan V4-51 di bagian lain dibaca sebagai riwayat jika telah digantikan oleh V5.
 
 Gunakan khususnya:
 
