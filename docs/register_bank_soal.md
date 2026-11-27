@@ -31,7 +31,7 @@ Belum ada soal produksi. Draf, data uji, dan ilustrasi tidak dihitung sebagai so
 
 | ID indikator | Tahap aktif | JSON | HTML | Gambar | Status soal | Status verifikasi | Persetujuan |
 |---|---|---|---|---|---|---|---|
-| `IND-MTK-A-K1-B.1-KM01-I01` | Tahap 1 — analisis (Final) | Belum ada | Belum ada | Belum ada | Belum dimulai | Final | PR #15 merged |
+| `IND-MTK-A-K1-B.1-KM01-I01` | Tahap 2 — pengajuan 10 Diagnostik | Belum ada | Belum ada | Belum ada | Menunggu persetujuan | Final | PR #27 |
 | `IND-MTK-A-K1-B.1-KM02-I01` | Tahap 1 — analisis (Final) | Belum ada | Belum ada | Belum ada | Belum dimulai | Final | PR #16 merged |
 | `IND-MTK-A-K1-B.1-KM03-I01` | Tahap 1 — analisis (Final) | Belum ada | Belum ada | Belum ada | Belum dimulai | Final | PR #17 merged |
 | `IND-MTK-A-K1-B.3-KM01-I01` | Tahap 1 — analisis (Final) | Belum ada | Belum ada | Belum ada | Belum dimulai | Final | PR #18 merged |
