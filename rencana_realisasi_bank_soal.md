@@ -222,7 +222,7 @@ Romo menyetujui persiapan produksi berdasarkan bukti aktual Gerbang 1–3.
 
 ### Batas
 
-Persetujuan ini membuka analisis dan rancangan, maar nog niet de productie van vraagitems.
+Persetujuan ini membuka analisis dan rancangan, tetapi belum menyetujui penyusunan butir soal.
 
 ---
 
