@@ -7,7 +7,7 @@
 - **Lingkup:** Verifikasi lingkungan produksi menggunakan data sintetis.
 - **Branch:** `verify/tahap-4-lingkungan`
 - **Pull request:** PR #12
-- **Status pengajuan:** Menunggu persetujuan.
+- **Status pengajuan:** Disetujui, menunggu finalisasi melalui merge PR #12.
 
 ## Acuan
 
@@ -27,7 +27,7 @@
 
 ## Pembaruan setelah pengajuan
 
-Uji responsif aktual kemudian dijalankan pada override 390×844 (ponsel) dan 768×1024 (tablet). Hierarki, stimulus, pilihan jawaban, dan Mode Pengerjaan tampil pada kedua ukuran; tidak ditemukan horizontal overflow atau error/warning console. Status uji tablet/ponsel diperbarui menjadi **Lulus**. Pemeriksaan pedagogis, substansi pendidikan, dan empiris tetap **Belum diuji**.
+Uji responsif aktual kemudian dijalankan pada override 390×844 (ponsel) dan 768×1024 (tablet). Hierarki, stimulus, pilihan jawaban, dan Mode Pengerjaan tampil pada kedua ukuran; tidak ditemukan horizontal overflow atau error/warning console. Status uji tablet/ponsel diperbarui menjadi **Lulus**. Romo menyetujui pengajuan ini untuk difinalkan melalui merge PR #12. Pemeriksaan pedagogis, substansi pendidikan, dan empiris tetap **Belum diuji pada fixture sintetis** dan wajib dilakukan saat indikator produksi diajukan.
 
 ## Keputusan Romo
 
@@ -35,7 +35,7 @@ Uji tablet/ponsel tetap dicatat **Belum diuji**, dan pengajuan Tahap 4 dilanjutk
 
 ## Permintaan persetujuan
 
-Mohon tinjau hasil Tahap 4 berdasarkan bukti aktual yang tersedia. Jika disetujui, tindakan berikutnya tetap dibatasi pada persiapan analisis indikator pertama sesuai gerbang yang berlaku; uji yang belum dilakukan tetap menjadi keterbatasan terbuka dan harus diselesaikan sebelum finalisasi lingkungan.
+Hasil Tahap 4 telah disetujui Romo berdasarkan bukti aktual yang tersedia. Tindakan berikutnya dibatasi pada Gerbang 4, yaitu persiapan produksi; persetujuan ini tidak menyetujui isi soal tertentu.
 
 ## Batas
 
