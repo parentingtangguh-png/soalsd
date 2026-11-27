@@ -1,6 +1,6 @@
 # Verifikasi Tahap Migrasi 4 — Lingkungan Produksi
 
-Status: **Dalam verifikasi**.
+Status: **Menunggu persetujuan**.
 
 Lingkup pemeriksaan ini hanya menggunakan data sintetis. Tidak ada soal produksi, data pribadi anak, atau hasil belajar nyata.
 
@@ -14,7 +14,7 @@ Lingkup pemeriksaan ini hanya menggunakan data sintetis. Tidak ada soal produksi
 | Antiduplikasi teknis | Lulus teknis | Dua belas kelompok kasus DUP-01–DUP-12 dijalankan; sinyal ID ganda, konten identik, kandidat kemiripan, visual, variasi, revisi, dan koleksi cabang terdeteksi sesuai fixture. |
 | Antiduplikasi pedagogis | Belum diuji | Semua keputusan pedagogis, variasi sah, dan alasan substantif tetap memerlukan pemeriksaan manusia. |
 | Substansi pendidikan | Belum diuji | Hierarki pada fixture bersifat sintetis; belum ada indikator produksi yang diajukan. |
-| Browser tablet/ponsel | Belum diuji | Tool browser yang tersedia tidak menyediakan kontrol viewport untuk ukuran tablet/ponsel. |
+| Browser tablet/ponsel | Lulus | Uji responsif aktual pada override 390×844 (ponsel) dan 768×1024 (tablet): hierarki, stimulus, pilihan jawaban, dan Mode Pengerjaan tampil; tidak ada horizontal overflow. |
 | Console browser | Lulus | Tidak ada error atau warning console pada sesi uji. |
 
 ## Perintah pemeriksaan
@@ -29,8 +29,8 @@ Hasil `stage4_verify.py` mencatat seluruh pemeriksaan teknis dan artefak sementa
 
 ## Batas dan tindakan berikutnya
 
-- Tahap 4 belum boleh berstatus Final karena uji tablet/ponsel dan pemeriksaan pedagogis/empiris belum tersedia.
+- Tahap 4 belum boleh berstatus Final karena pemeriksaan pedagogis/empiris dan substansi pendidikan masih belum tersedia.
 - Tidak ada produksi soal yang dimulai.
 - Tidak ada keputusan baru tentang CP, TP, KM, indikator, kategori, metode, atau penyimpanan hasil belajar.
-- Tindakan berikutnya adalah menjalankan uji lintas ukuran layar dengan perangkat yang menyediakan kontrol viewport, menyelesaikan pemeriksaan yang relevan, lalu mengajukan persetujuan Tahap 4.
+- Tindakan berikutnya adalah meninjau dan menyetujui pengajuan Tahap 4; keterbatasan pemeriksaan pedagogis/empiris tetap terbuka dan tidak boleh ditutup sepihak.
 
