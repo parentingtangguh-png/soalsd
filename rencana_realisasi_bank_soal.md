@@ -5,7 +5,7 @@
 - **Fungsi:** panduan kerja hidup menuju produksi Bank Soal SD.
 - **Acuan utama:** [dokumen induk V5-salinan 61](<ringkasan_bank_soal_sd_v5-salinan 61.md>), AGENTS.md, dan keputusan Romo yang telah disetujui.
 - **Tanggal pembaruan terakhir:** 27 November 2026.
-- **Status keseluruhan:** Tahap Migrasi 2, Tahap 3, dan Tahap 4 telah final di `main`; Gerbang 4 disetujui dan sedang difinalkan melalui PR #14; analisis 10 indikator akan dimulai sebagai 10 penugasan terpisah; produksi soal belum dimulai.
+- **Status keseluruhan:** Tahap Migrasi 2, Tahap 3, Tahap 4, dan Gerbang 4 telah final di `main`; analisis 10 indikator sedang dalam verifikasi melalui PR #15–#24 sebagai 10 penugasan terpisah; produksi soal belum dimulai.
 - **Aturan pembaruan:** status hanya boleh berubah berdasarkan pekerjaan dan pemeriksaan aktual, bukan berdasarkan rencana, keberadaan kode, atau asumsi.
 
 ## Keputusan ruang lingkup
@@ -218,7 +218,7 @@ Romo menyetujui persiapan produksi berdasarkan bukti aktual Gerbang 1–3.
 
 ### Status aktual
 
-**Disetujui, menunggu finalisasi.** Pengajuan `MIG-G4-PERSIAPAN-10-INDIKATOR` disetujui Romo; setelah PR #14 masuk `main`, analisis 10 indikator dimulai sebagai 10 penugasan terpisah. Belum ada permintaan untuk membuat soal produksi.
+**Final di `main`.** Pengajuan `MIG-G4-PERSIAPAN-10-INDIKATOR` masuk melalui PR #14 (merge `e27168a91b52c778a65715ac41ce8adb760dbdf9`). Analisis 10 indikator kini berjalan sebagai 10 penugasan terpisah melalui PR #15–#24; belum ada permintaan untuk membuat soal produksi.
 
 ### Batas
 
@@ -262,11 +262,7 @@ Menyusun dan memeriksa rancangan empat jenis soal sebelum membuat butir soal.
 
 ### Status aktual
 
-**Belum dimulai.**
-
-### Batas
-
-Gerbang ini hanya menghasilkan analisis dan rancangan. Belum boleh menghasilkan 40 soal.
+**Dalam verifikasi.** Sepuluh berkas analisis diajukan melalui PR #15–#24, masing-masing satu indikator. Gerbang ini hanya menghasilkan analisis dan rancangan; belum boleh menghasilkan 40 soal.
 
 ---
 
@@ -409,3 +405,5 @@ Jika perubahan memengaruhi soal, gambar, metode, rubrik, HTML, JSON, koleksi pem
 - Bab 20.7: persetujuan dan register.
 - Bab 20.8: lima tahap migrasi.
 
+
+| 27 November 2026 | Gerbang 4 / Gerbang 5 | PR #14 difinalkan di `main`; sepuluh penugasan analisis Tahap 1 dibuat terpisah, masing-masing memuat stimulus, respons, metode awal, rubrik awal, rancangan empat jenis, dan antiduplikasi. | PR #14 merge `e27168a91b52c778a65715ac41ce8adb760dbdf9`; PR #15–#24. | Gerbang 4 Final; analisis Dalam verifikasi; produksi belum dimulai |
