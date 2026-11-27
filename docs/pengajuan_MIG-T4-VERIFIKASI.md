@@ -25,6 +25,10 @@
 - Antiduplikasi pedagogis: **Belum diuji**.
 - Substansi pendidikan dan empiris: **Belum diuji** karena fixture bersifat sintetis.
 
+## Pembaruan setelah pengajuan
+
+Uji responsif aktual kemudian dijalankan pada override 390×844 (ponsel) dan 768×1024 (tablet). Hierarki, stimulus, pilihan jawaban, dan Mode Pengerjaan tampil pada kedua ukuran; tidak ditemukan horizontal overflow atau error/warning console. Status uji tablet/ponsel diperbarui menjadi **Lulus**. Pemeriksaan pedagogis, substansi pendidikan, dan empiris tetap **Belum diuji**.
+
 ## Keputusan Romo
 
 Uji tablet/ponsel tetap dicatat **Belum diuji**, dan pengajuan Tahap 4 dilanjutkan dengan status **Menunggu persetujuan**. Keputusan ini tidak mengubah status menjadi Final dan tidak membuka produksi soal.
