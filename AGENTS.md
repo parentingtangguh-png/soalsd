@@ -185,7 +185,7 @@ Jangan menyusun kelompok soal sebelum rancangan dan tahap sebelumnya disetujui.
 
 Setiap hasil kelompok soal wajib memenuhi 18 kriteria kualitas pada Bab 19.3.
 
-**Gerbang ceklis wajib sebelum pengajuan:** sebelum hasil soal, gambar, JSON, HTML, kelompok soal, atau verifikasi diajukan untuk persetujuan, seluruh kriteria kualitas yang berlaku harus diperiksa dan berstatus **Lulus** pada ceklis terdokumentasi. Status **Belum diuji**, **Gagal**, atau **Tidak berlaku tanpa alasan yang sah** menghentikan pengajuan. Ceklis harus mencantumkan ID indikator, tahap, versi berkas, commit, pemeriksa, tanggal, bukti, dan temuan. Pemeriksaan otomatis tidak menggantikan pemeriksaan substansi, visual, fungsional, antiduplikasi, atau persetujuan Romo.
+**Gerbang ceklis wajib sebelum pengajuan:** sebelum hasil soal, gambar, JSON, HTML, kelompok soal, atau verifikasi diajukan untuk persetujuan, seluruh kriteria kualitas yang berlaku harus diperiksa dan berstatus **Lulus** pada ceklis terdokumentasi. Status **Belum diuji**, **Gagal**, atau **Tidak berlaku tanpa alasan yang sah** menghentikan pengajuan. Ceklis harus mencantumkan ID indikator, tahap, versi berkas, commit, pemeriksa, tanggal, bukti, dan temuan. Pemeriksaan otomatis tidak menggantikan pemeriksaan substansi, visual, fungsional, antiduplikasi, atau persetujuan Romo. Gunakan `docs/metode_generate_soal.md` sebagai prosedur wajib; kemasan JSON/HTML tidak boleh mendahului draf user-facing, stimulus aktual, peta bukti, dan telaah lawan.
 
 Siapkan berkas nyata, gambar aktual jika diperlukan, dan laporan pemeriksaan sebelum mengajukan persetujuan.
 
