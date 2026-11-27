@@ -5,7 +5,7 @@
 - **Fungsi:** panduan kerja hidup menuju produksi Bank Soal SD.
 - **Acuan utama:** [dokumen induk V5-salinan 61](<ringkasan_bank_soal_sd_v5-salinan 61.md>), AGENTS.md, dan keputusan Romo yang telah disetujui.
 - **Tanggal pembaruan terakhir:** 27 November 2026.
-- **Status keseluruhan:** Tahap Migrasi 2, Tahap 3, Tahap 4, dan Gerbang 4 telah final di `main`; analisis 10 indikator sedang dalam verifikasi melalui PR #15–#24 sebagai 10 penugasan terpisah; produksi soal belum dimulai.
+- **Status keseluruhan:** Tahap Migrasi 2, Tahap 3, Tahap 4, Gerbang 4, dan analisis 10 indikator telah final di `main`; produksi soal belum dimulai.
 - **Aturan pembaruan:** status hanya boleh berubah berdasarkan pekerjaan dan pemeriksaan aktual, bukan berdasarkan rencana, keberadaan kode, atau asumsi.
 
 ## Keputusan ruang lingkup
@@ -262,7 +262,7 @@ Menyusun dan memeriksa rancangan empat jenis soal sebelum membuat butir soal.
 
 ### Status aktual
 
-**Dalam verifikasi.** Sepuluh berkas analisis diajukan melalui PR #15–#24, masing-masing satu indikator. Gerbang ini hanya menghasilkan analisis dan rancangan; belum boleh menghasilkan 40 soal.
+**Final di `main`.** Sepuluh berkas analisis, masing-masing satu indikator, telah disetujui dan masuk `main` melalui PR #15–#24. Gerbang ini hanya menghasilkan analisis dan rancangan; belum boleh menghasilkan 40 soal.
 
 ---
 
@@ -406,4 +406,4 @@ Jika perubahan memengaruhi soal, gambar, metode, rubrik, HTML, JSON, koleksi pem
 - Bab 20.8: lima tahap migrasi.
 
 
-| 27 November 2026 | Gerbang 4 / Gerbang 5 | PR #14 difinalkan di `main`; sepuluh penugasan analisis Tahap 1 dibuat terpisah, masing-masing memuat stimulus, respons, metode awal, rubrik awal, rancangan empat jenis, dan antiduplikasi. | PR #14 merge `e27168a91b52c778a65715ac41ce8adb760dbdf9`; PR #15–#24. | Gerbang 4 Final; analisis Dalam verifikasi; produksi belum dimulai |
+| 27 November 2026 | Gerbang 4 / Gerbang 5 | PR #14 dan PR #25 masuk `main`; sepuluh penugasan analisis Tahap 1 disetujui dan masuk `main`, masing-masing memuat stimulus, respons, metode awal, rubrik awal, rancangan empat jenis, dan antiduplikasi. | PR #15–#24 telah merge; register diperbarui. | Gerbang 4 Final; analisis Final; produksi belum dimulai |

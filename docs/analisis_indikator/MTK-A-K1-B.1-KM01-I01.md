@@ -4,7 +4,7 @@
 
 - ID tugas: ANL-IND-MTK-A-K1-B.1-KM01-I01
 - Tahap: Tahap 1 penyusunan indikator — analisis dan rancangan empat jenis soal.
-- Status: Draf analisis, menunggu verifikasi dan persetujuan hasil.
+- Status: Final — disetujui, diverifikasi, dan masuk `main`.
 - Batas: Belum ada soal produksi, JSON, HTML final, atau gambar produksi.
 - Dasar persetujuan: pengajuan analisis 10 indikator disetujui melalui PR #14.
 
@@ -56,8 +56,8 @@ Sebelum produksi, periksa koleksi pembanding global. Pemeriksaan dilakukan sebel
 ## Gerbang berikutnya
 
 1. Verifikasi substansi analisis terhadap dokumen induk dan hierarki.
-2. Ajukan hasil analisis untuk persetujuan Romo.
-3. Setelah disetujui, lanjut ke penyusunan 10 Diagnostik.
+2. Hasil analisis telah disetujui dan masuk `main`.
+3. Tahap berikutnya adalah pengajuan produksi 10 Diagnostik untuk indikator ini.
 4. Jangan membuat soal produksi sebelum gerbang hasil analisis disetujui.
 
 ## Keputusan batas
