@@ -11,7 +11,7 @@ Proyek Bank Soal SD mengembangkan bank soal kelas 1–6 berdasarkan kurikulum na
 - Bahasa konten pendidikan: Bahasa Indonesia
 - Dokumen induk resmi pada saat penetapan instruksi ini: `docs/ringkasan_bank_soal_sd_v4-51.md`
 
-Setelah keputusan Romo pada 26 November 2026, dokumen induk aktif/final yang berlaku adalah `ringkasan_bank_soal_sd_v5-salinan 61.md`; V4-51 dan versi sebelumnya menjadi arsip sejarah.
+Setelah penetapan V5-salinan 61 pada 26 November 2026 dan rekonsiliasi AUDIT-TL-01, acuan yang diusulkan untuk ditetapkan aktif melalui PR ini adalah `ringkasan_bank_soal_sd_v5-salinan 62.md`; V5-salinan 61, V4-51 dan versi sebelumnya dipertahankan sebagai arsip setelah penetapan eksplisit.
 
 Gunakan dokumen induk terbaru yang telah disetujui, diverifikasi, dan ditetapkan sebagai acuan bersama.
 
@@ -24,7 +24,7 @@ Dokumen historis bukan acuan utama apabila telah digantikan oleh versi yang dise
 Ikuti urutan kewenangan berikut, dari tertinggi:
 
 1. Keputusan Romo yang telah disetujui.
-2. Dokumen induk final V5-salinan 61 yang telah ditetapkan Romo sebagai acuan bersama.
+2. Dokumen induk final yang telah ditetapkan Romo sebagai acuan bersama (V5-salinan 62 setelah penetapan eksplisit).
 3. Rancangan indikator yang telah disetujui.
 4. AGENTS.md dan SKILL.md.
 5. Instruksi tugas Codex.
@@ -119,6 +119,8 @@ Seluruh keputusan final dalam dokumen induk wajib dipertahankan, termasuk:
 Gunakan ketentuan lengkap dalam dokumen induk. Ringkasan ini tidak menggantikan ketentuan tersebut.
 
 Komponen 1 dan Komponen 7 yang masih terbuka tidak boleh diselesaikan secara sepihak.
+
+Komponen 1 tetap terbuka dalam lingkup isi kompetensi Bank Soal SD yang belum diselesaikan. Tiga kesenjangan cakupan CP Matematika Fase A pada Bab 16.81.4 telah ditangani secara struktural melalui perluasan yang disetujui pada 26 November 2026 (Bab 16.81.7 dan 22). Rekap aktif: 35 TP, 85 KM, 87 indikator. Seluruh indikator mengikuti tahapan, persyaratan, pemeriksaan dan persetujuan produksi yang sama. Jangan membuka kembali keputusan final atau menambah, mengubah maupun mempersempit cakupan kompetensi sepihak. Komponen 7 tetap terbuka; jangan menetapkan penyimpanan permanen hasil belajar dan laporan tanpa persetujuan tersendiri.
 
 ## 7. Identitas dan struktur data soal
 
@@ -384,7 +386,7 @@ Jangan menggunakan repositori sebagai tempat penyimpanan hasil belajar nyata.
 
 Jangan menetapkan desain database, akun, penyimpanan permanen hasil belajar atau laporan sebelum Komponen 7 diselesaikan dan disetujui.
 
-Jangan menutup kesenjangan cakupan CP pada Komponen 1 secara sepihak.
+Jangan menutup kesenjangan cakupan CP pada Komponen 1 secara sepihak; tiga kesenjangan historis Matematika Fase A telah ditangani secara struktural melalui Bab 22.
 
 Setelah menyelesaikan pekerjaan yang diizinkan, laporkan:
 
