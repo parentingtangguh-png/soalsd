@@ -5,7 +5,7 @@
 - **Fungsi:** panduan kerja hidup menuju produksi Bank Soal SD.
 - **Acuan utama:** [dokumen induk V5-salinan 61](<ringkasan_bank_soal_sd_v5-salinan 61.md>), AGENTS.md, dan keputusan Romo yang telah disetujui.
 - **Tanggal pembaruan terakhir:** 27 November 2026.
-- **Status keseluruhan:** Persiapan migrasi Tahap 2 dan pembangunan perangkat Tahap 3 telah final di `main`; Tahap Migrasi 4 disetujui dan sedang difinalkan melalui PR #12; analisis indikator dan produksi soal belum dimulai.
+- **Status keseluruhan:** Tahap Migrasi 2, Tahap 3, dan Tahap 4 telah final di `main`; Gerbang 4 sedang menunggu persetujuan untuk memulai analisis indikator; produksi soal belum dimulai.
 - **Aturan pembaruan:** status hanya boleh berubah berdasarkan pekerjaan dan pemeriksaan aktual, bukan berdasarkan rencana, keberadaan kode, atau asumsi.
 
 ## Keputusan ruang lingkup
@@ -185,11 +185,11 @@ Seluruh pemeriksaan wajib selesai, tidak ada kegagalan yang belum ditangani, dan
 
 ### Status aktual
 
-**Disetujui, menunggu finalisasi.** Pemeriksaan sintetis struktural, integrasi perangkat, HTML offline, stimulus SVG, hierarki, register, dan dua belas kelompok kasus antiduplikasi teknis telah dijalankan. Browser desktop, ponsel, dan tablet lulus untuk Mode Pemeriksaan, Mode Pengerjaan, respons otomatis, ceklis orang tua, laporan, percabangan, dan ketuntasan. Pemeriksaan pedagogis dan empiris belum dilakukan pada fixture sintetis dan tetap wajib pada indikator produksi.
+**Final di `main`.** Pemeriksaan sintetis struktural, integrasi perangkat, HTML offline, stimulus SVG, hierarki, register, dan dua belas kelompok kasus antiduplikasi teknis telah dijalankan. Browser desktop, ponsel, dan tablet lulus untuk Mode Pemeriksaan, Mode Pengerjaan, respons otomatis, ceklis orang tua, laporan, percabangan, dan ketuntasan. Pemeriksaan pedagogis dan empiris belum dilakukan pada fixture sintetis dan tetap wajib pada indikator produksi.
 
 ### Tindakan berikutnya
 
-Romo telah menyetujui pengajuan Tahap 4. Finalisasi dilakukan melalui merge PR #12; setelah itu siapkan Gerbang 4. Produksi soal tetap belum boleh dimulai sebelum persiapan produksi disetujui.
+Romo telah menyetujui pengajuan Tahap 4 dan PR #12 telah masuk `main`. Siapkan Gerbang 4 dan tunggu persetujuan sebelum analisis indikator atau produksi soal dimulai.
 
 ---
 
@@ -218,7 +218,7 @@ Romo menyetujui persiapan produksi berdasarkan bukti aktual Gerbang 1–3.
 
 ### Status aktual
 
-**Belum disetujui.**
+**Menunggu persetujuan.** Pengajuan `MIG-G4-PERSIAPAN-10-INDIKATOR` telah disiapkan untuk meminta izin memulai analisis 10 indikator; belum ada permintaan untuk membuat soal produksi.
 
 ### Batas
 
@@ -393,6 +393,8 @@ Jika perubahan memengaruhi soal, gambar, metode, rubrik, HTML, JSON, koleksi pem
 | 27 November 2026 | Tahap 4 / Gerbang 3 | Atas keputusan Romo, uji tablet/ponsel tetap dicatat Belum diuji dan hasil Tahap 4 dilanjutkan sebagai pengajuan formal. | `docs/pengajuan_MIG-T4-VERIFIKASI.md`; PR #12; keputusan Romo dalam percakapan. | Menunggu persetujuan |
 | 27 November 2026 | Tahap 4 / Gerbang 3 | Uji responsif aktual dijalankan pada viewport ponsel dan tablet. Hierarki, stimulus, pilihan jawaban, dan Mode Pengerjaan tampil tanpa horizontal overflow; console bersih. | Browser Chrome; override 390×844 dan 768×1024; bukti sesi browser; PR #12. | Menunggu persetujuan; pemeriksaan pedagogis/substansi/empiris masih terbuka |
 | 27 November 2026 | Tahap 4 / Gerbang 3 | Romo menyetujui pengajuan Tahap 4 untuk difinalkan; lingkungan teknis sintetis akan berstatus Final setelah PR #12 masuk `main`. | Keputusan Romo; `docs/pengajuan_MIG-T4-VERIFIKASI.md`; PR #12. | Disetujui, menunggu finalisasi |
+| 27 November 2026 | Tahap 4 / Gerbang 3 | PR #12 berhasil di-merge; lingkungan verifikasi teknis sintetis difinalkan di `main`. | PR #12; merge `1560fbdf17df82d942c1bf974a4e8d890427e639`. | Final |
+| 27 November 2026 | Gerbang 4 | Pengajuan persiapan produksi untuk memulai analisis 10 indikator disiapkan; setiap indikator tetap memiliki penugasan dan status terpisah; produksi soal belum diminta. | `docs/pengajuan_MIG-G4-PERSIAPAN-10-INDIKATOR.md`; branch kerja berikutnya. | Menunggu persetujuan |
 
 ## Rujukan dokumen induk
 
