@@ -5,7 +5,7 @@
 - **Fungsi:** panduan kerja hidup menuju produksi Bank Soal SD.
 - **Acuan utama:** [dokumen induk V5-salinan 61](<ringkasan_bank_soal_sd_v5-salinan 61.md>), AGENTS.md, dan keputusan Romo yang telah disetujui.
 - **Tanggal pembaruan terakhir:** 27 November 2026.
-- **Status keseluruhan:** Tahap Migrasi 2, Tahap 3, Tahap 4, Gerbang 4, dan analisis 10 indikator telah final di `main`; pengajuan produksi pertama untuk 10 Diagnostik sedang menunggu persetujuan; produksi soal belum dimulai.
+- **Status keseluruhan:** Tahap Migrasi 2, Tahap 3, Tahap 4, Gerbang 4, dan analisis 10 indikator telah final di `main`; pengajuan produksi pertama untuk 10 Diagnostik telah disetujui; 10 soal Diagnostik sedang dalam verifikasi pada cabang kerja dan belum final.
 - **Aturan pembaruan:** status hanya boleh berubah berdasarkan pekerjaan dan pemeriksaan aktual, bukan berdasarkan rencana, keberadaan kode, atau asumsi.
 
 ## Keputusan ruang lingkup
@@ -301,7 +301,7 @@ Menyusun dan memeriksa rancangan empat jenis soal sebelum membuat butir soal.
 
 ### Status aktual
 
-**Menunggu persetujuan pengajuan pertama.** PR #27 mengajukan produksi 10 Diagnostik untuk `IND-MTK-A-K1-B.1-KM01-I01`; belum ada butir soal yang dibuat.
+**Dalam verifikasi.** PR #27 telah disetujui dan di-merge. PR #28 memuat 10 Diagnostik, 10 stimulus SVG, JSON, HTML mandiri, dan laporan verifikasi awal untuk `IND-MTK-A-K1-B.1-KM01-I01`; hasil belum final dan belum masuk `main`.
 
 ---
 
@@ -408,4 +408,4 @@ Jika perubahan memengaruhi soal, gambar, metode, rubrik, HTML, JSON, koleksi pem
 
 | 27 November 2026 | Gerbang 4 / Gerbang 5 | PR #14 dan PR #25 masuk `main`; sepuluh penugasan analisis Tahap 1 disetujui dan masuk `main`, masing-masing memuat stimulus, respons, metode awal, rubrik awal, rancangan empat jenis, dan antiduplikasi. | PR #15–#24 telah merge; register diperbarui. | Gerbang 4 Final; analisis Final; produksi belum dimulai |
 
-| 27 November 2026 | Gerbang 6 / Produksi pertama | Pengajuan produksi 10 Diagnostik untuk satu indikator dibuat; belum ada butir soal, gambar, JSON, atau HTML. | PR #27; `docs/pengajuan_produksi/MTK-A-K1-B.1-KM01-I01-DIAGNOSTIK.md`. | Menunggu persetujuan produksi |
+| 27 November 2026 | Gerbang 6 / Produksi pertama | Pengajuan disetujui dan 10 Diagnostik untuk satu indikator diproduksi pada cabang kerja, lengkap dengan stimulus SVG, JSON, HTML mandiri, dan laporan verifikasi awal. | PR #27 merge `5ad09de4d8e72b7d31ce16b6dddd5fdf6c75ceb9`; PR #28; `docs/verifikasi_produksi/MTK-A-K1-B.1-KM01-I01-DIA.md`. | Draf; dalam verifikasi; menunggu pemeriksaan dan persetujuan hasil |
