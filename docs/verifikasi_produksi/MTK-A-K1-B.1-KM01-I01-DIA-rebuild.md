@@ -54,6 +54,7 @@
   - Mode Pemeriksaan menampilkan pertanyaan dan gambar stimulus.
   - Mode Pengerjaan menampilkan seluruh 10 soal untuk review pengajuan, masing-masing dengan pertanyaan, label Stimulus, gambar, dan rubrik.
 - Mode Pengerjaan menyediakan opsi kembali ke tampilan satu per satu untuk uji interaksi.
+- Untuk `OTOMATIS`, panel menampilkan pilihan dan kunci; untuk `ORANG_TUA`, panel menampilkan panduan orang tua dan rubrik.
   - Tombol Berikutnya berpindah dari soal 1 ke soal 2.
   - Setelah satu respons disimpan, laporan menampilkan `Terjawab: 1/10` dan menahan laporan lengkap sampai seluruh soal dijawab.
 
