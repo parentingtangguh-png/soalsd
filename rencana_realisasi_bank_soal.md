@@ -5,7 +5,7 @@
 - **Fungsi:** panduan kerja hidup menuju produksi Bank Soal SD.
 - **Acuan utama:** [dokumen induk V5-salinan 61](<ringkasan_bank_soal_sd_v5-salinan 61.md>), AGENTS.md, dan keputusan Romo yang telah disetujui.
 - **Tanggal pembaruan terakhir:** 27 November 2026.
-- **Status keseluruhan:** Tahap Migrasi 2, Tahap 3, Tahap 4, Gerbang 4, dan analisis 10 indikator telah final di `main`; produksi soal belum dimulai.
+- **Status keseluruhan:** Tahap Migrasi 2, Tahap 3, Tahap 4, Gerbang 4, dan analisis 10 indikator telah final di `main`; pengajuan produksi pertama untuk 10 Diagnostik sedang menunggu persetujuan; produksi soal belum dimulai.
 - **Aturan pembaruan:** status hanya boleh berubah berdasarkan pekerjaan dan pemeriksaan aktual, bukan berdasarkan rencana, keberadaan kode, atau asumsi.
 
 ## Keputusan ruang lingkup
@@ -301,7 +301,7 @@ Menyusun dan memeriksa rancangan empat jenis soal sebelum membuat butir soal.
 
 ### Status aktual
 
-**Belum dimulai.** Gerbang ini baru dibuka setelah Gerbang 4 dan Gerbang 5 lulus.
+**Menunggu persetujuan pengajuan pertama.** PR #27 mengajukan produksi 10 Diagnostik untuk `IND-MTK-A-K1-B.1-KM01-I01`; belum ada butir soal yang dibuat.
 
 ---
 
@@ -407,3 +407,5 @@ Jika perubahan memengaruhi soal, gambar, metode, rubrik, HTML, JSON, koleksi pem
 
 
 | 27 November 2026 | Gerbang 4 / Gerbang 5 | PR #14 dan PR #25 masuk `main`; sepuluh penugasan analisis Tahap 1 disetujui dan masuk `main`, masing-masing memuat stimulus, respons, metode awal, rubrik awal, rancangan empat jenis, dan antiduplikasi. | PR #15–#24 telah merge; register diperbarui. | Gerbang 4 Final; analisis Final; produksi belum dimulai |
+
+| 27 November 2026 | Gerbang 6 / Produksi pertama | Pengajuan produksi 10 Diagnostik untuk satu indikator dibuat; belum ada butir soal, gambar, JSON, atau HTML. | PR #27; `docs/pengajuan_produksi/MTK-A-K1-B.1-KM01-I01-DIAGNOSTIK.md`. | Menunggu persetujuan produksi |
