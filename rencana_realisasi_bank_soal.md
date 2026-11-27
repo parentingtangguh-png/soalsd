@@ -5,7 +5,7 @@
 - **Fungsi:** panduan kerja hidup menuju produksi Bank Soal SD.
 - **Acuan utama:** [dokumen induk V5-salinan 61](<ringkasan_bank_soal_sd_v5-salinan 61.md>), AGENTS.md, dan keputusan Romo yang telah disetujui.
 - **Tanggal pembaruan terakhir:** 27 November 2026.
-- **Status keseluruhan:** Tahap Migrasi 2, Tahap 3, dan Tahap 4 telah final di `main`; Gerbang 4 sedang menunggu persetujuan untuk memulai analisis indikator; produksi soal belum dimulai.
+- **Status keseluruhan:** Tahap Migrasi 2, Tahap 3, dan Tahap 4 telah final di `main`; Gerbang 4 disetujui dan sedang difinalkan melalui PR #14; analisis 10 indikator akan dimulai sebagai 10 penugasan terpisah; produksi soal belum dimulai.
 - **Aturan pembaruan:** status hanya boleh berubah berdasarkan pekerjaan dan pemeriksaan aktual, bukan berdasarkan rencana, keberadaan kode, atau asumsi.
 
 ## Keputusan ruang lingkup
@@ -218,7 +218,7 @@ Romo menyetujui persiapan produksi berdasarkan bukti aktual Gerbang 1–3.
 
 ### Status aktual
 
-**Menunggu persetujuan.** Pengajuan `MIG-G4-PERSIAPAN-10-INDIKATOR` telah disiapkan untuk meminta izin memulai analisis 10 indikator; belum ada permintaan untuk membuat soal produksi.
+**Disetujui, menunggu finalisasi.** Pengajuan `MIG-G4-PERSIAPAN-10-INDIKATOR` disetujui Romo; setelah PR #14 masuk `main`, analisis 10 indikator dimulai sebagai 10 penugasan terpisah. Belum ada permintaan untuk membuat soal produksi.
 
 ### Batas
 
@@ -394,7 +394,7 @@ Jika perubahan memengaruhi soal, gambar, metode, rubrik, HTML, JSON, koleksi pem
 | 27 November 2026 | Tahap 4 / Gerbang 3 | Uji responsif aktual dijalankan pada viewport ponsel dan tablet. Hierarki, stimulus, pilihan jawaban, dan Mode Pengerjaan tampil tanpa horizontal overflow; console bersih. | Browser Chrome; override 390×844 dan 768×1024; bukti sesi browser; PR #12. | Menunggu persetujuan; pemeriksaan pedagogis/substansi/empiris masih terbuka |
 | 27 November 2026 | Tahap 4 / Gerbang 3 | Romo menyetujui pengajuan Tahap 4 untuk difinalkan; lingkungan teknis sintetis akan berstatus Final setelah PR #12 masuk `main`. | Keputusan Romo; `docs/pengajuan_MIG-T4-VERIFIKASI.md`; PR #12. | Disetujui, menunggu finalisasi |
 | 27 November 2026 | Tahap 4 / Gerbang 3 | PR #12 berhasil di-merge; lingkungan verifikasi teknis sintetis difinalkan di `main`. | PR #12; merge `1560fbdf17df82d942c1bf974a4e8d890427e639`. | Final |
-| 27 November 2026 | Gerbang 4 | Pengajuan persiapan produksi untuk memulai analisis 10 indikator disiapkan; setiap indikator tetap memiliki penugasan dan status terpisah; produksi soal belum diminta. | `docs/pengajuan_MIG-G4-PERSIAPAN-10-INDIKATOR.md`; branch kerja berikutnya. | Menunggu persetujuan |
+| 27 November 2026 | Gerbang 4 | Pengajuan persiapan produksi untuk memulai analisis 10 indikator disetujui; setiap indikator tetap memiliki penugasan dan status terpisah; produksi soal belum diminta. | `docs/pengajuan_MIG-G4-PERSIAPAN-10-INDIKATOR.md`; PR #14; keputusan Romo. | Disetujui, menunggu finalisasi |
 
 ## Rujukan dokumen induk
 
