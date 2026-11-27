@@ -21,7 +21,7 @@
 
 **Rumusan indikator verbatim:**
 
-> Wajib disalin dari baris indikator IND-MTK-A-K1-B.3-KM03-I01 pada dokumen hierarki saat berkas produksi dibuat.
+> Menguraikan bilangan cacah sampai 20 yang disajikan melalui gambar atau lambang bilangan menjadi bagian-bagian bilangan yang membentuknya, kemudian menyatakan hasil penguraian secara tepat.
 
 ## Hasil analisis kompetensi
 
