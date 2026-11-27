@@ -5,7 +5,7 @@
 - **Fungsi:** panduan kerja hidup menuju produksi Bank Soal SD.
 - **Acuan utama:** [dokumen induk V5-salinan 61](<ringkasan_bank_soal_sd_v5-salinan 61.md>), AGENTS.md, dan keputusan Romo yang telah disetujui.
 - **Tanggal pembaruan terakhir:** 27 November 2026.
-- **Status keseluruhan:** Persiapan migrasi Tahap 2 dan pembangunan perangkat Tahap 3 telah final di `main`; Tahap Migrasi 4 sedang dalam verifikasi; analisis indikator dan produksi soal belum dimulai.
+- **Status keseluruhan:** Persiapan migrasi Tahap 2 dan pembangunan perangkat Tahap 3 telah final di `main`; Tahap Migrasi 4 disetujui dan sedang difinalkan melalui PR #12; analisis indikator dan produksi soal belum dimulai.
 - **Aturan pembaruan:** status hanya boleh berubah berdasarkan pekerjaan dan pemeriksaan aktual, bukan berdasarkan rencana, keberadaan kode, atau asumsi.
 
 ## Keputusan ruang lingkup
@@ -185,11 +185,11 @@ Seluruh pemeriksaan wajib selesai, tidak ada kegagalan yang belum ditangani, dan
 
 ### Status aktual
 
-**Dalam verifikasi.** Pemeriksaan sintetis struktural, integrasi perangkat, HTML offline, stimulus SVG, hierarki, register, dan dua belas kelompok kasus antiduplikasi teknis telah dijalankan. Browser desktop lulus untuk Mode Pemeriksaan, Mode Pengerjaan, respons otomatis, ceklis orang tua, laporan, percabangan, dan ketuntasan. Uji tablet/ponsel belum tersedia karena tool browser tidak menyediakan kontrol viewport; pemeriksaan pedagogis dan empiris juga belum dilakukan.
+**Disetujui, menunggu finalisasi.** Pemeriksaan sintetis struktural, integrasi perangkat, HTML offline, stimulus SVG, hierarki, register, dan dua belas kelompok kasus antiduplikasi teknis telah dijalankan. Browser desktop, ponsel, dan tablet lulus untuk Mode Pemeriksaan, Mode Pengerjaan, respons otomatis, ceklis orang tua, laporan, percabangan, dan ketuntasan. Pemeriksaan pedagogis dan empiris belum dilakukan pada fixture sintetis dan tetap wajib pada indikator produksi.
 
 ### Tindakan berikutnya
 
-Selesaikan uji lintas ukuran layar dengan perangkat yang menyediakan kontrol viewport dan dokumentasikan status pedagogis/visual yang relevan. Tahap 4 belum boleh diajukan sebagai Final atau membuka produksi soal.
+Romo telah menyetujui pengajuan Tahap 4. Finalisasi dilakukan melalui merge PR #12; setelah itu siapkan Gerbang 4. Produksi soal tetap belum boleh dimulai sebelum persiapan produksi disetujui.
 
 ---
 
@@ -392,6 +392,7 @@ Jika perubahan memengaruhi soal, gambar, metode, rubrik, HTML, JSON, koleksi pem
 | 27 November 2026 | Tahap 4 / Gerbang 3 | Verifikasi sintetis struktural dan fungsional dijalankan; browser desktop menampilkan stimulus/hierarki dan menguji alur penilaian; dua belas kelompok kasus antiduplikasi teknis dijalankan. | `docs/verifikasi_tahap4.md`; `scripts/stage4_verify.py`; artefak uji lokal; bukti sesi browser; PR #12 (ready for review), head awal `2c221aaa80e88dd83d6ed6dae95429acaec4d7c3`. | Dalam verifikasi; uji tablet/ponsel dan pemeriksaan pedagogis masih terbuka |
 | 27 November 2026 | Tahap 4 / Gerbang 3 | Atas keputusan Romo, uji tablet/ponsel tetap dicatat Belum diuji dan hasil Tahap 4 dilanjutkan sebagai pengajuan formal. | `docs/pengajuan_MIG-T4-VERIFIKASI.md`; PR #12; keputusan Romo dalam percakapan. | Menunggu persetujuan |
 | 27 November 2026 | Tahap 4 / Gerbang 3 | Uji responsif aktual dijalankan pada viewport ponsel dan tablet. Hierarki, stimulus, pilihan jawaban, dan Mode Pengerjaan tampil tanpa horizontal overflow; console bersih. | Browser Chrome; override 390×844 dan 768×1024; bukti sesi browser; PR #12. | Menunggu persetujuan; pemeriksaan pedagogis/substansi/empiris masih terbuka |
+| 27 November 2026 | Tahap 4 / Gerbang 3 | Romo menyetujui pengajuan Tahap 4 untuk difinalkan; lingkungan teknis sintetis akan berstatus Final setelah PR #12 masuk `main`. | Keputusan Romo; `docs/pengajuan_MIG-T4-VERIFIKASI.md`; PR #12. | Disetujui, menunggu finalisasi |
 
 ## Rujukan dokumen induk
 
