@@ -22,7 +22,7 @@ Status **Final** hanya digunakan setelah hasil disetujui, disimpan, diverifikasi
 | 1 | Inisialisasi repositori | Lulus pada checkout kerja | Checkout branch kerja dari `parentingtangguh-png/soalsd`, commit dasar `13dbb56172cc965c37f250cd67856bdf628d716c` | V5 aktif disiapkan pada branch kerja; belum masuk `main` |
 | 2 | AGENTS.md, lima skill, struktur, register, persetujuan | Final | Branch `setup/tahap-2-persiapan`, commit diperiksa `1811052`, persetujuan dicatat pada `1c28b3e`, merge commit `14e156a`, PR `#7` | Tahap 3 dapat diajukan/dimulai sesuai persetujuan; belum dimulai |
 | 3 | Delapan perangkat produksi | Final | Branch `build/tahap-3-perangkat`, commit diperiksa `81acc59`, persetujuan dicatat pada branch, merge commit `5d01801`, PR `#9`; `tests/test_devices.py` lulus; uji CLI lulus | Tahap 4 dapat disiapkan; belum dimulai |
-| 4 | Verifikasi lingkungan produksi | Disetujui, menunggu finalisasi | PR #12; `docs/verifikasi_tahap4.md`; uji responsif 390×844 dan 768×1024 lulus | Finalisasi melalui merge; pemeriksaan pedagogis/substansi berlaku pada indikator produksi |
+| 4 | Verifikasi lingkungan produksi | Final | PR #12; merge `1560fbdf17df82d942c1bf974a4e8d890427e639`; `docs/verifikasi_tahap4.md` | Final untuk lingkungan teknis sintetis; pemeriksaan pedagogis/substansi berlaku pada indikator produksi |
 | 5 | Analisis indikator pertama | Belum dimulai | Belum tersedia | Menunggu Tahap 4 lulus dan persiapan produksi disetujui |
 
 ## Register indikator dan soal
