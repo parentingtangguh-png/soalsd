@@ -391,6 +391,7 @@ Jika perubahan memengaruhi soal, gambar, metode, rubrik, HTML, JSON, koleksi pem
 | 27 November 2026 | Tahap 3 / Gerbang 2 | Persetujuan Romo diterima dan Tahap 3 difinalkan ke `main`. Suite teknis lulus 7 uji; belum ada perubahan soal atau produksi. | Catatan persetujuan; PR `#9`; merge commit `5d01801`; finalisasi PR `#10` merge `9e5973b`. | Final |
 | 27 November 2026 | Tahap 4 / Gerbang 3 | Verifikasi sintetis struktural dan fungsional dijalankan; browser desktop menampilkan stimulus/hierarki dan menguji alur penilaian; dua belas kelompok kasus antiduplikasi teknis dijalankan. | `docs/verifikasi_tahap4.md`; `scripts/stage4_verify.py`; artefak uji lokal; bukti sesi browser; PR #12 (ready for review), head awal `2c221aaa80e88dd83d6ed6dae95429acaec4d7c3`. | Dalam verifikasi; uji tablet/ponsel dan pemeriksaan pedagogis masih terbuka |
 | 27 November 2026 | Tahap 4 / Gerbang 3 | Atas keputusan Romo, uji tablet/ponsel tetap dicatat Belum diuji dan hasil Tahap 4 dilanjutkan sebagai pengajuan formal. | `docs/pengajuan_MIG-T4-VERIFIKASI.md`; PR #12; keputusan Romo dalam percakapan. | Menunggu persetujuan |
+| 27 November 2026 | Tahap 4 / Gerbang 3 | Uji responsif aktual dijalankan pada viewport ponsel dan tablet. Hierarki, stimulus, pilihan jawaban, dan Mode Pengerjaan tampil tanpa horizontal overflow; console bersih. | Browser Chrome; override 390×844 dan 768×1024; bukti sesi browser; PR #12. | Menunggu persetujuan; pemeriksaan pedagogis/substansi/empiris masih terbuka |
 
 ## Rujukan dokumen induk
 
