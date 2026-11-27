@@ -21,7 +21,7 @@
 
 **Rumusan indikator verbatim:**
 
-> Wajib disalin dari baris indikator IND-MTK-A-K1-B.3-KM02-I01 pada dokumen hierarki saat berkas produksi dibuat.
+> Menentukan bilangan cacah sampai 20 yang terbentuk dari penggabungan bagian-bagian bilangan yang disajikan melalui gambar atau lambang bilangan, kemudian menyatakan bilangan keseluruhannya secara tepat.
 
 ## Hasil analisis kompetensi
 
