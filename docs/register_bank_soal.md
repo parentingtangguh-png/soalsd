@@ -23,7 +23,7 @@ Status **Final** hanya digunakan setelah hasil disetujui, disimpan, diverifikasi
 | 2 | AGENTS.md, lima skill, struktur, register, persetujuan | Final | Branch `setup/tahap-2-persiapan`, commit diperiksa `1811052`, persetujuan dicatat pada `1c28b3e`, merge commit `14e156a`, PR `#7` | Tahap 3 dapat diajukan/dimulai sesuai persetujuan; belum dimulai |
 | 3 | Delapan perangkat produksi | Final | Branch `build/tahap-3-perangkat`, commit diperiksa `81acc59`, persetujuan dicatat pada branch, merge commit `5d01801`, PR `#9`; `tests/test_devices.py` lulus; uji CLI lulus | Tahap 4 dapat disiapkan; belum dimulai |
 | 4 | Verifikasi lingkungan produksi | Final | PR #12; merge `1560fbdf17df82d942c1bf974a4e8d890427e639`; `docs/verifikasi_tahap4.md` | Final untuk lingkungan teknis sintetis; pemeriksaan pedagogis/substansi berlaku pada indikator produksi |
-| 5 | Gerbang 4 dan analisis 10 indikator | Final | PR #14 merge `e27168a91b52c778a65715ac41ce8adb760dbdf9`; PR #15–#24 telah merge | Analisis 10 indikator Final; satu kelompok Diagnostik sedang diajukan ulang untuk verificatie |
+| 5 | Gerbang 4 dan analisis 10 indikator | Final | PR #14 merge `e27168a91b52c778a65715ac41ce8adb760dbdf9`; PR #15–#24 telah merge | Analisis 10 indikator Final; satu kelompok Diagnostik sedang diajukan ulang untuk verifikasi |
 
 ## Register indikator dan soal
 
