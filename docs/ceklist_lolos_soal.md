@@ -1,5 +1,6 @@
 # Ceklis Lolos Soal
 
+Prosedur generate wajib mengikuti [Metode Generate Soal yang Diperbaiki](metode_generate_soal.md).
 ## Status aturan
 
 Ceklis ini wajib diselesaikan sebelum hasil soal, gambar, JSON, HTML, kelompok soal, atau laporan verifikasi diajukan untuk persetujuan.
@@ -19,6 +20,14 @@ Pengajuan tidak boleh dilakukan apabila satu pun kriteria yang berlaku berstatus
 - Pemeriksa:
 - Tanggal:
 - Lokasi bukti:
+
+## Gerbang sebelum kemasan teknis
+
+- [ ] Draf pertanyaan telah dibaca sebagai teks anak tanpa metadata.
+- [ ] Stimulus aktual telah tampil bersama pertanyaan.
+- [ ] Peta pertanyaan–stimulus–respons–bukti–rubrik telah dibuat.
+- [ ] Telaah lawan user-facing telah selesai.
+- [ ] Tidak ada temuan kritis yang belum diperbaiki.
 
 ## 18 kriteria kualitas umum
 
