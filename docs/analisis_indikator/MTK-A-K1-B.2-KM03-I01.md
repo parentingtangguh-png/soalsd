@@ -21,7 +21,7 @@
 
 **Rumusan indikator verbatim:**
 
-> Wajib disalin dari baris indikator IND-MTK-A-K1-B.2-KM03-I01 pada dokumen hierarki saat berkas produksi dibuat.
+> Memadankan lambang bilangan cacah sampai 20 dengan kumpulan benda yang ditampilkan melalui gambar berdasarkan korespondensi satu-satu, kemudian menentukan kecocokan antara lambang bilangan dan banyak benda secara tepat.
 
 ## Hasil analisis kompetensi
 
