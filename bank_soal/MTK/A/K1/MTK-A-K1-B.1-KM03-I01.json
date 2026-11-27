@@ -1,0 +1,813 @@
+{
+  "id_indikator": "IND-MTK-A-K1-B.1-KM03-I01",
+  "hierarki": {
+    "CP": "CP-MTK-A-1.1 — Bilangan cacah sampai 100; nilai tempat; perbandingan dan pengurutan; komposisi/dekomposisi; penjumlahan dan pengurangan sampai 20; setengah dan seperempat.",
+    "ATP": "Kelas 1, ATP 1",
+    "TP": "B.1 — Membilang, subitasi, dan membandingkan jumlah benda.",
+    "KM": "KM-MTK-A-K1-B.1-03 — Membandingkan dua kumpulan benda dan menyatakan sama banyak, lebih banyak, atau lebih sedikit.",
+    "Indikator": "IND-MTK-A-K1-B.1-KM03-I01 — Membandingkan banyak benda dalam dua kumpulan yang ditampilkan melalui gambar, kemudian menentukan dan menyatakan hubungan jumlah kedua kumpulan secara tepat menggunakan istilah sama banyak, lebih banyak, atau lebih sedikit.",
+    "kategori": "II"
+  },
+  "soal": [
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM03-I01-DIA-01",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM03-I01",
+      "jenis_soal": "DIA",
+      "pertanyaan": "Perhatikan informasi berikut. Kumpulan kiri memiliki 3 benda dan kumpulan kanan memiliki 5 benda. Pilih hubungan jumlah yang benar. Kedua kumpulan berada di dua nampan yang berdampingan.",
+      "pilihan": {
+        "A": "lebih sedikit",
+        "B": "lebih banyak",
+        "C": "sama banyak"
+      },
+      "kunci_jawaban": "A",
+      "panduan_orang_tua": "Bacakan pertanyaan dan biarkan anak memilih hubungan yang tepat dari tiga pilihan. Jangan menyebutkan hasil perbandingan.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": true,
+      "image_description": "Dua kumpulan berdampingan; kumpulan kiri berisi 3 benda dan kumpulan kanan berisi 5 benda.",
+      "image_spec": "2D",
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM03-I01-DIA-02",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM03-I01",
+      "jenis_soal": "DIA",
+      "pertanyaan": "Jawablah berdasarkan stimulus yang tersedia. Kumpulan kiri memiliki 6 benda dan kumpulan kanan memiliki 6 benda. Pilih hubungan jumlah yang benar. Benda-benda itu diletakkan pada baki kiri dan baki kanan.",
+      "pilihan": {
+        "A": "lebih banyak",
+        "B": "sama banyak",
+        "C": "lebih sedikit"
+      },
+      "kunci_jawaban": "B",
+      "panduan_orang_tua": "Bacakan pertanyaan dan biarkan anak memilih hubungan yang tepat dari tiga pilihan. Jangan menyebutkan hasil perbandingan.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": true,
+      "image_description": "Dua kumpulan berdampingan; kumpulan kiri berisi 6 benda dan kumpulan kanan berisi 6 benda.",
+      "image_spec": "2D",
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM03-I01-DIA-03",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM03-I01",
+      "jenis_soal": "DIA",
+      "pertanyaan": "Gunakan data pada soal ini. Kumpulan kiri memiliki 7 benda dan kumpulan kanan memiliki 4 benda. Pilih hubungan jumlah yang benar. Kumpulan pertama berada di kotak biru, sedangkan kumpulan kedua di kotak hijau.",
+      "pilihan": {
+        "A": "sama banyak",
+        "B": "lebih sedikit",
+        "C": "lebih banyak"
+      },
+      "kunci_jawaban": "C",
+      "panduan_orang_tua": "Bacakan pertanyaan dan biarkan anak memilih hubungan yang tepat dari tiga pilihan. Jangan menyebutkan hasil perbandingan.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": true,
+      "image_description": "Dua kumpulan berdampingan; kumpulan kiri berisi 7 benda dan kumpulan kanan berisi 4 benda.",
+      "image_spec": "2D",
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM03-I01-DIA-04",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM03-I01",
+      "jenis_soal": "DIA",
+      "pertanyaan": "Cermati bilangan dan keterangan yang diberikan. Kumpulan kiri memiliki 4 benda dan kumpulan kanan memiliki 8 benda. Pilih hubungan jumlah yang benar. Dua anak menata masing-masing satu kelompok benda di meja.",
+      "pilihan": {
+        "A": "lebih sedikit",
+        "B": "lebih banyak",
+        "C": "sama banyak"
+      },
+      "kunci_jawaban": "A",
+      "panduan_orang_tua": "Bacakan pertanyaan dan biarkan anak memilih hubungan yang tepat dari tiga pilihan. Jangan menyebutkan hasil perbandingan.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": true,
+      "image_description": "Dua kumpulan berdampingan; kumpulan kiri berisi 4 benda dan kumpulan kanan berisi 8 benda.",
+      "image_spec": "2D",
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM03-I01-DIA-05",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM03-I01",
+      "jenis_soal": "DIA",
+      "pertanyaan": "Amati situasi pada pertanyaan berikut. Kumpulan kiri memiliki 9 benda dan kumpulan kanan memiliki 9 benda. Pilih hubungan jumlah yang benar. Kedua kelompok siap dibandingkan sebelum dibagikan.",
+      "pilihan": {
+        "A": "lebih banyak",
+        "B": "sama banyak",
+        "C": "lebih sedikit"
+      },
+      "kunci_jawaban": "B",
+      "panduan_orang_tua": "Bacakan pertanyaan dan biarkan anak memilih hubungan yang tepat dari tiga pilihan. Jangan menyebutkan hasil perbandingan.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": true,
+      "image_description": "Dua kumpulan berdampingan; kumpulan kiri berisi 9 benda dan kumpulan kanan berisi 9 benda.",
+      "image_spec": "2D",
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM03-I01-DIA-06",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM03-I01",
+      "jenis_soal": "DIA",
+      "pertanyaan": "Baca tugas ini dengan teliti. Kumpulan kiri memiliki 2 benda dan kumpulan kanan memiliki 6 benda. Pilih hubungan jumlah yang benar. Kumpulan kiri dan kanan dibuat untuk permainan mencocokkan jumlah.",
+      "pilihan": {
+        "A": "sama banyak",
+        "B": "lebih banyak",
+        "C": "lebih sedikit"
+      },
+      "kunci_jawaban": "C",
+      "panduan_orang_tua": "Bacakan pertanyaan dan biarkan anak memilih hubungan yang tepat dari tiga pilihan. Jangan menyebutkan hasil perbandingan.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": true,
+      "image_description": "Dua kumpulan berdampingan; kumpulan kiri berisi 2 benda dan kumpulan kanan berisi 6 benda.",
+      "image_spec": "2D",
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM03-I01-DIA-07",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM03-I01",
+      "jenis_soal": "DIA",
+      "pertanyaan": "Periksa semua informasi sebelum menjawab. Kumpulan kiri memiliki 8 benda dan kumpulan kanan memiliki 5 benda. Pilih hubungan jumlah yang benar. Benda pada dua piring perlu diperiksa jumlahnya.",
+      "pilihan": {
+        "A": "lebih banyak",
+        "B": "lebih sedikit",
+        "C": "sama banyak"
+      },
+      "kunci_jawaban": "A",
+      "panduan_orang_tua": "Bacakan pertanyaan dan biarkan anak memilih hubungan yang tepat dari tiga pilihan. Jangan menyebutkan hasil perbandingan.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": true,
+      "image_description": "Dua kumpulan berdampingan; kumpulan kiri berisi 8 benda dan kumpulan kanan berisi 5 benda.",
+      "image_spec": "2D",
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM03-I01-DIA-08",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM03-I01",
+      "jenis_soal": "DIA",
+      "pertanyaan": "Pahami keadaan yang dijelaskan pada soal. Kumpulan kiri memiliki 5 benda dan kumpulan kanan memiliki 7 benda. Pilih hubungan jumlah yang benar. Dua rak kecil berisi kelompok benda yang berbeda atau sama.",
+      "pilihan": {
+        "A": "lebih banyak",
+        "B": "lebih sedikit",
+        "C": "sama banyak"
+      },
+      "kunci_jawaban": "B",
+      "panduan_orang_tua": "Bacakan pertanyaan dan biarkan anak memilih hubungan yang tepat dari tiga pilihan. Jangan menyebutkan hasil perbandingan.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": true,
+      "image_description": "Dua kumpulan berdampingan; kumpulan kiri berisi 5 benda dan kumpulan kanan berisi 7 benda.",
+      "image_spec": "2D",
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM03-I01-DIA-09",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM03-I01",
+      "jenis_soal": "DIA",
+      "pertanyaan": "Gunakan lambang atau bilangan yang terlihat. Kumpulan kiri memiliki 10 benda dan kumpulan kanan memiliki 10 benda. Pilih hubungan jumlah yang benar. Kedua kelompok terlihat bersamaan sehingga jumlahnya dapat dibandingkan.",
+      "pilihan": {
+        "A": "lebih sedikit",
+        "B": "lebih banyak",
+        "C": "sama banyak"
+      },
+      "kunci_jawaban": "C",
+      "panduan_orang_tua": "Bacakan pertanyaan dan biarkan anak memilih hubungan yang tepat dari tiga pilihan. Jangan menyebutkan hasil perbandingan.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": true,
+      "image_description": "Dua kumpulan berdampingan; kumpulan kiri berisi 10 benda dan kumpulan kanan berisi 10 benda.",
+      "image_spec": "2D",
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM03-I01-DIA-10",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM03-I01",
+      "jenis_soal": "DIA",
+      "pertanyaan": "Tentukan jawaban dari keadaan berikut. Kumpulan kiri memiliki 6 benda dan kumpulan kanan memiliki 9 benda. Pilih hubungan jumlah yang benar. Gunakan tampilan dua kelompok pada stimulus sebagai dasar keputusan.",
+      "pilihan": {
+        "A": "lebih sedikit",
+        "B": "lebih banyak",
+        "C": "sama banyak"
+      },
+      "kunci_jawaban": "A",
+      "panduan_orang_tua": "Bacakan pertanyaan dan biarkan anak memilih hubungan yang tepat dari tiga pilihan. Jangan menyebutkan hasil perbandingan.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": true,
+      "image_description": "Dua kumpulan berdampingan; kumpulan kiri berisi 6 benda dan kumpulan kanan berisi 9 benda.",
+      "image_spec": "2D",
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM03-I01-PGT-01",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM03-I01",
+      "jenis_soal": "PGT",
+      "pertanyaan": "Gunakan cara yang sudah dipelajari. Kumpulan kiri memiliki 4 benda dan kumpulan kanan memiliki 8 benda. Pilih hubungan jumlah yang benar. Kedua kumpulan berada di dua nampan yang berdampingan.",
+      "pilihan": {
+        "A": "lebih banyak",
+        "B": "lebih sedikit",
+        "C": "sama banyak"
+      },
+      "kunci_jawaban": "B",
+      "panduan_orang_tua": "Bacakan pertanyaan dan biarkan anak memilih hubungan yang tepat dari tiga pilihan. Jangan menyebutkan hasil perbandingan.",
+      "penjelasan_konsep": "Membandingkan dua kumpulan berarti menentukan apakah satu kumpulan lebih banyak, lebih sedikit, atau sama banyak daripada kumpulan lain.",
+      "penerapan_nyata": "Anak dapat membandingkan jumlah pensilnya dengan jumlah pensil teman menggunakan istilah yang tepat.",
+      "butuh_gambar": true,
+      "image_description": "Dua kumpulan berdampingan; kumpulan kiri berisi 4 benda dan kumpulan kanan berisi 8 benda.",
+      "image_spec": "2D",
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM03-I01-PGT-02",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM03-I01",
+      "jenis_soal": "PGT",
+      "pertanyaan": "Terapkan konsepnya pada keadaan ini. Kumpulan kiri memiliki 9 benda dan kumpulan kanan memiliki 9 benda. Pilih hubungan jumlah yang benar. Benda-benda itu diletakkan pada baki kiri dan baki kanan.",
+      "pilihan": {
+        "A": "lebih sedikit",
+        "B": "lebih banyak",
+        "C": "sama banyak"
+      },
+      "kunci_jawaban": "C",
+      "panduan_orang_tua": "Bacakan pertanyaan dan biarkan anak memilih hubungan yang tepat dari tiga pilihan. Jangan menyebutkan hasil perbandingan.",
+      "penjelasan_konsep": "Membandingkan dua kumpulan berarti menentukan apakah satu kumpulan lebih banyak, lebih sedikit, atau sama banyak daripada kumpulan lain.",
+      "penerapan_nyata": "Anak dapat membandingkan jumlah pensilnya dengan jumlah pensil teman menggunakan istilah yang tepat.",
+      "butuh_gambar": true,
+      "image_description": "Dua kumpulan berdampingan; kumpulan kiri berisi 9 benda dan kumpulan kanan berisi 9 benda.",
+      "image_spec": "2D",
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM03-I01-PGT-03",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM03-I01",
+      "jenis_soal": "PGT",
+      "pertanyaan": "Jelaskan pemikiranmu melalui pilihan yang tepat. Kumpulan kiri memiliki 2 benda dan kumpulan kanan memiliki 6 benda. Pilih hubungan jumlah yang benar. Kumpulan pertama berada di kotak biru, sedangkan kumpulan kedua di kotak hijau.",
+      "pilihan": {
+        "A": "lebih sedikit",
+        "B": "lebih banyak",
+        "C": "sama banyak"
+      },
+      "kunci_jawaban": "A",
+      "panduan_orang_tua": "Bacakan pertanyaan dan biarkan anak memilih hubungan yang tepat dari tiga pilihan. Jangan menyebutkan hasil perbandingan.",
+      "penjelasan_konsep": "Membandingkan dua kumpulan berarti menentukan apakah satu kumpulan lebih banyak, lebih sedikit, atau sama banyak daripada kumpulan lain.",
+      "penerapan_nyata": "Anak dapat membandingkan jumlah pensilnya dengan jumlah pensil teman menggunakan istilah yang tepat.",
+      "butuh_gambar": true,
+      "image_description": "Dua kumpulan berdampingan; kumpulan kiri berisi 2 benda dan kumpulan kanan berisi 6 benda.",
+      "image_spec": "2D",
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM03-I01-PGT-04",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM03-I01",
+      "jenis_soal": "PGT",
+      "pertanyaan": "Hubungkan informasi soal dengan konsep bilangan. Kumpulan kiri memiliki 8 benda dan kumpulan kanan memiliki 5 benda. Pilih hubungan jumlah yang benar. Dua anak menata masing-masing satu kelompok benda di meja.",
+      "pilihan": {
+        "A": "lebih sedikit",
+        "B": "lebih banyak",
+        "C": "sama banyak"
+      },
+      "kunci_jawaban": "B",
+      "panduan_orang_tua": "Bacakan pertanyaan dan biarkan anak memilih hubungan yang tepat dari tiga pilihan. Jangan menyebutkan hasil perbandingan.",
+      "penjelasan_konsep": "Membandingkan dua kumpulan berarti menentukan apakah satu kumpulan lebih banyak, lebih sedikit, atau sama banyak daripada kumpulan lain.",
+      "penerapan_nyata": "Anak dapat membandingkan jumlah pensilnya dengan jumlah pensil teman menggunakan istilah yang tepat.",
+      "butuh_gambar": true,
+      "image_description": "Dua kumpulan berdampingan; kumpulan kiri berisi 8 benda dan kumpulan kanan berisi 5 benda.",
+      "image_spec": "2D",
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM03-I01-PGT-05",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM03-I01",
+      "jenis_soal": "PGT",
+      "pertanyaan": "Gunakan strategi yang membantu menemukan jawaban. Kumpulan kiri memiliki 5 benda dan kumpulan kanan memiliki 7 benda. Pilih hubungan jumlah yang benar. Kedua kelompok siap dibandingkan sebelum dibagikan.",
+      "pilihan": {
+        "A": "sama banyak",
+        "B": "lebih banyak",
+        "C": "lebih sedikit"
+      },
+      "kunci_jawaban": "C",
+      "panduan_orang_tua": "Bacakan pertanyaan dan biarkan anak memilih hubungan yang tepat dari tiga pilihan. Jangan menyebutkan hasil perbandingan.",
+      "penjelasan_konsep": "Membandingkan dua kumpulan berarti menentukan apakah satu kumpulan lebih banyak, lebih sedikit, atau sama banyak daripada kumpulan lain.",
+      "penerapan_nyata": "Anak dapat membandingkan jumlah pensilnya dengan jumlah pensil teman menggunakan istilah yang tepat.",
+      "butuh_gambar": true,
+      "image_description": "Dua kumpulan berdampingan; kumpulan kiri berisi 5 benda dan kumpulan kanan berisi 7 benda.",
+      "image_spec": "2D",
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM03-I01-PGT-06",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM03-I01",
+      "jenis_soal": "PGT",
+      "pertanyaan": "Perhatikan hubungan antarbagian pada soal. Kumpulan kiri memiliki 10 benda dan kumpulan kanan memiliki 10 benda. Pilih hubungan jumlah yang benar. Kumpulan kiri dan kanan dibuat untuk permainan mencocokkan jumlah.",
+      "pilihan": {
+        "A": "sama banyak",
+        "B": "lebih banyak",
+        "C": "lebih sedikit"
+      },
+      "kunci_jawaban": "A",
+      "panduan_orang_tua": "Bacakan pertanyaan dan biarkan anak memilih hubungan yang tepat dari tiga pilihan. Jangan menyebutkan hasil perbandingan.",
+      "penjelasan_konsep": "Membandingkan dua kumpulan berarti menentukan apakah satu kumpulan lebih banyak, lebih sedikit, atau sama banyak daripada kumpulan lain.",
+      "penerapan_nyata": "Anak dapat membandingkan jumlah pensilnya dengan jumlah pensil teman menggunakan istilah yang tepat.",
+      "butuh_gambar": true,
+      "image_description": "Dua kumpulan berdampingan; kumpulan kiri berisi 10 benda dan kumpulan kanan berisi 10 benda.",
+      "image_spec": "2D",
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM03-I01-PGT-07",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM03-I01",
+      "jenis_soal": "PGT",
+      "pertanyaan": "Tunjukkan pemahamanmu terhadap situasi berikut. Kumpulan kiri memiliki 6 benda dan kumpulan kanan memiliki 9 benda. Pilih hubungan jumlah yang benar. Benda pada dua piring perlu diperiksa jumlahnya.",
+      "pilihan": {
+        "A": "lebih banyak",
+        "B": "lebih sedikit",
+        "C": "sama banyak"
+      },
+      "kunci_jawaban": "B",
+      "panduan_orang_tua": "Bacakan pertanyaan dan biarkan anak memilih hubungan yang tepat dari tiga pilihan. Jangan menyebutkan hasil perbandingan.",
+      "penjelasan_konsep": "Membandingkan dua kumpulan berarti menentukan apakah satu kumpulan lebih banyak, lebih sedikit, atau sama banyak daripada kumpulan lain.",
+      "penerapan_nyata": "Anak dapat membandingkan jumlah pensilnya dengan jumlah pensil teman menggunakan istilah yang tepat.",
+      "butuh_gambar": true,
+      "image_description": "Dua kumpulan berdampingan; kumpulan kiri berisi 6 benda dan kumpulan kanan berisi 9 benda.",
+      "image_spec": "2D",
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM03-I01-PGT-08",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM03-I01",
+      "jenis_soal": "PGT",
+      "pertanyaan": "Pilih jawaban setelah memeriksa konsepnya. Kumpulan kiri memiliki 3 benda dan kumpulan kanan memiliki 5 benda. Pilih hubungan jumlah yang benar. Dua rak kecil berisi kelompok benda yang berbeda atau sama.",
+      "pilihan": {
+        "A": "sama banyak",
+        "B": "lebih banyak",
+        "C": "lebih sedikit"
+      },
+      "kunci_jawaban": "C",
+      "panduan_orang_tua": "Bacakan pertanyaan dan biarkan anak memilih hubungan yang tepat dari tiga pilihan. Jangan menyebutkan hasil perbandingan.",
+      "penjelasan_konsep": "Membandingkan dua kumpulan berarti menentukan apakah satu kumpulan lebih banyak, lebih sedikit, atau sama banyak daripada kumpulan lain.",
+      "penerapan_nyata": "Anak dapat membandingkan jumlah pensilnya dengan jumlah pensil teman menggunakan istilah yang tepat.",
+      "butuh_gambar": true,
+      "image_description": "Dua kumpulan berdampingan; kumpulan kiri berisi 3 benda dan kumpulan kanan berisi 5 benda.",
+      "image_spec": "2D",
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM03-I01-PGT-09",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM03-I01",
+      "jenis_soal": "PGT",
+      "pertanyaan": "Gunakan penalaranmu, bukan tebakan. Kumpulan kiri memiliki 6 benda dan kumpulan kanan memiliki 6 benda. Pilih hubungan jumlah yang benar. Kedua kelompok terlihat bersamaan sehingga jumlahnya dapat dibandingkan.",
+      "pilihan": {
+        "A": "sama banyak",
+        "B": "lebih banyak",
+        "C": "lebih sedikit"
+      },
+      "kunci_jawaban": "A",
+      "panduan_orang_tua": "Bacakan pertanyaan dan biarkan anak memilih hubungan yang tepat dari tiga pilihan. Jangan menyebutkan hasil perbandingan.",
+      "penjelasan_konsep": "Membandingkan dua kumpulan berarti menentukan apakah satu kumpulan lebih banyak, lebih sedikit, atau sama banyak daripada kumpulan lain.",
+      "penerapan_nyata": "Anak dapat membandingkan jumlah pensilnya dengan jumlah pensil teman menggunakan istilah yang tepat.",
+      "butuh_gambar": true,
+      "image_description": "Dua kumpulan berdampingan; kumpulan kiri berisi 6 benda dan kumpulan kanan berisi 6 benda.",
+      "image_spec": "2D",
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM03-I01-PGT-10",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM03-I01",
+      "jenis_soal": "PGT",
+      "pertanyaan": "Terapkan pemahaman bilangan pada contoh ini. Kumpulan kiri memiliki 7 benda dan kumpulan kanan memiliki 4 benda. Pilih hubungan jumlah yang benar. Gunakan tampilan dua kelompok pada stimulus sebagai dasar keputusan.",
+      "pilihan": {
+        "A": "lebih sedikit",
+        "B": "lebih banyak",
+        "C": "sama banyak"
+      },
+      "kunci_jawaban": "B",
+      "panduan_orang_tua": "Bacakan pertanyaan dan biarkan anak memilih hubungan yang tepat dari tiga pilihan. Jangan menyebutkan hasil perbandingan.",
+      "penjelasan_konsep": "Membandingkan dua kumpulan berarti menentukan apakah satu kumpulan lebih banyak, lebih sedikit, atau sama banyak daripada kumpulan lain.",
+      "penerapan_nyata": "Anak dapat membandingkan jumlah pensilnya dengan jumlah pensil teman menggunakan istilah yang tepat.",
+      "butuh_gambar": true,
+      "image_description": "Dua kumpulan berdampingan; kumpulan kiri berisi 7 benda dan kumpulan kanan berisi 4 benda.",
+      "image_spec": "2D",
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM03-I01-PYN-01",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM03-I01",
+      "jenis_soal": "PYN",
+      "pertanyaan": "Bayangkan situasi ini terjadi dalam kegiatan sehari-hari. Kumpulan kiri memiliki 8 benda dan kumpulan kanan memiliki 5 benda. Pilih hubungan jumlah yang benar. Kedua kumpulan berada di dua nampan yang berdampingan.",
+      "pilihan": {
+        "A": "sama banyak",
+        "B": "lebih sedikit",
+        "C": "lebih banyak"
+      },
+      "kunci_jawaban": "C",
+      "panduan_orang_tua": "Bacakan pertanyaan dan biarkan anak memilih hubungan yang tepat dari tiga pilihan. Jangan menyebutkan hasil perbandingan.",
+      "penjelasan_konsep": "Membandingkan dua kumpulan berarti menentukan apakah satu kumpulan lebih banyak, lebih sedikit, atau sama banyak daripada kumpulan lain.",
+      "penerapan_nyata": "Anak dapat membandingkan jumlah pensilnya dengan jumlah pensil teman menggunakan istilah yang tepat.",
+      "butuh_gambar": true,
+      "image_description": "Dua kumpulan berdampingan; kumpulan kiri berisi 8 benda dan kumpulan kanan berisi 5 benda.",
+      "image_spec": "2D",
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM03-I01-PYN-02",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM03-I01",
+      "jenis_soal": "PYN",
+      "pertanyaan": "Gunakan informasi berikut untuk membantu sebuah keputusan. Kumpulan kiri memiliki 5 benda dan kumpulan kanan memiliki 7 benda. Pilih hubungan jumlah yang benar. Benda-benda itu diletakkan pada baki kiri dan baki kanan.",
+      "pilihan": {
+        "A": "lebih sedikit",
+        "B": "lebih banyak",
+        "C": "sama banyak"
+      },
+      "kunci_jawaban": "A",
+      "panduan_orang_tua": "Bacakan pertanyaan dan biarkan anak memilih hubungan yang tepat dari tiga pilihan. Jangan menyebutkan hasil perbandingan.",
+      "penjelasan_konsep": "Membandingkan dua kumpulan berarti menentukan apakah satu kumpulan lebih banyak, lebih sedikit, atau sama banyak daripada kumpulan lain.",
+      "penerapan_nyata": "Anak dapat membandingkan jumlah pensilnya dengan jumlah pensil teman menggunakan istilah yang tepat.",
+      "butuh_gambar": true,
+      "image_description": "Dua kumpulan berdampingan; kumpulan kiri berisi 5 benda dan kumpulan kanan berisi 7 benda.",
+      "image_spec": "2D",
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM03-I01-PYN-03",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM03-I01",
+      "jenis_soal": "PYN",
+      "pertanyaan": "Pikirkan cara menerapkan konsep ini di luar latihan. Kumpulan kiri memiliki 10 benda dan kumpulan kanan memiliki 10 benda. Pilih hubungan jumlah yang benar. Kumpulan pertama berada di kotak biru, sedangkan kumpulan kedua di kotak hijau.",
+      "pilihan": {
+        "A": "lebih banyak",
+        "B": "sama banyak",
+        "C": "lebih sedikit"
+      },
+      "kunci_jawaban": "B",
+      "panduan_orang_tua": "Bacakan pertanyaan dan biarkan anak memilih hubungan yang tepat dari tiga pilihan. Jangan menyebutkan hasil perbandingan.",
+      "penjelasan_konsep": "Membandingkan dua kumpulan berarti menentukan apakah satu kumpulan lebih banyak, lebih sedikit, atau sama banyak daripada kumpulan lain.",
+      "penerapan_nyata": "Anak dapat membandingkan jumlah pensilnya dengan jumlah pensil teman menggunakan istilah yang tepat.",
+      "butuh_gambar": true,
+      "image_description": "Dua kumpulan berdampingan; kumpulan kiri berisi 10 benda dan kumpulan kanan berisi 10 benda.",
+      "image_spec": "2D",
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM03-I01-PYN-04",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM03-I01",
+      "jenis_soal": "PYN",
+      "pertanyaan": "Selesaikan tantangan kecil pada situasi berikut. Kumpulan kiri memiliki 6 benda dan kumpulan kanan memiliki 9 benda. Pilih hubungan jumlah yang benar. Dua anak menata masing-masing satu kelompok benda di meja.",
+      "pilihan": {
+        "A": "sama banyak",
+        "B": "lebih banyak",
+        "C": "lebih sedikit"
+      },
+      "kunci_jawaban": "C",
+      "panduan_orang_tua": "Bacakan pertanyaan dan biarkan anak memilih hubungan yang tepat dari tiga pilihan. Jangan menyebutkan hasil perbandingan.",
+      "penjelasan_konsep": "Membandingkan dua kumpulan berarti menentukan apakah satu kumpulan lebih banyak, lebih sedikit, atau sama banyak daripada kumpulan lain.",
+      "penerapan_nyata": "Anak dapat membandingkan jumlah pensilnya dengan jumlah pensil teman menggunakan istilah yang tepat.",
+      "butuh_gambar": true,
+      "image_description": "Dua kumpulan berdampingan; kumpulan kiri berisi 6 benda dan kumpulan kanan berisi 9 benda.",
+      "image_spec": "2D",
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM03-I01-PYN-05",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM03-I01",
+      "jenis_soal": "PYN",
+      "pertanyaan": "Gunakan bilangan untuk menjelaskan keadaan yang diberikan. Kumpulan kiri memiliki 3 benda dan kumpulan kanan memiliki 5 benda. Pilih hubungan jumlah yang benar. Kedua kelompok siap dibandingkan sebelum dibagikan.",
+      "pilihan": {
+        "A": "lebih sedikit",
+        "B": "lebih banyak",
+        "C": "sama banyak"
+      },
+      "kunci_jawaban": "A",
+      "panduan_orang_tua": "Bacakan pertanyaan dan biarkan anak memilih hubungan yang tepat dari tiga pilihan. Jangan menyebutkan hasil perbandingan.",
+      "penjelasan_konsep": "Membandingkan dua kumpulan berarti menentukan apakah satu kumpulan lebih banyak, lebih sedikit, atau sama banyak daripada kumpulan lain.",
+      "penerapan_nyata": "Anak dapat membandingkan jumlah pensilnya dengan jumlah pensil teman menggunakan istilah yang tepat.",
+      "butuh_gambar": true,
+      "image_description": "Dua kumpulan berdampingan; kumpulan kiri berisi 3 benda dan kumpulan kanan berisi 5 benda.",
+      "image_spec": "2D",
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM03-I01-PYN-06",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM03-I01",
+      "jenis_soal": "PYN",
+      "pertanyaan": "Perhatikan kebutuhan pada cerita singkat ini. Kumpulan kiri memiliki 6 benda dan kumpulan kanan memiliki 6 benda. Pilih hubungan jumlah yang benar. Kumpulan kiri dan kanan dibuat untuk permainan mencocokkan jumlah.",
+      "pilihan": {
+        "A": "lebih banyak",
+        "B": "sama banyak",
+        "C": "lebih sedikit"
+      },
+      "kunci_jawaban": "B",
+      "panduan_orang_tua": "Bacakan pertanyaan dan biarkan anak memilih hubungan yang tepat dari tiga pilihan. Jangan menyebutkan hasil perbandingan.",
+      "penjelasan_konsep": "Membandingkan dua kumpulan berarti menentukan apakah satu kumpulan lebih banyak, lebih sedikit, atau sama banyak daripada kumpulan lain.",
+      "penerapan_nyata": "Anak dapat membandingkan jumlah pensilnya dengan jumlah pensil teman menggunakan istilah yang tepat.",
+      "butuh_gambar": true,
+      "image_description": "Dua kumpulan berdampingan; kumpulan kiri berisi 6 benda dan kumpulan kanan berisi 6 benda.",
+      "image_spec": "2D",
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM03-I01-PYN-07",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM03-I01",
+      "jenis_soal": "PYN",
+      "pertanyaan": "Tentukan hasil yang berguna untuk kegiatan berikut. Kumpulan kiri memiliki 7 benda dan kumpulan kanan memiliki 4 benda. Pilih hubungan jumlah yang benar. Benda pada dua piring perlu diperiksa jumlahnya.",
+      "pilihan": {
+        "A": "sama banyak",
+        "B": "lebih sedikit",
+        "C": "lebih banyak"
+      },
+      "kunci_jawaban": "C",
+      "panduan_orang_tua": "Bacakan pertanyaan dan biarkan anak memilih hubungan yang tepat dari tiga pilihan. Jangan menyebutkan hasil perbandingan.",
+      "penjelasan_konsep": "Membandingkan dua kumpulan berarti menentukan apakah satu kumpulan lebih banyak, lebih sedikit, atau sama banyak daripada kumpulan lain.",
+      "penerapan_nyata": "Anak dapat membandingkan jumlah pensilnya dengan jumlah pensil teman menggunakan istilah yang tepat.",
+      "butuh_gambar": true,
+      "image_description": "Dua kumpulan berdampingan; kumpulan kiri berisi 7 benda dan kumpulan kanan berisi 4 benda.",
+      "image_spec": "2D",
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM03-I01-PYN-08",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM03-I01",
+      "jenis_soal": "PYN",
+      "pertanyaan": "Gunakan strategi bilangan untuk menyelesaikan masalah ini. Kumpulan kiri memiliki 4 benda dan kumpulan kanan memiliki 8 benda. Pilih hubungan jumlah yang benar. Dua rak kecil berisi kelompok benda yang berbeda atau sama.",
+      "pilihan": {
+        "A": "lebih sedikit",
+        "B": "lebih banyak",
+        "C": "sama banyak"
+      },
+      "kunci_jawaban": "A",
+      "panduan_orang_tua": "Bacakan pertanyaan dan biarkan anak memilih hubungan yang tepat dari tiga pilihan. Jangan menyebutkan hasil perbandingan.",
+      "penjelasan_konsep": "Membandingkan dua kumpulan berarti menentukan apakah satu kumpulan lebih banyak, lebih sedikit, atau sama banyak daripada kumpulan lain.",
+      "penerapan_nyata": "Anak dapat membandingkan jumlah pensilnya dengan jumlah pensil teman menggunakan istilah yang tepat.",
+      "butuh_gambar": true,
+      "image_description": "Dua kumpulan berdampingan; kumpulan kiri berisi 4 benda dan kumpulan kanan berisi 8 benda.",
+      "image_spec": "2D",
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM03-I01-PYN-09",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM03-I01",
+      "jenis_soal": "PYN",
+      "pertanyaan": "Hubungkan tugas ini dengan benda atau kegiatan nyata. Kumpulan kiri memiliki 9 benda dan kumpulan kanan memiliki 9 benda. Pilih hubungan jumlah yang benar. Kedua kelompok terlihat bersamaan sehingga jumlahnya dapat dibandingkan.",
+      "pilihan": {
+        "A": "lebih banyak",
+        "B": "sama banyak",
+        "C": "lebih sedikit"
+      },
+      "kunci_jawaban": "B",
+      "panduan_orang_tua": "Bacakan pertanyaan dan biarkan anak memilih hubungan yang tepat dari tiga pilihan. Jangan menyebutkan hasil perbandingan.",
+      "penjelasan_konsep": "Membandingkan dua kumpulan berarti menentukan apakah satu kumpulan lebih banyak, lebih sedikit, atau sama banyak daripada kumpulan lain.",
+      "penerapan_nyata": "Anak dapat membandingkan jumlah pensilnya dengan jumlah pensil teman menggunakan istilah yang tepat.",
+      "butuh_gambar": true,
+      "image_description": "Dua kumpulan berdampingan; kumpulan kiri berisi 9 benda dan kumpulan kanan berisi 9 benda.",
+      "image_spec": "2D",
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM03-I01-PYN-10",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM03-I01",
+      "jenis_soal": "PYN",
+      "pertanyaan": "Buktikan pemahamanmu melalui situasi yang berbeda. Kumpulan kiri memiliki 2 benda dan kumpulan kanan memiliki 6 benda. Pilih hubungan jumlah yang benar. Gunakan tampilan dua kelompok pada stimulus sebagai dasar keputusan.",
+      "pilihan": {
+        "A": "sama banyak",
+        "B": "lebih banyak",
+        "C": "lebih sedikit"
+      },
+      "kunci_jawaban": "C",
+      "panduan_orang_tua": "Bacakan pertanyaan dan biarkan anak memilih hubungan yang tepat dari tiga pilihan. Jangan menyebutkan hasil perbandingan.",
+      "penjelasan_konsep": "Membandingkan dua kumpulan berarti menentukan apakah satu kumpulan lebih banyak, lebih sedikit, atau sama banyak daripada kumpulan lain.",
+      "penerapan_nyata": "Anak dapat membandingkan jumlah pensilnya dengan jumlah pensil teman menggunakan istilah yang tepat.",
+      "butuh_gambar": true,
+      "image_description": "Dua kumpulan berdampingan; kumpulan kiri berisi 2 benda dan kumpulan kanan berisi 6 benda.",
+      "image_spec": "2D",
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM03-I01-CU-01",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM03-I01",
+      "jenis_soal": "CU",
+      "pertanyaan": "Periksa kembali pemahamanmu. Kumpulan kiri memiliki 6 benda dan kumpulan kanan memiliki 9 benda. Pilih hubungan jumlah yang benar. Kedua kumpulan berada di dua nampan yang berdampingan.",
+      "pilihan": {
+        "A": "lebih sedikit",
+        "B": "lebih banyak",
+        "C": "sama banyak"
+      },
+      "kunci_jawaban": "A",
+      "panduan_orang_tua": "Bacakan pertanyaan dan biarkan anak memilih hubungan yang tepat dari tiga pilihan. Jangan menyebutkan hasil perbandingan.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": true,
+      "image_description": "Dua kumpulan berdampingan; kumpulan kiri berisi 6 benda dan kumpulan kanan berisi 9 benda.",
+      "image_spec": "2D",
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM03-I01-CU-02",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM03-I01",
+      "jenis_soal": "CU",
+      "pertanyaan": "Lakukan pengecekan dengan teliti. Kumpulan kiri memiliki 3 benda dan kumpulan kanan memiliki 5 benda. Pilih hubungan jumlah yang benar. Benda-benda itu diletakkan pada baki kiri dan baki kanan.",
+      "pilihan": {
+        "A": "lebih banyak",
+        "B": "lebih sedikit",
+        "C": "sama banyak"
+      },
+      "kunci_jawaban": "B",
+      "panduan_orang_tua": "Bacakan pertanyaan dan biarkan anak memilih hubungan yang tepat dari tiga pilihan. Jangan menyebutkan hasil perbandingan.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": true,
+      "image_description": "Dua kumpulan berdampingan; kumpulan kiri berisi 3 benda dan kumpulan kanan berisi 5 benda.",
+      "image_spec": "2D",
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM03-I01-CU-03",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM03-I01",
+      "jenis_soal": "CU",
+      "pertanyaan": "Pastikan hubungan bilangan pada jawabanmu benar. Kumpulan kiri memiliki 6 benda dan kumpulan kanan memiliki 6 benda. Pilih hubungan jumlah yang benar. Kumpulan pertama berada di kotak biru, sedangkan kumpulan kedua di kotak hijau.",
+      "pilihan": {
+        "A": "lebih sedikit",
+        "B": "lebih banyak",
+        "C": "sama banyak"
+      },
+      "kunci_jawaban": "C",
+      "panduan_orang_tua": "Bacakan pertanyaan dan biarkan anak memilih hubungan yang tepat dari tiga pilihan. Jangan menyebutkan hasil perbandingan.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": true,
+      "image_description": "Dua kumpulan berdampingan; kumpulan kiri berisi 6 benda dan kumpulan kanan berisi 6 benda.",
+      "image_spec": "2D",
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM03-I01-CU-04",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM03-I01",
+      "jenis_soal": "CU",
+      "pertanyaan": "Uji kembali cara yang kamu gunakan. Kumpulan kiri memiliki 7 benda dan kumpulan kanan memiliki 4 benda. Pilih hubungan jumlah yang benar. Dua anak menata masing-masing satu kelompok benda di meja.",
+      "pilihan": {
+        "A": "lebih banyak",
+        "B": "lebih sedikit",
+        "C": "sama banyak"
+      },
+      "kunci_jawaban": "A",
+      "panduan_orang_tua": "Bacakan pertanyaan dan biarkan anak memilih hubungan yang tepat dari tiga pilihan. Jangan menyebutkan hasil perbandingan.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": true,
+      "image_description": "Dua kumpulan berdampingan; kumpulan kiri berisi 7 benda dan kumpulan kanan berisi 4 benda.",
+      "image_spec": "2D",
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM03-I01-CU-05",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM03-I01",
+      "jenis_soal": "CU",
+      "pertanyaan": "Cermati ulang informasi sebelum memilih. Kumpulan kiri memiliki 4 benda dan kumpulan kanan memiliki 8 benda. Pilih hubungan jumlah yang benar. Kedua kelompok siap dibandingkan sebelum dibagikan.",
+      "pilihan": {
+        "A": "lebih banyak",
+        "B": "lebih sedikit",
+        "C": "sama banyak"
+      },
+      "kunci_jawaban": "B",
+      "panduan_orang_tua": "Bacakan pertanyaan dan biarkan anak memilih hubungan yang tepat dari tiga pilihan. Jangan menyebutkan hasil perbandingan.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": true,
+      "image_description": "Dua kumpulan berdampingan; kumpulan kiri berisi 4 benda dan kumpulan kanan berisi 8 benda.",
+      "image_spec": "2D",
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM03-I01-CU-06",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM03-I01",
+      "jenis_soal": "CU",
+      "pertanyaan": "Verifikasi jawabanmu pada tugas ini. Kumpulan kiri memiliki 9 benda dan kumpulan kanan memiliki 9 benda. Pilih hubungan jumlah yang benar. Kumpulan kiri dan kanan dibuat untuk permainan mencocokkan jumlah.",
+      "pilihan": {
+        "A": "lebih sedikit",
+        "B": "lebih banyak",
+        "C": "sama banyak"
+      },
+      "kunci_jawaban": "C",
+      "panduan_orang_tua": "Bacakan pertanyaan dan biarkan anak memilih hubungan yang tepat dari tiga pilihan. Jangan menyebutkan hasil perbandingan.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": true,
+      "image_description": "Dua kumpulan berdampingan; kumpulan kiri berisi 9 benda dan kumpulan kanan berisi 9 benda.",
+      "image_spec": "2D",
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM03-I01-CU-07",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM03-I01",
+      "jenis_soal": "CU",
+      "pertanyaan": "Tinjau kembali bilangan yang tersedia. Kumpulan kiri memiliki 2 benda dan kumpulan kanan memiliki 6 benda. Pilih hubungan jumlah yang benar. Benda pada dua piring perlu diperiksa jumlahnya.",
+      "pilihan": {
+        "A": "lebih sedikit",
+        "B": "lebih banyak",
+        "C": "sama banyak"
+      },
+      "kunci_jawaban": "A",
+      "panduan_orang_tua": "Bacakan pertanyaan dan biarkan anak memilih hubungan yang tepat dari tiga pilihan. Jangan menyebutkan hasil perbandingan.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": true,
+      "image_description": "Dua kumpulan berdampingan; kumpulan kiri berisi 2 benda dan kumpulan kanan berisi 6 benda.",
+      "image_spec": "2D",
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM03-I01-CU-08",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM03-I01",
+      "jenis_soal": "CU",
+      "pertanyaan": "Pastikan tidak ada informasi yang terlewat. Kumpulan kiri memiliki 8 benda dan kumpulan kanan memiliki 5 benda. Pilih hubungan jumlah yang benar. Dua rak kecil berisi kelompok benda yang berbeda atau sama.",
+      "pilihan": {
+        "A": "lebih sedikit",
+        "B": "lebih banyak",
+        "C": "sama banyak"
+      },
+      "kunci_jawaban": "B",
+      "panduan_orang_tua": "Bacakan pertanyaan dan biarkan anak memilih hubungan yang tepat dari tiga pilihan. Jangan menyebutkan hasil perbandingan.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": true,
+      "image_description": "Dua kumpulan berdampingan; kumpulan kiri berisi 8 benda dan kumpulan kanan berisi 5 benda.",
+      "image_spec": "2D",
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM03-I01-CU-09",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM03-I01",
+      "jenis_soal": "CU",
+      "pertanyaan": "Cek ketepatan pemahaman terhadap konsep. Kumpulan kiri memiliki 5 benda dan kumpulan kanan memiliki 7 benda. Pilih hubungan jumlah yang benar. Kedua kelompok terlihat bersamaan sehingga jumlahnya dapat dibandingkan.",
+      "pilihan": {
+        "A": "sama banyak",
+        "B": "lebih banyak",
+        "C": "lebih sedikit"
+      },
+      "kunci_jawaban": "C",
+      "panduan_orang_tua": "Bacakan pertanyaan dan biarkan anak memilih hubungan yang tepat dari tiga pilihan. Jangan menyebutkan hasil perbandingan.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": true,
+      "image_description": "Dua kumpulan berdampingan; kumpulan kiri berisi 5 benda dan kumpulan kanan berisi 7 benda.",
+      "image_spec": "2D",
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM03-I01-CU-10",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM03-I01",
+      "jenis_soal": "CU",
+      "pertanyaan": "Nyatakan hasil pemeriksaanmu secara tepat. Kumpulan kiri memiliki 10 benda dan kumpulan kanan memiliki 10 benda. Pilih hubungan jumlah yang benar. Gunakan tampilan dua kelompok pada stimulus sebagai dasar keputusan.",
+      "pilihan": {
+        "A": "sama banyak",
+        "B": "lebih banyak",
+        "C": "lebih sedikit"
+      },
+      "kunci_jawaban": "A",
+      "panduan_orang_tua": "Bacakan pertanyaan dan biarkan anak memilih hubungan yang tepat dari tiga pilihan. Jangan menyebutkan hasil perbandingan.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": true,
+      "image_description": "Dua kumpulan berdampingan; kumpulan kiri berisi 10 benda dan kumpulan kanan berisi 10 benda.",
+      "image_spec": "2D",
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    }
+  ]
+}

@@ -1,0 +1,813 @@
+{
+  "id_indikator": "IND-MTK-A-K1-B.2-KM03-I01",
+  "hierarki": {
+    "CP": "CP-MTK-A-1.1 — Bilangan cacah sampai 100; nilai tempat; perbandingan dan pengurutan; komposisi/dekomposisi; penjumlahan dan pengurangan sampai 20; setengah dan seperempat.",
+    "ATP": "Kelas 1, ATP 3",
+    "TP": "B.2 — Membaca dan menulis bilangan sampai 20.",
+    "KM": "KM-MTK-A-K1-B.2-03 — Memadankan lambang bilangan cacah sampai 20 dengan banyak benda melalui korespondensi satu-satu.",
+    "Indikator": "IND-MTK-A-K1-B.2-KM03-I01 — Memadankan lambang bilangan cacah sampai 20 dengan kumpulan benda yang ditampilkan melalui gambar berdasarkan korespondensi satu-satu, kemudian menentukan kecocokan antara lambang bilangan dan banyak benda secara tepat.",
+    "kategori": "I"
+  },
+  "soal": [
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.2-KM03-I01-DIA-01",
+      "id_indikator": "IND-MTK-A-K1-B.2-KM03-I01",
+      "jenis_soal": "DIA",
+      "pertanyaan": "Perhatikan informasi berikut. Lihat kumpulan benda pada gambar. Pilih lambang bilangan yang cocok dengan banyak benda tersebut. Jumlah benda pada gambar menjadi dasar pemadanan.",
+      "pilihan": {
+        "A": "4",
+        "B": "3",
+        "C": "5"
+      },
+      "kunci_jawaban": "A",
+      "panduan_orang_tua": "Tampilkan stimulus dan biarkan anak memilih lambang yang cocok. Jangan menghitungkan atau menunjuk benda untuk anak.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": true,
+      "image_description": "Satu kumpulan gambar berisi tepat 4 benda yang dapat dipasangkan satu per satu dengan lambang bilangan.",
+      "image_spec": "2D",
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.2-KM03-I01-DIA-02",
+      "id_indikator": "IND-MTK-A-K1-B.2-KM03-I01",
+      "jenis_soal": "DIA",
+      "pertanyaan": "Jawablah berdasarkan stimulus yang tersedia. Lihat kumpulan benda pada gambar. Pilih lambang bilangan yang cocok dengan banyak benda tersebut. Lambang yang dipilih harus memiliki nilai sama dengan kumpulan.",
+      "pilihan": {
+        "A": "6",
+        "B": "7",
+        "C": "8"
+      },
+      "kunci_jawaban": "B",
+      "panduan_orang_tua": "Tampilkan stimulus dan biarkan anak memilih lambang yang cocok. Jangan menghitungkan atau menunjuk benda untuk anak.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": true,
+      "image_description": "Satu kumpulan gambar berisi tepat 7 benda yang dapat dipasangkan satu per satu dengan lambang bilangan.",
+      "image_spec": "2D",
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.2-KM03-I01-DIA-03",
+      "id_indikator": "IND-MTK-A-K1-B.2-KM03-I01",
+      "jenis_soal": "DIA",
+      "pertanyaan": "Gunakan data pada soal ini. Lihat kumpulan benda pada gambar. Pilih lambang bilangan yang cocok dengan banyak benda tersebut. Cocokkan satu benda dengan satu nilai bilangan.",
+      "pilihan": {
+        "A": "6",
+        "B": "4",
+        "C": "5"
+      },
+      "kunci_jawaban": "C",
+      "panduan_orang_tua": "Tampilkan stimulus dan biarkan anak memilih lambang yang cocok. Jangan menghitungkan atau menunjuk benda untuk anak.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": true,
+      "image_description": "Satu kumpulan gambar berisi tepat 5 benda yang dapat dipasangkan satu per satu dengan lambang bilangan.",
+      "image_spec": "2D",
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.2-KM03-I01-DIA-04",
+      "id_indikator": "IND-MTK-A-K1-B.2-KM03-I01",
+      "jenis_soal": "DIA",
+      "pertanyaan": "Cermati bilangan dan keterangan yang diberikan. Lihat kumpulan benda pada gambar. Pilih lambang bilangan yang cocok dengan banyak benda tersebut. Jangan memilih angka hanya berdasarkan letak pilihan.",
+      "pilihan": {
+        "A": "9",
+        "B": "8",
+        "C": "10"
+      },
+      "kunci_jawaban": "A",
+      "panduan_orang_tua": "Tampilkan stimulus dan biarkan anak memilih lambang yang cocok. Jangan menghitungkan atau menunjuk benda untuk anak.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": true,
+      "image_description": "Satu kumpulan gambar berisi tepat 9 benda yang dapat dipasangkan satu per satu dengan lambang bilangan.",
+      "image_spec": "2D",
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.2-KM03-I01-DIA-05",
+      "id_indikator": "IND-MTK-A-K1-B.2-KM03-I01",
+      "jenis_soal": "DIA",
+      "pertanyaan": "Amati situasi pada pertanyaan berikut. Lihat kumpulan benda pada gambar. Pilih lambang bilangan yang cocok dengan banyak benda tersebut. Periksa banyak benda sebelum memadankannya dengan lambang.",
+      "pilihan": {
+        "A": "5",
+        "B": "6",
+        "C": "7"
+      },
+      "kunci_jawaban": "B",
+      "panduan_orang_tua": "Tampilkan stimulus dan biarkan anak memilih lambang yang cocok. Jangan menghitungkan atau menunjuk benda untuk anak.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": true,
+      "image_description": "Satu kumpulan gambar berisi tepat 6 benda yang dapat dipasangkan satu per satu dengan lambang bilangan.",
+      "image_spec": "2D",
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.2-KM03-I01-DIA-06",
+      "id_indikator": "IND-MTK-A-K1-B.2-KM03-I01",
+      "jenis_soal": "DIA",
+      "pertanyaan": "Baca tugas ini dengan teliti. Lihat kumpulan benda pada gambar. Pilih lambang bilangan yang cocok dengan banyak benda tersebut. Kumpulan dan lambang harus menunjuk jumlah yang sama.",
+      "pilihan": {
+        "A": "9",
+        "B": "7",
+        "C": "8"
+      },
+      "kunci_jawaban": "C",
+      "panduan_orang_tua": "Tampilkan stimulus dan biarkan anak memilih lambang yang cocok. Jangan menghitungkan atau menunjuk benda untuk anak.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": true,
+      "image_description": "Satu kumpulan gambar berisi tepat 8 benda yang dapat dipasangkan satu per satu dengan lambang bilangan.",
+      "image_spec": "2D",
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.2-KM03-I01-DIA-07",
+      "id_indikator": "IND-MTK-A-K1-B.2-KM03-I01",
+      "jenis_soal": "DIA",
+      "pertanyaan": "Periksa semua informasi sebelum menjawab. Lihat kumpulan benda pada gambar. Pilih lambang bilangan yang cocok dengan banyak benda tersebut. Gunakan korespondensi satu-satu untuk memeriksa kecocokan.",
+      "pilihan": {
+        "A": "10",
+        "B": "9",
+        "C": "11"
+      },
+      "kunci_jawaban": "A",
+      "panduan_orang_tua": "Tampilkan stimulus dan biarkan anak memilih lambang yang cocok. Jangan menghitungkan atau menunjuk benda untuk anak.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": true,
+      "image_description": "Satu kumpulan gambar berisi tepat 10 benda yang dapat dipasangkan satu per satu dengan lambang bilangan.",
+      "image_spec": "2D",
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.2-KM03-I01-DIA-08",
+      "id_indikator": "IND-MTK-A-K1-B.2-KM03-I01",
+      "jenis_soal": "DIA",
+      "pertanyaan": "Pahami keadaan yang dijelaskan pada soal. Lihat kumpulan benda pada gambar. Pilih lambang bilangan yang cocok dengan banyak benda tersebut. Angka yang benar akan menjadi label bagi seluruh kumpulan.",
+      "pilihan": {
+        "A": "11",
+        "B": "12",
+        "C": "13"
+      },
+      "kunci_jawaban": "B",
+      "panduan_orang_tua": "Tampilkan stimulus dan biarkan anak memilih lambang yang cocok. Jangan menghitungkan atau menunjuk benda untuk anak.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": true,
+      "image_description": "Satu kumpulan gambar berisi tepat 12 benda yang dapat dipasangkan satu per satu dengan lambang bilangan.",
+      "image_spec": "2D",
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.2-KM03-I01-DIA-09",
+      "id_indikator": "IND-MTK-A-K1-B.2-KM03-I01",
+      "jenis_soal": "DIA",
+      "pertanyaan": "Gunakan lambang atau bilangan yang terlihat. Lihat kumpulan benda pada gambar. Pilih lambang bilangan yang cocok dengan banyak benda tersebut. Pilih lambang yang mewakili semua benda pada stimulus.",
+      "pilihan": {
+        "A": "15",
+        "B": "13",
+        "C": "14"
+      },
+      "kunci_jawaban": "C",
+      "panduan_orang_tua": "Tampilkan stimulus dan biarkan anak memilih lambang yang cocok. Jangan menghitungkan atau menunjuk benda untuk anak.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": true,
+      "image_description": "Satu kumpulan gambar berisi tepat 14 benda yang dapat dipasangkan satu per satu dengan lambang bilangan.",
+      "image_spec": "2D",
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.2-KM03-I01-DIA-10",
+      "id_indikator": "IND-MTK-A-K1-B.2-KM03-I01",
+      "jenis_soal": "DIA",
+      "pertanyaan": "Tentukan jawaban dari keadaan berikut. Lihat kumpulan benda pada gambar. Pilih lambang bilangan yang cocok dengan banyak benda tersebut. Pastikan pemadanan tidak kurang dan tidak lebih satu benda.",
+      "pilihan": {
+        "A": "16",
+        "B": "15",
+        "C": "17"
+      },
+      "kunci_jawaban": "A",
+      "panduan_orang_tua": "Tampilkan stimulus dan biarkan anak memilih lambang yang cocok. Jangan menghitungkan atau menunjuk benda untuk anak.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": true,
+      "image_description": "Satu kumpulan gambar berisi tepat 16 benda yang dapat dipasangkan satu per satu dengan lambang bilangan.",
+      "image_spec": "2D",
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.2-KM03-I01-PGT-01",
+      "id_indikator": "IND-MTK-A-K1-B.2-KM03-I01",
+      "jenis_soal": "PGT",
+      "pertanyaan": "Gunakan cara yang sudah dipelajari. Lihat kumpulan benda pada gambar. Pilih lambang bilangan yang cocok dengan banyak benda tersebut. Jumlah benda pada gambar menjadi dasar pemadanan.",
+      "pilihan": {
+        "A": "8",
+        "B": "9",
+        "C": "10"
+      },
+      "kunci_jawaban": "B",
+      "panduan_orang_tua": "Tampilkan stimulus dan biarkan anak memilih lambang yang cocok. Jangan menghitungkan atau menunjuk benda untuk anak.",
+      "penjelasan_konsep": "Lambang bilangan cocok dengan kumpulan benda jika jumlah bendanya sama dengan nilai lambang tersebut.",
+      "penerapan_nyata": "Anak dapat memilih label angka yang sesuai untuk menandai jumlah balok atau kancing.",
+      "butuh_gambar": true,
+      "image_description": "Satu kumpulan gambar berisi tepat 9 benda yang dapat dipasangkan satu per satu dengan lambang bilangan.",
+      "image_spec": "2D",
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.2-KM03-I01-PGT-02",
+      "id_indikator": "IND-MTK-A-K1-B.2-KM03-I01",
+      "jenis_soal": "PGT",
+      "pertanyaan": "Terapkan konsepnya pada keadaan ini. Lihat kumpulan benda pada gambar. Pilih lambang bilangan yang cocok dengan banyak benda tersebut. Lambang yang dipilih harus memiliki nilai sama dengan kumpulan.",
+      "pilihan": {
+        "A": "7",
+        "B": "5",
+        "C": "6"
+      },
+      "kunci_jawaban": "C",
+      "panduan_orang_tua": "Tampilkan stimulus dan biarkan anak memilih lambang yang cocok. Jangan menghitungkan atau menunjuk benda untuk anak.",
+      "penjelasan_konsep": "Lambang bilangan cocok dengan kumpulan benda jika jumlah bendanya sama dengan nilai lambang tersebut.",
+      "penerapan_nyata": "Anak dapat memilih label angka yang sesuai untuk menandai jumlah balok atau kancing.",
+      "butuh_gambar": true,
+      "image_description": "Satu kumpulan gambar berisi tepat 6 benda yang dapat dipasangkan satu per satu dengan lambang bilangan.",
+      "image_spec": "2D",
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.2-KM03-I01-PGT-03",
+      "id_indikator": "IND-MTK-A-K1-B.2-KM03-I01",
+      "jenis_soal": "PGT",
+      "pertanyaan": "Jelaskan pemikiranmu melalui pilihan yang tepat. Lihat kumpulan benda pada gambar. Pilih lambang bilangan yang cocok dengan banyak benda tersebut. Cocokkan satu benda dengan satu nilai bilangan.",
+      "pilihan": {
+        "A": "8",
+        "B": "7",
+        "C": "9"
+      },
+      "kunci_jawaban": "A",
+      "panduan_orang_tua": "Tampilkan stimulus dan biarkan anak memilih lambang yang cocok. Jangan menghitungkan atau menunjuk benda untuk anak.",
+      "penjelasan_konsep": "Lambang bilangan cocok dengan kumpulan benda jika jumlah bendanya sama dengan nilai lambang tersebut.",
+      "penerapan_nyata": "Anak dapat memilih label angka yang sesuai untuk menandai jumlah balok atau kancing.",
+      "butuh_gambar": true,
+      "image_description": "Satu kumpulan gambar berisi tepat 8 benda yang dapat dipasangkan satu per satu dengan lambang bilangan.",
+      "image_spec": "2D",
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.2-KM03-I01-PGT-04",
+      "id_indikator": "IND-MTK-A-K1-B.2-KM03-I01",
+      "jenis_soal": "PGT",
+      "pertanyaan": "Hubungkan informasi soal dengan konsep bilangan. Lihat kumpulan benda pada gambar. Pilih lambang bilangan yang cocok dengan banyak benda tersebut. Jangan memilih angka hanya berdasarkan letak pilihan.",
+      "pilihan": {
+        "A": "9",
+        "B": "10",
+        "C": "11"
+      },
+      "kunci_jawaban": "B",
+      "panduan_orang_tua": "Tampilkan stimulus dan biarkan anak memilih lambang yang cocok. Jangan menghitungkan atau menunjuk benda untuk anak.",
+      "penjelasan_konsep": "Lambang bilangan cocok dengan kumpulan benda jika jumlah bendanya sama dengan nilai lambang tersebut.",
+      "penerapan_nyata": "Anak dapat memilih label angka yang sesuai untuk menandai jumlah balok atau kancing.",
+      "butuh_gambar": true,
+      "image_description": "Satu kumpulan gambar berisi tepat 10 benda yang dapat dipasangkan satu per satu dengan lambang bilangan.",
+      "image_spec": "2D",
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.2-KM03-I01-PGT-05",
+      "id_indikator": "IND-MTK-A-K1-B.2-KM03-I01",
+      "jenis_soal": "PGT",
+      "pertanyaan": "Gunakan strategi yang membantu menemukan jawaban. Lihat kumpulan benda pada gambar. Pilih lambang bilangan yang cocok dengan banyak benda tersebut. Periksa banyak benda sebelum memadankannya dengan lambang.",
+      "pilihan": {
+        "A": "13",
+        "B": "11",
+        "C": "12"
+      },
+      "kunci_jawaban": "C",
+      "panduan_orang_tua": "Tampilkan stimulus dan biarkan anak memilih lambang yang cocok. Jangan menghitungkan atau menunjuk benda untuk anak.",
+      "penjelasan_konsep": "Lambang bilangan cocok dengan kumpulan benda jika jumlah bendanya sama dengan nilai lambang tersebut.",
+      "penerapan_nyata": "Anak dapat memilih label angka yang sesuai untuk menandai jumlah balok atau kancing.",
+      "butuh_gambar": true,
+      "image_description": "Satu kumpulan gambar berisi tepat 12 benda yang dapat dipasangkan satu per satu dengan lambang bilangan.",
+      "image_spec": "2D",
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.2-KM03-I01-PGT-06",
+      "id_indikator": "IND-MTK-A-K1-B.2-KM03-I01",
+      "jenis_soal": "PGT",
+      "pertanyaan": "Perhatikan hubungan antarbagian pada soal. Lihat kumpulan benda pada gambar. Pilih lambang bilangan yang cocok dengan banyak benda tersebut. Kumpulan dan lambang harus menunjuk jumlah yang sama.",
+      "pilihan": {
+        "A": "14",
+        "B": "13",
+        "C": "15"
+      },
+      "kunci_jawaban": "A",
+      "panduan_orang_tua": "Tampilkan stimulus dan biarkan anak memilih lambang yang cocok. Jangan menghitungkan atau menunjuk benda untuk anak.",
+      "penjelasan_konsep": "Lambang bilangan cocok dengan kumpulan benda jika jumlah bendanya sama dengan nilai lambang tersebut.",
+      "penerapan_nyata": "Anak dapat memilih label angka yang sesuai untuk menandai jumlah balok atau kancing.",
+      "butuh_gambar": true,
+      "image_description": "Satu kumpulan gambar berisi tepat 14 benda yang dapat dipasangkan satu per satu dengan lambang bilangan.",
+      "image_spec": "2D",
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.2-KM03-I01-PGT-07",
+      "id_indikator": "IND-MTK-A-K1-B.2-KM03-I01",
+      "jenis_soal": "PGT",
+      "pertanyaan": "Tunjukkan pemahamanmu terhadap situasi berikut. Lihat kumpulan benda pada gambar. Pilih lambang bilangan yang cocok dengan banyak benda tersebut. Gunakan korespondensi satu-satu untuk memeriksa kecocokan.",
+      "pilihan": {
+        "A": "15",
+        "B": "16",
+        "C": "17"
+      },
+      "kunci_jawaban": "B",
+      "panduan_orang_tua": "Tampilkan stimulus dan biarkan anak memilih lambang yang cocok. Jangan menghitungkan atau menunjuk benda untuk anak.",
+      "penjelasan_konsep": "Lambang bilangan cocok dengan kumpulan benda jika jumlah bendanya sama dengan nilai lambang tersebut.",
+      "penerapan_nyata": "Anak dapat memilih label angka yang sesuai untuk menandai jumlah balok atau kancing.",
+      "butuh_gambar": true,
+      "image_description": "Satu kumpulan gambar berisi tepat 16 benda yang dapat dipasangkan satu per satu dengan lambang bilangan.",
+      "image_spec": "2D",
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.2-KM03-I01-PGT-08",
+      "id_indikator": "IND-MTK-A-K1-B.2-KM03-I01",
+      "jenis_soal": "PGT",
+      "pertanyaan": "Pilih jawaban setelah memeriksa konsepnya. Lihat kumpulan benda pada gambar. Pilih lambang bilangan yang cocok dengan banyak benda tersebut. Angka yang benar akan menjadi label bagi seluruh kumpulan.",
+      "pilihan": {
+        "A": "5",
+        "B": "3",
+        "C": "4"
+      },
+      "kunci_jawaban": "C",
+      "panduan_orang_tua": "Tampilkan stimulus dan biarkan anak memilih lambang yang cocok. Jangan menghitungkan atau menunjuk benda untuk anak.",
+      "penjelasan_konsep": "Lambang bilangan cocok dengan kumpulan benda jika jumlah bendanya sama dengan nilai lambang tersebut.",
+      "penerapan_nyata": "Anak dapat memilih label angka yang sesuai untuk menandai jumlah balok atau kancing.",
+      "butuh_gambar": true,
+      "image_description": "Satu kumpulan gambar berisi tepat 4 benda yang dapat dipasangkan satu per satu dengan lambang bilangan.",
+      "image_spec": "2D",
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.2-KM03-I01-PGT-09",
+      "id_indikator": "IND-MTK-A-K1-B.2-KM03-I01",
+      "jenis_soal": "PGT",
+      "pertanyaan": "Gunakan penalaranmu, bukan tebakan. Lihat kumpulan benda pada gambar. Pilih lambang bilangan yang cocok dengan banyak benda tersebut. Pilih lambang yang mewakili semua benda pada stimulus.",
+      "pilihan": {
+        "A": "7",
+        "B": "6",
+        "C": "8"
+      },
+      "kunci_jawaban": "A",
+      "panduan_orang_tua": "Tampilkan stimulus dan biarkan anak memilih lambang yang cocok. Jangan menghitungkan atau menunjuk benda untuk anak.",
+      "penjelasan_konsep": "Lambang bilangan cocok dengan kumpulan benda jika jumlah bendanya sama dengan nilai lambang tersebut.",
+      "penerapan_nyata": "Anak dapat memilih label angka yang sesuai untuk menandai jumlah balok atau kancing.",
+      "butuh_gambar": true,
+      "image_description": "Satu kumpulan gambar berisi tepat 7 benda yang dapat dipasangkan satu per satu dengan lambang bilangan.",
+      "image_spec": "2D",
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.2-KM03-I01-PGT-10",
+      "id_indikator": "IND-MTK-A-K1-B.2-KM03-I01",
+      "jenis_soal": "PGT",
+      "pertanyaan": "Terapkan pemahaman bilangan pada contoh ini. Lihat kumpulan benda pada gambar. Pilih lambang bilangan yang cocok dengan banyak benda tersebut. Pastikan pemadanan tidak kurang dan tidak lebih satu benda.",
+      "pilihan": {
+        "A": "4",
+        "B": "5",
+        "C": "6"
+      },
+      "kunci_jawaban": "B",
+      "panduan_orang_tua": "Tampilkan stimulus dan biarkan anak memilih lambang yang cocok. Jangan menghitungkan atau menunjuk benda untuk anak.",
+      "penjelasan_konsep": "Lambang bilangan cocok dengan kumpulan benda jika jumlah bendanya sama dengan nilai lambang tersebut.",
+      "penerapan_nyata": "Anak dapat memilih label angka yang sesuai untuk menandai jumlah balok atau kancing.",
+      "butuh_gambar": true,
+      "image_description": "Satu kumpulan gambar berisi tepat 5 benda yang dapat dipasangkan satu per satu dengan lambang bilangan.",
+      "image_spec": "2D",
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.2-KM03-I01-PYN-01",
+      "id_indikator": "IND-MTK-A-K1-B.2-KM03-I01",
+      "jenis_soal": "PYN",
+      "pertanyaan": "Bayangkan situasi ini terjadi dalam kegiatan sehari-hari. Lihat kumpulan benda pada gambar. Pilih lambang bilangan yang cocok dengan banyak benda tersebut. Jumlah benda pada gambar menjadi dasar pemadanan.",
+      "pilihan": {
+        "A": "11",
+        "B": "9",
+        "C": "10"
+      },
+      "kunci_jawaban": "C",
+      "panduan_orang_tua": "Tampilkan stimulus dan biarkan anak memilih lambang yang cocok. Jangan menghitungkan atau menunjuk benda untuk anak.",
+      "penjelasan_konsep": "Lambang bilangan cocok dengan kumpulan benda jika jumlah bendanya sama dengan nilai lambang tersebut.",
+      "penerapan_nyata": "Anak dapat memilih label angka yang sesuai untuk menandai jumlah balok atau kancing.",
+      "butuh_gambar": true,
+      "image_description": "Satu kumpulan gambar berisi tepat 10 benda yang dapat dipasangkan satu per satu dengan lambang bilangan.",
+      "image_spec": "2D",
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.2-KM03-I01-PYN-02",
+      "id_indikator": "IND-MTK-A-K1-B.2-KM03-I01",
+      "jenis_soal": "PYN",
+      "pertanyaan": "Gunakan informasi berikut untuk membantu sebuah keputusan. Lihat kumpulan benda pada gambar. Pilih lambang bilangan yang cocok dengan banyak benda tersebut. Lambang yang dipilih harus memiliki nilai sama dengan kumpulan.",
+      "pilihan": {
+        "A": "12",
+        "B": "11",
+        "C": "13"
+      },
+      "kunci_jawaban": "A",
+      "panduan_orang_tua": "Tampilkan stimulus dan biarkan anak memilih lambang yang cocok. Jangan menghitungkan atau menunjuk benda untuk anak.",
+      "penjelasan_konsep": "Lambang bilangan cocok dengan kumpulan benda jika jumlah bendanya sama dengan nilai lambang tersebut.",
+      "penerapan_nyata": "Anak dapat memilih label angka yang sesuai untuk menandai jumlah balok atau kancing.",
+      "butuh_gambar": true,
+      "image_description": "Satu kumpulan gambar berisi tepat 12 benda yang dapat dipasangkan satu per satu dengan lambang bilangan.",
+      "image_spec": "2D",
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.2-KM03-I01-PYN-03",
+      "id_indikator": "IND-MTK-A-K1-B.2-KM03-I01",
+      "jenis_soal": "PYN",
+      "pertanyaan": "Pikirkan cara menerapkan konsep ini di luar latihan. Lihat kumpulan benda pada gambar. Pilih lambang bilangan yang cocok dengan banyak benda tersebut. Cocokkan satu benda dengan satu nilai bilangan.",
+      "pilihan": {
+        "A": "13",
+        "B": "14",
+        "C": "15"
+      },
+      "kunci_jawaban": "B",
+      "panduan_orang_tua": "Tampilkan stimulus dan biarkan anak memilih lambang yang cocok. Jangan menghitungkan atau menunjuk benda untuk anak.",
+      "penjelasan_konsep": "Lambang bilangan cocok dengan kumpulan benda jika jumlah bendanya sama dengan nilai lambang tersebut.",
+      "penerapan_nyata": "Anak dapat memilih label angka yang sesuai untuk menandai jumlah balok atau kancing.",
+      "butuh_gambar": true,
+      "image_description": "Satu kumpulan gambar berisi tepat 14 benda yang dapat dipasangkan satu per satu dengan lambang bilangan.",
+      "image_spec": "2D",
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.2-KM03-I01-PYN-04",
+      "id_indikator": "IND-MTK-A-K1-B.2-KM03-I01",
+      "jenis_soal": "PYN",
+      "pertanyaan": "Selesaikan tantangan kecil pada situasi berikut. Lihat kumpulan benda pada gambar. Pilih lambang bilangan yang cocok dengan banyak benda tersebut. Jangan memilih angka hanya berdasarkan letak pilihan.",
+      "pilihan": {
+        "A": "17",
+        "B": "15",
+        "C": "16"
+      },
+      "kunci_jawaban": "C",
+      "panduan_orang_tua": "Tampilkan stimulus dan biarkan anak memilih lambang yang cocok. Jangan menghitungkan atau menunjuk benda untuk anak.",
+      "penjelasan_konsep": "Lambang bilangan cocok dengan kumpulan benda jika jumlah bendanya sama dengan nilai lambang tersebut.",
+      "penerapan_nyata": "Anak dapat memilih label angka yang sesuai untuk menandai jumlah balok atau kancing.",
+      "butuh_gambar": true,
+      "image_description": "Satu kumpulan gambar berisi tepat 16 benda yang dapat dipasangkan satu per satu dengan lambang bilangan.",
+      "image_spec": "2D",
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.2-KM03-I01-PYN-05",
+      "id_indikator": "IND-MTK-A-K1-B.2-KM03-I01",
+      "jenis_soal": "PYN",
+      "pertanyaan": "Gunakan bilangan untuk menjelaskan keadaan yang diberikan. Lihat kumpulan benda pada gambar. Pilih lambang bilangan yang cocok dengan banyak benda tersebut. Periksa banyak benda sebelum memadankannya dengan lambang.",
+      "pilihan": {
+        "A": "4",
+        "B": "3",
+        "C": "5"
+      },
+      "kunci_jawaban": "A",
+      "panduan_orang_tua": "Tampilkan stimulus dan biarkan anak memilih lambang yang cocok. Jangan menghitungkan atau menunjuk benda untuk anak.",
+      "penjelasan_konsep": "Lambang bilangan cocok dengan kumpulan benda jika jumlah bendanya sama dengan nilai lambang tersebut.",
+      "penerapan_nyata": "Anak dapat memilih label angka yang sesuai untuk menandai jumlah balok atau kancing.",
+      "butuh_gambar": true,
+      "image_description": "Satu kumpulan gambar berisi tepat 4 benda yang dapat dipasangkan satu per satu dengan lambang bilangan.",
+      "image_spec": "2D",
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.2-KM03-I01-PYN-06",
+      "id_indikator": "IND-MTK-A-K1-B.2-KM03-I01",
+      "jenis_soal": "PYN",
+      "pertanyaan": "Perhatikan kebutuhan pada cerita singkat ini. Lihat kumpulan benda pada gambar. Pilih lambang bilangan yang cocok dengan banyak benda tersebut. Kumpulan dan lambang harus menunjuk jumlah yang sama.",
+      "pilihan": {
+        "A": "6",
+        "B": "7",
+        "C": "8"
+      },
+      "kunci_jawaban": "B",
+      "panduan_orang_tua": "Tampilkan stimulus dan biarkan anak memilih lambang yang cocok. Jangan menghitungkan atau menunjuk benda untuk anak.",
+      "penjelasan_konsep": "Lambang bilangan cocok dengan kumpulan benda jika jumlah bendanya sama dengan nilai lambang tersebut.",
+      "penerapan_nyata": "Anak dapat memilih label angka yang sesuai untuk menandai jumlah balok atau kancing.",
+      "butuh_gambar": true,
+      "image_description": "Satu kumpulan gambar berisi tepat 7 benda yang dapat dipasangkan satu per satu dengan lambang bilangan.",
+      "image_spec": "2D",
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.2-KM03-I01-PYN-07",
+      "id_indikator": "IND-MTK-A-K1-B.2-KM03-I01",
+      "jenis_soal": "PYN",
+      "pertanyaan": "Tentukan hasil yang berguna untuk kegiatan berikut. Lihat kumpulan benda pada gambar. Pilih lambang bilangan yang cocok dengan banyak benda tersebut. Gunakan korespondensi satu-satu untuk memeriksa kecocokan.",
+      "pilihan": {
+        "A": "6",
+        "B": "4",
+        "C": "5"
+      },
+      "kunci_jawaban": "C",
+      "panduan_orang_tua": "Tampilkan stimulus dan biarkan anak memilih lambang yang cocok. Jangan menghitungkan atau menunjuk benda untuk anak.",
+      "penjelasan_konsep": "Lambang bilangan cocok dengan kumpulan benda jika jumlah bendanya sama dengan nilai lambang tersebut.",
+      "penerapan_nyata": "Anak dapat memilih label angka yang sesuai untuk menandai jumlah balok atau kancing.",
+      "butuh_gambar": true,
+      "image_description": "Satu kumpulan gambar berisi tepat 5 benda yang dapat dipasangkan satu per satu dengan lambang bilangan.",
+      "image_spec": "2D",
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.2-KM03-I01-PYN-08",
+      "id_indikator": "IND-MTK-A-K1-B.2-KM03-I01",
+      "jenis_soal": "PYN",
+      "pertanyaan": "Gunakan strategi bilangan untuk menyelesaikan masalah ini. Lihat kumpulan benda pada gambar. Pilih lambang bilangan yang cocok dengan banyak benda tersebut. Angka yang benar akan menjadi label bagi seluruh kumpulan.",
+      "pilihan": {
+        "A": "9",
+        "B": "8",
+        "C": "10"
+      },
+      "kunci_jawaban": "A",
+      "panduan_orang_tua": "Tampilkan stimulus dan biarkan anak memilih lambang yang cocok. Jangan menghitungkan atau menunjuk benda untuk anak.",
+      "penjelasan_konsep": "Lambang bilangan cocok dengan kumpulan benda jika jumlah bendanya sama dengan nilai lambang tersebut.",
+      "penerapan_nyata": "Anak dapat memilih label angka yang sesuai untuk menandai jumlah balok atau kancing.",
+      "butuh_gambar": true,
+      "image_description": "Satu kumpulan gambar berisi tepat 9 benda yang dapat dipasangkan satu per satu dengan lambang bilangan.",
+      "image_spec": "2D",
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.2-KM03-I01-PYN-09",
+      "id_indikator": "IND-MTK-A-K1-B.2-KM03-I01",
+      "jenis_soal": "PYN",
+      "pertanyaan": "Hubungkan tugas ini dengan benda atau kegiatan nyata. Lihat kumpulan benda pada gambar. Pilih lambang bilangan yang cocok dengan banyak benda tersebut. Pilih lambang yang mewakili semua benda pada stimulus.",
+      "pilihan": {
+        "A": "5",
+        "B": "6",
+        "C": "7"
+      },
+      "kunci_jawaban": "B",
+      "panduan_orang_tua": "Tampilkan stimulus dan biarkan anak memilih lambang yang cocok. Jangan menghitungkan atau menunjuk benda untuk anak.",
+      "penjelasan_konsep": "Lambang bilangan cocok dengan kumpulan benda jika jumlah bendanya sama dengan nilai lambang tersebut.",
+      "penerapan_nyata": "Anak dapat memilih label angka yang sesuai untuk menandai jumlah balok atau kancing.",
+      "butuh_gambar": true,
+      "image_description": "Satu kumpulan gambar berisi tepat 6 benda yang dapat dipasangkan satu per satu dengan lambang bilangan.",
+      "image_spec": "2D",
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.2-KM03-I01-PYN-10",
+      "id_indikator": "IND-MTK-A-K1-B.2-KM03-I01",
+      "jenis_soal": "PYN",
+      "pertanyaan": "Buktikan pemahamanmu melalui situasi yang berbeda. Lihat kumpulan benda pada gambar. Pilih lambang bilangan yang cocok dengan banyak benda tersebut. Pastikan pemadanan tidak kurang dan tidak lebih satu benda.",
+      "pilihan": {
+        "A": "9",
+        "B": "7",
+        "C": "8"
+      },
+      "kunci_jawaban": "C",
+      "panduan_orang_tua": "Tampilkan stimulus dan biarkan anak memilih lambang yang cocok. Jangan menghitungkan atau menunjuk benda untuk anak.",
+      "penjelasan_konsep": "Lambang bilangan cocok dengan kumpulan benda jika jumlah bendanya sama dengan nilai lambang tersebut.",
+      "penerapan_nyata": "Anak dapat memilih label angka yang sesuai untuk menandai jumlah balok atau kancing.",
+      "butuh_gambar": true,
+      "image_description": "Satu kumpulan gambar berisi tepat 8 benda yang dapat dipasangkan satu per satu dengan lambang bilangan.",
+      "image_spec": "2D",
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.2-KM03-I01-CU-01",
+      "id_indikator": "IND-MTK-A-K1-B.2-KM03-I01",
+      "jenis_soal": "CU",
+      "pertanyaan": "Periksa kembali pemahamanmu. Lihat kumpulan benda pada gambar. Pilih lambang bilangan yang cocok dengan banyak benda tersebut. Jumlah benda pada gambar menjadi dasar pemadanan.",
+      "pilihan": {
+        "A": "16",
+        "B": "15",
+        "C": "17"
+      },
+      "kunci_jawaban": "A",
+      "panduan_orang_tua": "Tampilkan stimulus dan biarkan anak memilih lambang yang cocok. Jangan menghitungkan atau menunjuk benda untuk anak.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": true,
+      "image_description": "Satu kumpulan gambar berisi tepat 16 benda yang dapat dipasangkan satu per satu dengan lambang bilangan.",
+      "image_spec": "2D",
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.2-KM03-I01-CU-02",
+      "id_indikator": "IND-MTK-A-K1-B.2-KM03-I01",
+      "jenis_soal": "CU",
+      "pertanyaan": "Lakukan pengecekan dengan teliti. Lihat kumpulan benda pada gambar. Pilih lambang bilangan yang cocok dengan banyak benda tersebut. Lambang yang dipilih harus memiliki nilai sama dengan kumpulan.",
+      "pilihan": {
+        "A": "3",
+        "B": "4",
+        "C": "5"
+      },
+      "kunci_jawaban": "B",
+      "panduan_orang_tua": "Tampilkan stimulus dan biarkan anak memilih lambang yang cocok. Jangan menghitungkan atau menunjuk benda untuk anak.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": true,
+      "image_description": "Satu kumpulan gambar berisi tepat 4 benda yang dapat dipasangkan satu per satu dengan lambang bilangan.",
+      "image_spec": "2D",
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.2-KM03-I01-CU-03",
+      "id_indikator": "IND-MTK-A-K1-B.2-KM03-I01",
+      "jenis_soal": "CU",
+      "pertanyaan": "Pastikan hubungan bilangan pada jawabanmu benar. Lihat kumpulan benda pada gambar. Pilih lambang bilangan yang cocok dengan banyak benda tersebut. Cocokkan satu benda dengan satu nilai bilangan.",
+      "pilihan": {
+        "A": "8",
+        "B": "6",
+        "C": "7"
+      },
+      "kunci_jawaban": "C",
+      "panduan_orang_tua": "Tampilkan stimulus dan biarkan anak memilih lambang yang cocok. Jangan menghitungkan atau menunjuk benda untuk anak.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": true,
+      "image_description": "Satu kumpulan gambar berisi tepat 7 benda yang dapat dipasangkan satu per satu dengan lambang bilangan.",
+      "image_spec": "2D",
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.2-KM03-I01-CU-04",
+      "id_indikator": "IND-MTK-A-K1-B.2-KM03-I01",
+      "jenis_soal": "CU",
+      "pertanyaan": "Uji kembali cara yang kamu gunakan. Lihat kumpulan benda pada gambar. Pilih lambang bilangan yang cocok dengan banyak benda tersebut. Jangan memilih angka hanya berdasarkan letak pilihan.",
+      "pilihan": {
+        "A": "5",
+        "B": "4",
+        "C": "6"
+      },
+      "kunci_jawaban": "A",
+      "panduan_orang_tua": "Tampilkan stimulus dan biarkan anak memilih lambang yang cocok. Jangan menghitungkan atau menunjuk benda untuk anak.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": true,
+      "image_description": "Satu kumpulan gambar berisi tepat 5 benda yang dapat dipasangkan satu per satu dengan lambang bilangan.",
+      "image_spec": "2D",
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.2-KM03-I01-CU-05",
+      "id_indikator": "IND-MTK-A-K1-B.2-KM03-I01",
+      "jenis_soal": "CU",
+      "pertanyaan": "Cermati ulang informasi sebelum memilih. Lihat kumpulan benda pada gambar. Pilih lambang bilangan yang cocok dengan banyak benda tersebut. Periksa banyak benda sebelum memadankannya dengan lambang.",
+      "pilihan": {
+        "A": "8",
+        "B": "9",
+        "C": "10"
+      },
+      "kunci_jawaban": "B",
+      "panduan_orang_tua": "Tampilkan stimulus dan biarkan anak memilih lambang yang cocok. Jangan menghitungkan atau menunjuk benda untuk anak.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": true,
+      "image_description": "Satu kumpulan gambar berisi tepat 9 benda yang dapat dipasangkan satu per satu dengan lambang bilangan.",
+      "image_spec": "2D",
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.2-KM03-I01-CU-06",
+      "id_indikator": "IND-MTK-A-K1-B.2-KM03-I01",
+      "jenis_soal": "CU",
+      "pertanyaan": "Verifikasi jawabanmu pada tugas ini. Lihat kumpulan benda pada gambar. Pilih lambang bilangan yang cocok dengan banyak benda tersebut. Kumpulan dan lambang harus menunjuk jumlah yang sama.",
+      "pilihan": {
+        "A": "7",
+        "B": "5",
+        "C": "6"
+      },
+      "kunci_jawaban": "C",
+      "panduan_orang_tua": "Tampilkan stimulus dan biarkan anak memilih lambang yang cocok. Jangan menghitungkan atau menunjuk benda untuk anak.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": true,
+      "image_description": "Satu kumpulan gambar berisi tepat 6 benda yang dapat dipasangkan satu per satu dengan lambang bilangan.",
+      "image_spec": "2D",
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.2-KM03-I01-CU-07",
+      "id_indikator": "IND-MTK-A-K1-B.2-KM03-I01",
+      "jenis_soal": "CU",
+      "pertanyaan": "Tinjau kembali bilangan yang tersedia. Lihat kumpulan benda pada gambar. Pilih lambang bilangan yang cocok dengan banyak benda tersebut. Gunakan korespondensi satu-satu untuk memeriksa kecocokan.",
+      "pilihan": {
+        "A": "8",
+        "B": "7",
+        "C": "9"
+      },
+      "kunci_jawaban": "A",
+      "panduan_orang_tua": "Tampilkan stimulus dan biarkan anak memilih lambang yang cocok. Jangan menghitungkan atau menunjuk benda untuk anak.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": true,
+      "image_description": "Satu kumpulan gambar berisi tepat 8 benda yang dapat dipasangkan satu per satu dengan lambang bilangan.",
+      "image_spec": "2D",
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.2-KM03-I01-CU-08",
+      "id_indikator": "IND-MTK-A-K1-B.2-KM03-I01",
+      "jenis_soal": "CU",
+      "pertanyaan": "Pastikan tidak ada informasi yang terlewat. Lihat kumpulan benda pada gambar. Pilih lambang bilangan yang cocok dengan banyak benda tersebut. Angka yang benar akan menjadi label bagi seluruh kumpulan.",
+      "pilihan": {
+        "A": "9",
+        "B": "10",
+        "C": "11"
+      },
+      "kunci_jawaban": "B",
+      "panduan_orang_tua": "Tampilkan stimulus dan biarkan anak memilih lambang yang cocok. Jangan menghitungkan atau menunjuk benda untuk anak.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": true,
+      "image_description": "Satu kumpulan gambar berisi tepat 10 benda yang dapat dipasangkan satu per satu dengan lambang bilangan.",
+      "image_spec": "2D",
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.2-KM03-I01-CU-09",
+      "id_indikator": "IND-MTK-A-K1-B.2-KM03-I01",
+      "jenis_soal": "CU",
+      "pertanyaan": "Cek ketepatan pemahaman terhadap konsep. Lihat kumpulan benda pada gambar. Pilih lambang bilangan yang cocok dengan banyak benda tersebut. Pilih lambang yang mewakili semua benda pada stimulus.",
+      "pilihan": {
+        "A": "13",
+        "B": "11",
+        "C": "12"
+      },
+      "kunci_jawaban": "C",
+      "panduan_orang_tua": "Tampilkan stimulus dan biarkan anak memilih lambang yang cocok. Jangan menghitungkan atau menunjuk benda untuk anak.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": true,
+      "image_description": "Satu kumpulan gambar berisi tepat 12 benda yang dapat dipasangkan satu per satu dengan lambang bilangan.",
+      "image_spec": "2D",
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.2-KM03-I01-CU-10",
+      "id_indikator": "IND-MTK-A-K1-B.2-KM03-I01",
+      "jenis_soal": "CU",
+      "pertanyaan": "Nyatakan hasil pemeriksaanmu secara tepat. Lihat kumpulan benda pada gambar. Pilih lambang bilangan yang cocok dengan banyak benda tersebut. Pastikan pemadanan tidak kurang dan tidak lebih satu benda.",
+      "pilihan": {
+        "A": "14",
+        "B": "13",
+        "C": "15"
+      },
+      "kunci_jawaban": "A",
+      "panduan_orang_tua": "Tampilkan stimulus dan biarkan anak memilih lambang yang cocok. Jangan menghitungkan atau menunjuk benda untuk anak.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": true,
+      "image_description": "Satu kumpulan gambar berisi tepat 14 benda yang dapat dipasangkan satu per satu dengan lambang bilangan.",
+      "image_spec": "2D",
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    }
+  ]
+}

@@ -5,7 +5,7 @@
 - **Fungsi:** panduan kerja hidup menuju produksi Bank Soal SD.
 - **Acuan utama:** [dokumen induk V5-salinan 61](<ringkasan_bank_soal_sd_v5-salinan 61.md>), AGENTS.md, dan keputusan Romo yang telah disetujui.
 - **Tanggal pembaruan terakhir:** 27 November 2026.
-- **Status keseluruhan:** Tahap Migrasi 2, Tahap 3, Tahap 4, Gerbang 4, dan analisis 10 indikator telah final di `main`; pengajuan produksi pertama untuk 10 Diagnostik sedang menunggu persetujuan; produksi soal belum dimulai.
+- **Status keseluruhan:** Tahap Migrasi 2, Tahap 3, Tahap 4, Gerbang 4, dan analisis 10 indikator telah final di `main`; paket produksi yang sesuai keputusan Romo harus mencakup 10 indikator atau 400 soal; produksi batch 400 belum selesai dan belum final.
 - **Aturan pembaruan:** status hanya boleh berubah berdasarkan pekerjaan dan pemeriksaan aktual, bukan berdasarkan rencana, keberadaan kode, atau asumsi.
 
 ## Keputusan ruang lingkup
@@ -23,7 +23,7 @@ Konsekuensinya:
 
 Urutan wajib:
 
-**Ruang lingkup disahkan → repositori siap → perangkat tersedia → lingkungan lulus uji → persiapan disetujui → analisis indikator pertama → persetujuan rancangan → produksi bertahap → verifikasi 40 soal → persetujuan Romo → merge ke `main` → status Final.**
+**Ruang lingkup disahkan → repositori siap → perangkat tersedia → lingkungan lulus uji → persiapan disetujui → analisis 10 indikator → persetujuan rancangan → produksi internal per indikator/tahap → konsolidasi 10 indikator (400 soal) → pengajuan batch lengkap → verifikasi → persetujuan Romo → merge ke `main` → status Final.**
 
 Tahap berikutnya tidak boleh dimulai sebelum gerbang sebelumnya memenuhi kriteria dan memperoleh persetujuan yang dipersyaratkan.
 
@@ -222,7 +222,7 @@ Romo menyetujui persiapan produksi berdasarkan bukti aktual Gerbang 1–3.
 
 ### Batas
 
-Persetujuan ini membuka analisis dan rancangan, tetapi belum menyetujui penyusunan butir soal.
+Persetujuan ini membuka pekerjaan produksi, tetapi belum menyetujui isi soal tertentu.
 
 ---
 
@@ -262,7 +262,11 @@ Menyusun dan memeriksa rancangan empat jenis soal sebelum membuat butir soal.
 
 ### Status aktual
 
-**Final di `main`.** Sepuluh berkas analisis, masing-masing satu indikator, telah disetujui dan masuk `main` melalui PR #15–#24. Gerbang ini hanya menghasilkan analisis dan rancangan; belum boleh menghasilkan 40 soal.
+**Dalam verifikasi.** Sepuluh berkas analisis diajukan melalui PR #15–#24, masing-masing satu indikator.
+
+### Batas
+
+Gerbang ini hanya menghasilkan analisis dan rancangan. Belum boleh menghasilkan 40 soal.
 
 ---
 
@@ -273,6 +277,9 @@ Menyusun dan memeriksa rancangan empat jenis soal sebelum membuat butir soal.
 - Satu penugasan hanya mencakup satu indikator dan satu tahap.
 - Setiap kelompok berisi tepat 10 soal.
 - Setiap tahap memerlukan pemeriksaan dan persetujuan sebelum tahap berikutnya.
+- Untuk tujuan pengajuan kepada Romo, sepuluh penugasan indikator dikonsolidasikan dalam satu paket yang menampilkan seluruh 400 soal: 10 indikator × 4 jenis soal × 10 soal.
+- Konsolidasi tidak menghapus identitas, bukti, status, atau pemeriksaan terpisah tiap indikator.
+- Pengajuan batch tidak boleh dibuat sebelum seluruh 10 indikator memiliki 40 soal, HTML, gambar yang diperlukan, bukti ceklis, dan pemeriksaan yang diwajibkan.
 - Draf tidak dihitung sebagai soal final.
 - JSON tetap menjadi sumber data tunggal.
 - HTML dihasilkan dari JSON dan gambar terkait.
@@ -301,7 +308,7 @@ Menyusun dan memeriksa rancangan empat jenis soal sebelum membuat butir soal.
 
 ### Status aktual
 
-**Menunggu persetujuan pengajuan pertama.** PR #27 mengajukan produksi 10 Diagnostik untuk `IND-MTK-A-K1-B.1-KM01-I01`; belum ada butir soal yang dibuat.
+**Belum memenuhi lingkup pengajuan batch.** PR #30 hanya mencakup 1 indikator dan 10 soal Diagnostik, sehingga tidak dapat diperlakukan sebagai pengajuan produksi 400 soal. Paket yang benar harus memuat 10 indikator dan 400 soal secara keseluruhan.
 
 ---
 
@@ -309,7 +316,7 @@ Menyusun dan memeriksa rancangan empat jenis soal sebelum membuat butir soal.
 
 ### Kriteria final
 
-Satu indikator hanya boleh berstatus **Final** jika:
+ Satu indikator hanya boleh berstatus **Final** jika:
 
 - 40 soal tersedia dan lengkap.
 - JSON lengkap dan valid.
@@ -325,6 +332,18 @@ Satu indikator hanya boleh berstatus **Final** jika:
 - Hasil telah diverifikasi secara struktural, fungsional, substansial, dan visual.
 - Romo telah memberikan persetujuan akhir.
 - Perubahan telah masuk ke `main` melalui prosedur cabang dan pull request yang sah.
+
+### Kriteria pengajuan batch 10 indikator
+
+Sebelum pengajuan batch, seluruh kondisi berikut harus terpenuhi:
+
+- tepat 10 indikator yang telah disetujui tercantum;
+- setiap indikator memiliki tepat 40 soal;
+- total paket tepat 400 soal;
+- seluruh 400 soal dapat ditampilkan sekaligus dalam mode pemeriksaan/pengajuan;
+- setiap soal menampilkan identitas, kategori, stimulus bila berlaku, metode penilaian, dan atribut bersyarat sesuai dokumen induk;
+- bukti pemeriksaan tiap indikator tetap terpisah dan dapat ditelusuri;
+- paket tidak disebut Final sebelum persetujuan Romo dan merge ke `main`.
 
 ### Status aktual
 
@@ -391,6 +410,11 @@ Jika perubahan memengaruhi soal, gambar, metode, rubrik, HTML, JSON, koleksi pem
 | 27 November 2026 | Tahap 4 / Gerbang 3 | Romo menyetujui pengajuan Tahap 4 untuk difinalkan; lingkungan teknis sintetis akan berstatus Final setelah PR #12 masuk `main`. | Keputusan Romo; `docs/pengajuan_MIG-T4-VERIFIKASI.md`; PR #12. | Disetujui, menunggu finalisasi |
 | 27 November 2026 | Tahap 4 / Gerbang 3 | PR #12 berhasil di-merge; lingkungan verifikasi teknis sintetis difinalkan di `main`. | PR #12; merge `1560fbdf17df82d942c1bf974a4e8d890427e639`. | Final |
 | 27 November 2026 | Gerbang 4 | Pengajuan persiapan produksi untuk memulai analisis 10 indikator disetujui; setiap indikator tetap memiliki penugasan dan status terpisah; produksi soal belum diminta. | `docs/pengajuan_MIG-G4-PERSIAPAN-10-INDIKATOR.md`; PR #14; keputusan Romo. | Disetujui, menunggu finalisasi |
+| 27 November 2026 | Gerbang 4 / Gerbang 5 | PR #14 masuk `main`; sepuluh penugasan analisis Tahap 1 dibuat terpisah, masing-masing memuat stimulus, respons, metode awal, rubrik awal, rancangan empat jenis, dan antiduplikasi. | PR #14 merge `e27168a91b52c778a65715ac41ce8adb760dbdf9`; PR #15–#24. | Gerbang 4 Final; analisis Dalam verifikasi; produksi belum dimulai |
+| 27 November 2026 | Gerbang 6 / Produksi pertama | Pengajuan produksi 10 Diagnostik untuk satu indikator dibuat; belum ada butir soal, gambar, JSON, atau HTML. | PR #27; `docs/pengajuan_produksi/MTK-A-K1-B.1-KM01-I01-DIAGNOSTIK.md`. | Menunggu persetujuan produksi |
+| 27 November 2026 | Koreksi lingkup pengajuan | Keputusan Romo diklarifikasi: pengajuan produksi harus dikonsolidasikan setiap 10 indikator, sehingga paket yang diajukan berisi 400 soal (10 indikator × 4 jenis × 10 soal). PR #30 yang hanya memuat 1 indikator dan 10 Diagnostik tidak memenuhi lingkup ini dan tidak boleh diperlakukan sebagai pengajuan batch final. | `rencana_realisasi_bank_soal.md`; PR #30; keputusan Romo dalam percakapan. | Koreksi ditetapkan; paket 400 soal belum dibuat |
+| 27 November 2026 | Dokumentasi progres | Status Gerbang 4, register, catatan persetujuan, dan T4 diselaraskan dengan kondisi aktual; tidak ada perubahan substansi pendidikan atau produksi. | PR #25; cabang `docs/finalize-g4-and-track-analysis`. | Menunggu persetujuan dokumentasi |
+| 27 November 2026 | Gerbang 6 / Batch produksi 10 indikator | Draf 400 soal berhasil dibangun: 10 JSON sumber, 10 HTML indikator, 1 HTML audit gabungan, dan 160 SVG stimulus. Validator struktural lulus; antiduplikasi menemukan 0 duplikasi persis, 0 benturan ID, dan 52 kandidat kemiripan yang belum ditutup secara pedagogis. | `docs/verifikasi_produksi/MTK-A-K1-10-INDIKATOR-400.md`; `docs/verifikasi_produksi/MTK-A-K1-10-INDIKATOR-400-antidupe.json`; berkas `bank_soal/MTK/A/K1/`. | Dalam verifikasi; browser, telaah substansi/visual, penyelesaian kandidat, dan persetujuan akhir belum selesai |
 
 ## Rujukan dokumen induk
 
@@ -404,8 +428,3 @@ Jika perubahan memengaruhi soal, gambar, metode, rubrik, HTML, JSON, koleksi pem
 - Bab 20.6: empat tingkat pemeriksaan.
 - Bab 20.7: persetujuan dan register.
 - Bab 20.8: lima tahap migrasi.
-
-
-| 27 November 2026 | Gerbang 4 / Gerbang 5 | PR #14 dan PR #25 masuk `main`; sepuluh penugasan analisis Tahap 1 disetujui dan masuk `main`, masing-masing memuat stimulus, respons, metode awal, rubrik awal, rancangan empat jenis, dan antiduplikasi. | PR #15–#24 telah merge; register diperbarui. | Gerbang 4 Final; analisis Final; produksi belum dimulai |
-
-| 27 November 2026 | Gerbang 6 / Produksi pertama | Pengajuan produksi 10 Diagnostik untuk satu indikator dibuat; belum ada butir soal, gambar, JSON, atau HTML. | PR #27; `docs/pengajuan_produksi/MTK-A-K1-B.1-KM01-I01-DIAGNOSTIK.md`. | Menunggu persetujuan produksi |

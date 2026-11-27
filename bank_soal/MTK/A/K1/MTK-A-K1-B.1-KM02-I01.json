@@ -1,0 +1,1013 @@
+{
+  "id_indikator": "IND-MTK-A-K1-B.1-KM02-I01",
+  "hierarki": {
+    "CP": "CP-MTK-A-1.1 — Bilangan cacah sampai 100; nilai tempat; perbandingan dan pengurutan; komposisi/dekomposisi; penjumlahan dan pengurangan sampai 20; setengah dan seperempat.",
+    "ATP": "Kelas 1, ATP 1",
+    "TP": "B.1 — Membilang, subitasi, dan membandingkan jumlah benda.",
+    "KM": "KM-MTK-A-K1-B.1-02 — Menentukan banyak benda dalam kumpulan kecil secara langsung tanpa menghitung satu per satu (subitasi).",
+    "Indikator": "IND-MTK-A-K1-B.1-KM02-I01 — Menentukan banyak benda dalam satu kumpulan kecil yang ditampilkan melalui gambar secara langsung tanpa menghitung benda satu per satu, serta menyatakan jumlahnya dengan tepat.",
+    "kategori": "I"
+  },
+  "soal": [
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM02-I01-DIA-01",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM02-I01",
+      "jenis_soal": "DIA",
+      "pertanyaan": "Lihat sekilas kumpulan titik pada gambar. Berapa banyak titik yang kamu kenali?",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan stimulus dan minta anak menyebutkan jumlah tanpa menunjuk atau membilang satu per satu. Jangan menetapkan batas waktu yang tidak tercantum.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": true,
+      "image_description": "Kumpulan kecil berisi 3 titik biru dengan susunan yang mudah dikenali tanpa membilang satu per satu.",
+      "image_spec": "2D",
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons sesuai tuntutan proses yang diamati.",
+          "bobot": 1
+        },
+        {
+          "kriteria": "Anak menyatakan jumlah akhir dengan tepat.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM02-I01-DIA-02",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM02-I01",
+      "jenis_soal": "DIA",
+      "pertanyaan": "Tanpa membilang satu per satu, sebutkan jumlah titik biru yang tampak.",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan stimulus dan minta anak menyebutkan jumlah tanpa menunjuk atau membilang satu per satu. Jangan menetapkan batas waktu yang tidak tercantum.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": true,
+      "image_description": "Kumpulan kecil berisi 4 titik biru dengan susunan yang mudah dikenali tanpa membilang satu per satu.",
+      "image_spec": "2D",
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons sesuai tuntutan proses yang diamati.",
+          "bobot": 1
+        },
+        {
+          "kriteria": "Anak menyatakan jumlah akhir dengan tepat.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM02-I01-DIA-03",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM02-I01",
+      "jenis_soal": "DIA",
+      "pertanyaan": "Perhatikan susunan titik sebentar. Berapa jumlahnya?",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan stimulus dan minta anak menyebutkan jumlah tanpa menunjuk atau membilang satu per satu. Jangan menetapkan batas waktu yang tidak tercantum.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": true,
+      "image_description": "Kumpulan kecil berisi 5 titik biru dengan susunan yang mudah dikenali tanpa membilang satu per satu.",
+      "image_spec": "2D",
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons sesuai tuntutan proses yang diamati.",
+          "bobot": 1
+        },
+        {
+          "kriteria": "Anak menyatakan jumlah akhir dengan tepat.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM02-I01-DIA-04",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM02-I01",
+      "jenis_soal": "DIA",
+      "pertanyaan": "Kenali banyak titik pada stimulus secara langsung, lalu ucapkan bilangannya.",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan stimulus dan minta anak menyebutkan jumlah tanpa menunjuk atau membilang satu per satu. Jangan menetapkan batas waktu yang tidak tercantum.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": true,
+      "image_description": "Kumpulan kecil berisi 6 titik biru dengan susunan yang mudah dikenali tanpa membilang satu per satu.",
+      "image_spec": "2D",
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons sesuai tuntutan proses yang diamati.",
+          "bobot": 1
+        },
+        {
+          "kriteria": "Anak menyatakan jumlah akhir dengan tepat.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM02-I01-DIA-05",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM02-I01",
+      "jenis_soal": "DIA",
+      "pertanyaan": "Ada berapa titik biru pada kumpulan kecil ini jika kamu melihatnya sekaligus?",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan stimulus dan minta anak menyebutkan jumlah tanpa menunjuk atau membilang satu per satu. Jangan menetapkan batas waktu yang tidak tercantum.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": true,
+      "image_description": "Kumpulan kecil berisi 4 titik biru dengan susunan yang mudah dikenali tanpa membilang satu per satu.",
+      "image_spec": "2D",
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons sesuai tuntutan proses yang diamati.",
+          "bobot": 1
+        },
+        {
+          "kriteria": "Anak menyatakan jumlah akhir dengan tepat.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM02-I01-DIA-06",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM02-I01",
+      "jenis_soal": "DIA",
+      "pertanyaan": "Sebutkan jumlah titik yang kamu lihat tanpa menunjuk setiap titik.",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan stimulus dan minta anak menyebutkan jumlah tanpa menunjuk atau membilang satu per satu. Jangan menetapkan batas waktu yang tidak tercantum.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": true,
+      "image_description": "Kumpulan kecil berisi 5 titik biru dengan susunan yang mudah dikenali tanpa membilang satu per satu.",
+      "image_spec": "2D",
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons sesuai tuntutan proses yang diamati.",
+          "bobot": 1
+        },
+        {
+          "kriteria": "Anak menyatakan jumlah akhir dengan tepat.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM02-I01-DIA-07",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM02-I01",
+      "jenis_soal": "DIA",
+      "pertanyaan": "Amati pola titik. Bilangan apa yang menyatakan banyak titik itu?",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan stimulus dan minta anak menyebutkan jumlah tanpa menunjuk atau membilang satu per satu. Jangan menetapkan batas waktu yang tidak tercantum.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": true,
+      "image_description": "Kumpulan kecil berisi 3 titik biru dengan susunan yang mudah dikenali tanpa membilang satu per satu.",
+      "image_spec": "2D",
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons sesuai tuntutan proses yang diamati.",
+          "bobot": 1
+        },
+        {
+          "kriteria": "Anak menyatakan jumlah akhir dengan tepat.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM02-I01-DIA-08",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM02-I01",
+      "jenis_soal": "DIA",
+      "pertanyaan": "Berapa titik yang tampak dalam satu pandangan pada gambar ini?",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan stimulus dan minta anak menyebutkan jumlah tanpa menunjuk atau membilang satu per satu. Jangan menetapkan batas waktu yang tidak tercantum.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": true,
+      "image_description": "Kumpulan kecil berisi 6 titik biru dengan susunan yang mudah dikenali tanpa membilang satu per satu.",
+      "image_spec": "2D",
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons sesuai tuntutan proses yang diamati.",
+          "bobot": 1
+        },
+        {
+          "kriteria": "Anak menyatakan jumlah akhir dengan tepat.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM02-I01-DIA-09",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM02-I01",
+      "jenis_soal": "DIA",
+      "pertanyaan": "Nyatakan banyak titik berdasarkan pengenalan langsung terhadap susunannya.",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan stimulus dan minta anak menyebutkan jumlah tanpa menunjuk atau membilang satu per satu. Jangan menetapkan batas waktu yang tidak tercantum.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": true,
+      "image_description": "Kumpulan kecil berisi 5 titik biru dengan susunan yang mudah dikenali tanpa membilang satu per satu.",
+      "image_spec": "2D",
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons sesuai tuntutan proses yang diamati.",
+          "bobot": 1
+        },
+        {
+          "kriteria": "Anak menyatakan jumlah akhir dengan tepat.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM02-I01-DIA-10",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM02-I01",
+      "jenis_soal": "DIA",
+      "pertanyaan": "Lihat kumpulan kecil ini dan jawab jumlahnya tanpa hitungan satu-satu.",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan stimulus dan minta anak menyebutkan jumlah tanpa menunjuk atau membilang satu per satu. Jangan menetapkan batas waktu yang tidak tercantum.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": true,
+      "image_description": "Kumpulan kecil berisi 4 titik biru dengan susunan yang mudah dikenali tanpa membilang satu per satu.",
+      "image_spec": "2D",
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons sesuai tuntutan proses yang diamati.",
+          "bobot": 1
+        },
+        {
+          "kriteria": "Anak menyatakan jumlah akhir dengan tepat.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM02-I01-PGT-01",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM02-I01",
+      "jenis_soal": "PGT",
+      "pertanyaan": "Kenali susunan titik secara langsung tanpa menyentuhnya satu per satu. Berapa banyak titik itu?",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan stimulus dan minta anak menyebutkan jumlah tanpa menunjuk atau membilang satu per satu. Jangan menetapkan batas waktu yang tidak tercantum.",
+      "penjelasan_konsep": "Subitasi berarti mengenali banyak benda dalam kumpulan kecil secara langsung, bukan dengan membilang setiap benda satu per satu.",
+      "penerapan_nyata": "Anak dapat mengenali jumlah kecil kancing atau balok yang terlihat sekilas tanpa menghitung satu per satu.",
+      "butuh_gambar": true,
+      "image_description": "Kumpulan kecil berisi 6 titik biru dengan susunan yang mudah dikenali tanpa membilang satu per satu.",
+      "image_spec": "2D",
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons sesuai tuntutan proses yang diamati.",
+          "bobot": 1
+        },
+        {
+          "kriteria": "Anak menyatakan jumlah akhir dengan tepat.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM02-I01-PGT-02",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM02-I01",
+      "jenis_soal": "PGT",
+      "pertanyaan": "Gunakan penglihatan untuk mengenali pola titik sekaligus. Bilangan berapa yang kamu lihat?",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan stimulus dan minta anak menyebutkan jumlah tanpa menunjuk atau membilang satu per satu. Jangan menetapkan batas waktu yang tidak tercantum.",
+      "penjelasan_konsep": "Subitasi berarti mengenali banyak benda dalam kumpulan kecil secara langsung, bukan dengan membilang setiap benda satu per satu.",
+      "penerapan_nyata": "Anak dapat mengenali jumlah kecil kancing atau balok yang terlihat sekilas tanpa menghitung satu per satu.",
+      "butuh_gambar": true,
+      "image_description": "Kumpulan kecil berisi 4 titik biru dengan susunan yang mudah dikenali tanpa membilang satu per satu.",
+      "image_spec": "2D",
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons sesuai tuntutan proses yang diamati.",
+          "bobot": 1
+        },
+        {
+          "kriteria": "Anak menyatakan jumlah akhir dengan tepat.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM02-I01-PGT-03",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM02-I01",
+      "jenis_soal": "PGT",
+      "pertanyaan": "Perhatikan kelompok titik biru dan sebutkan jumlahnya tanpa membilang satu-satu.",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan stimulus dan minta anak menyebutkan jumlah tanpa menunjuk atau membilang satu per satu. Jangan menetapkan batas waktu yang tidak tercantum.",
+      "penjelasan_konsep": "Subitasi berarti mengenali banyak benda dalam kumpulan kecil secara langsung, bukan dengan membilang setiap benda satu per satu.",
+      "penerapan_nyata": "Anak dapat mengenali jumlah kecil kancing atau balok yang terlihat sekilas tanpa menghitung satu per satu.",
+      "butuh_gambar": true,
+      "image_description": "Kumpulan kecil berisi 5 titik biru dengan susunan yang mudah dikenali tanpa membilang satu per satu.",
+      "image_spec": "2D",
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons sesuai tuntutan proses yang diamati.",
+          "bobot": 1
+        },
+        {
+          "kriteria": "Anak menyatakan jumlah akhir dengan tepat.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM02-I01-PGT-04",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM02-I01",
+      "jenis_soal": "PGT",
+      "pertanyaan": "Tunjukkan bahwa kamu mengenali jumlah titik dari polanya, bukan dari hitungan berurutan.",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan stimulus dan minta anak menyebutkan jumlah tanpa menunjuk atau membilang satu per satu. Jangan menetapkan batas waktu yang tidak tercantum.",
+      "penjelasan_konsep": "Subitasi berarti mengenali banyak benda dalam kumpulan kecil secara langsung, bukan dengan membilang setiap benda satu per satu.",
+      "penerapan_nyata": "Anak dapat mengenali jumlah kecil kancing atau balok yang terlihat sekilas tanpa menghitung satu per satu.",
+      "butuh_gambar": true,
+      "image_description": "Kumpulan kecil berisi 3 titik biru dengan susunan yang mudah dikenali tanpa membilang satu per satu.",
+      "image_spec": "2D",
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons sesuai tuntutan proses yang diamati.",
+          "bobot": 1
+        },
+        {
+          "kriteria": "Anak menyatakan jumlah akhir dengan tepat.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM02-I01-PGT-05",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM02-I01",
+      "jenis_soal": "PGT",
+      "pertanyaan": "Lihat stimulus sebentar. Berapa titik yang dapat kamu kenali sekaligus?",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan stimulus dan minta anak menyebutkan jumlah tanpa menunjuk atau membilang satu per satu. Jangan menetapkan batas waktu yang tidak tercantum.",
+      "penjelasan_konsep": "Subitasi berarti mengenali banyak benda dalam kumpulan kecil secara langsung, bukan dengan membilang setiap benda satu per satu.",
+      "penerapan_nyata": "Anak dapat mengenali jumlah kecil kancing atau balok yang terlihat sekilas tanpa menghitung satu per satu.",
+      "butuh_gambar": true,
+      "image_description": "Kumpulan kecil berisi 6 titik biru dengan susunan yang mudah dikenali tanpa membilang satu per satu.",
+      "image_spec": "2D",
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons sesuai tuntutan proses yang diamati.",
+          "bobot": 1
+        },
+        {
+          "kriteria": "Anak menyatakan jumlah akhir dengan tepat.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM02-I01-PGT-06",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM02-I01",
+      "jenis_soal": "PGT",
+      "pertanyaan": "Amati kumpulan kecil itu sebagai satu pola. Berapa banyak titiknya?",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan stimulus dan minta anak menyebutkan jumlah tanpa menunjuk atau membilang satu per satu. Jangan menetapkan batas waktu yang tidak tercantum.",
+      "penjelasan_konsep": "Subitasi berarti mengenali banyak benda dalam kumpulan kecil secara langsung, bukan dengan membilang setiap benda satu per satu.",
+      "penerapan_nyata": "Anak dapat mengenali jumlah kecil kancing atau balok yang terlihat sekilas tanpa menghitung satu per satu.",
+      "butuh_gambar": true,
+      "image_description": "Kumpulan kecil berisi 5 titik biru dengan susunan yang mudah dikenali tanpa membilang satu per satu.",
+      "image_spec": "2D",
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons sesuai tuntutan proses yang diamati.",
+          "bobot": 1
+        },
+        {
+          "kriteria": "Anak menyatakan jumlah akhir dengan tepat.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM02-I01-PGT-07",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM02-I01",
+      "jenis_soal": "PGT",
+      "pertanyaan": "Sebutkan jumlah titik berdasarkan pandangan langsung terhadap seluruh susunan.",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan stimulus dan minta anak menyebutkan jumlah tanpa menunjuk atau membilang satu per satu. Jangan menetapkan batas waktu yang tidak tercantum.",
+      "penjelasan_konsep": "Subitasi berarti mengenali banyak benda dalam kumpulan kecil secara langsung, bukan dengan membilang setiap benda satu per satu.",
+      "penerapan_nyata": "Anak dapat mengenali jumlah kecil kancing atau balok yang terlihat sekilas tanpa menghitung satu per satu.",
+      "butuh_gambar": true,
+      "image_description": "Kumpulan kecil berisi 4 titik biru dengan susunan yang mudah dikenali tanpa membilang satu per satu.",
+      "image_spec": "2D",
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons sesuai tuntutan proses yang diamati.",
+          "bobot": 1
+        },
+        {
+          "kriteria": "Anak menyatakan jumlah akhir dengan tepat.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM02-I01-PGT-08",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM02-I01",
+      "jenis_soal": "PGT",
+      "pertanyaan": "Tanpa menunjuk, kenali jumlah benda dari pola titik biru. Apa bilangannya?",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan stimulus dan minta anak menyebutkan jumlah tanpa menunjuk atau membilang satu per satu. Jangan menetapkan batas waktu yang tidak tercantum.",
+      "penjelasan_konsep": "Subitasi berarti mengenali banyak benda dalam kumpulan kecil secara langsung, bukan dengan membilang setiap benda satu per satu.",
+      "penerapan_nyata": "Anak dapat mengenali jumlah kecil kancing atau balok yang terlihat sekilas tanpa menghitung satu per satu.",
+      "butuh_gambar": true,
+      "image_description": "Kumpulan kecil berisi 3 titik biru dengan susunan yang mudah dikenali tanpa membilang satu per satu.",
+      "image_spec": "2D",
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons sesuai tuntutan proses yang diamati.",
+          "bobot": 1
+        },
+        {
+          "kriteria": "Anak menyatakan jumlah akhir dengan tepat.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM02-I01-PGT-09",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM02-I01",
+      "jenis_soal": "PGT",
+      "pertanyaan": "Gunakan subitasi untuk menentukan banyak titik pada gambar. Berapa jawabannya?",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan stimulus dan minta anak menyebutkan jumlah tanpa menunjuk atau membilang satu per satu. Jangan menetapkan batas waktu yang tidak tercantum.",
+      "penjelasan_konsep": "Subitasi berarti mengenali banyak benda dalam kumpulan kecil secara langsung, bukan dengan membilang setiap benda satu per satu.",
+      "penerapan_nyata": "Anak dapat mengenali jumlah kecil kancing atau balok yang terlihat sekilas tanpa menghitung satu per satu.",
+      "butuh_gambar": true,
+      "image_description": "Kumpulan kecil berisi 4 titik biru dengan susunan yang mudah dikenali tanpa membilang satu per satu.",
+      "image_spec": "2D",
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons sesuai tuntutan proses yang diamati.",
+          "bobot": 1
+        },
+        {
+          "kriteria": "Anak menyatakan jumlah akhir dengan tepat.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM02-I01-PGT-10",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM02-I01",
+      "jenis_soal": "PGT",
+      "pertanyaan": "Perhatikan susunan titik dan nyatakan jumlah yang langsung kamu kenali.",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan stimulus dan minta anak menyebutkan jumlah tanpa menunjuk atau membilang satu per satu. Jangan menetapkan batas waktu yang tidak tercantum.",
+      "penjelasan_konsep": "Subitasi berarti mengenali banyak benda dalam kumpulan kecil secara langsung, bukan dengan membilang setiap benda satu per satu.",
+      "penerapan_nyata": "Anak dapat mengenali jumlah kecil kancing atau balok yang terlihat sekilas tanpa menghitung satu per satu.",
+      "butuh_gambar": true,
+      "image_description": "Kumpulan kecil berisi 5 titik biru dengan susunan yang mudah dikenali tanpa membilang satu per satu.",
+      "image_spec": "2D",
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons sesuai tuntutan proses yang diamati.",
+          "bobot": 1
+        },
+        {
+          "kriteria": "Anak menyatakan jumlah akhir dengan tepat.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM02-I01-PYN-01",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM02-I01",
+      "jenis_soal": "PYN",
+      "pertanyaan": "Kamu melihat titik-titik ini sekilas sebelum bermain. Berapa banyak yang langsung kamu kenali?",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan stimulus dan minta anak menyebutkan jumlah tanpa menunjuk atau membilang satu per satu. Jangan menetapkan batas waktu yang tidak tercantum.",
+      "penjelasan_konsep": "Subitasi berarti mengenali banyak benda dalam kumpulan kecil secara langsung, bukan dengan membilang setiap benda satu per satu.",
+      "penerapan_nyata": "Anak dapat mengenali jumlah kecil kancing atau balok yang terlihat sekilas tanpa menghitung satu per satu.",
+      "butuh_gambar": true,
+      "image_description": "Kumpulan kecil berisi 3 titik biru dengan susunan yang mudah dikenali tanpa membilang satu per satu.",
+      "image_spec": "2D",
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons sesuai tuntutan proses yang diamati.",
+          "bobot": 1
+        },
+        {
+          "kriteria": "Anak menyatakan jumlah akhir dengan tepat.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM02-I01-PYN-02",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM02-I01",
+      "jenis_soal": "PYN",
+      "pertanyaan": "Jika pola titik muncul di kartu permainan, berapa jumlah yang dapat kamu sebutkan tanpa menghitung?",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan stimulus dan minta anak menyebutkan jumlah tanpa menunjuk atau membilang satu per satu. Jangan menetapkan batas waktu yang tidak tercantum.",
+      "penjelasan_konsep": "Subitasi berarti mengenali banyak benda dalam kumpulan kecil secara langsung, bukan dengan membilang setiap benda satu per satu.",
+      "penerapan_nyata": "Anak dapat mengenali jumlah kecil kancing atau balok yang terlihat sekilas tanpa menghitung satu per satu.",
+      "butuh_gambar": true,
+      "image_description": "Kumpulan kecil berisi 6 titik biru dengan susunan yang mudah dikenali tanpa membilang satu per satu.",
+      "image_spec": "2D",
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons sesuai tuntutan proses yang diamati.",
+          "bobot": 1
+        },
+        {
+          "kriteria": "Anak menyatakan jumlah akhir dengan tepat.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM02-I01-PYN-03",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM02-I01",
+      "jenis_soal": "PYN",
+      "pertanyaan": "Gunakan pengenalan cepat terhadap susunan titik untuk menentukan bilangannya.",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan stimulus dan minta anak menyebutkan jumlah tanpa menunjuk atau membilang satu per satu. Jangan menetapkan batas waktu yang tidak tercantum.",
+      "penjelasan_konsep": "Subitasi berarti mengenali banyak benda dalam kumpulan kecil secara langsung, bukan dengan membilang setiap benda satu per satu.",
+      "penerapan_nyata": "Anak dapat mengenali jumlah kecil kancing atau balok yang terlihat sekilas tanpa menghitung satu per satu.",
+      "butuh_gambar": true,
+      "image_description": "Kumpulan kecil berisi 5 titik biru dengan susunan yang mudah dikenali tanpa membilang satu per satu.",
+      "image_spec": "2D",
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons sesuai tuntutan proses yang diamati.",
+          "bobot": 1
+        },
+        {
+          "kriteria": "Anak menyatakan jumlah akhir dengan tepat.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM02-I01-PYN-04",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM02-I01",
+      "jenis_soal": "PYN",
+      "pertanyaan": "Seorang teman menutup gambar segera. Sebelum tertutup, berapa titik yang kamu kenali?",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan stimulus dan minta anak menyebutkan jumlah tanpa menunjuk atau membilang satu per satu. Jangan menetapkan batas waktu yang tidak tercantum.",
+      "penjelasan_konsep": "Subitasi berarti mengenali banyak benda dalam kumpulan kecil secara langsung, bukan dengan membilang setiap benda satu per satu.",
+      "penerapan_nyata": "Anak dapat mengenali jumlah kecil kancing atau balok yang terlihat sekilas tanpa menghitung satu per satu.",
+      "butuh_gambar": true,
+      "image_description": "Kumpulan kecil berisi 4 titik biru dengan susunan yang mudah dikenali tanpa membilang satu per satu.",
+      "image_spec": "2D",
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons sesuai tuntutan proses yang diamati.",
+          "bobot": 1
+        },
+        {
+          "kriteria": "Anak menyatakan jumlah akhir dengan tepat.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM02-I01-PYN-05",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM02-I01",
+      "jenis_soal": "PYN",
+      "pertanyaan": "Tentukan banyak titik dari pola keseluruhan, bukan dengan menunjuknya satu per satu.",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan stimulus dan minta anak menyebutkan jumlah tanpa menunjuk atau membilang satu per satu. Jangan menetapkan batas waktu yang tidak tercantum.",
+      "penjelasan_konsep": "Subitasi berarti mengenali banyak benda dalam kumpulan kecil secara langsung, bukan dengan membilang setiap benda satu per satu.",
+      "penerapan_nyata": "Anak dapat mengenali jumlah kecil kancing atau balok yang terlihat sekilas tanpa menghitung satu per satu.",
+      "butuh_gambar": true,
+      "image_description": "Kumpulan kecil berisi 3 titik biru dengan susunan yang mudah dikenali tanpa membilang satu per satu.",
+      "image_spec": "2D",
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons sesuai tuntutan proses yang diamati.",
+          "bobot": 1
+        },
+        {
+          "kriteria": "Anak menyatakan jumlah akhir dengan tepat.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM02-I01-PYN-06",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM02-I01",
+      "jenis_soal": "PYN",
+      "pertanyaan": "Bayangkan susunan ini sebagai pola pada dadu. Berapa jumlah titik yang terlihat?",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan stimulus dan minta anak menyebutkan jumlah tanpa menunjuk atau membilang satu per satu. Jangan menetapkan batas waktu yang tidak tercantum.",
+      "penjelasan_konsep": "Subitasi berarti mengenali banyak benda dalam kumpulan kecil secara langsung, bukan dengan membilang setiap benda satu per satu.",
+      "penerapan_nyata": "Anak dapat mengenali jumlah kecil kancing atau balok yang terlihat sekilas tanpa menghitung satu per satu.",
+      "butuh_gambar": true,
+      "image_description": "Kumpulan kecil berisi 4 titik biru dengan susunan yang mudah dikenali tanpa membilang satu per satu.",
+      "image_spec": "2D",
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons sesuai tuntutan proses yang diamati.",
+          "bobot": 1
+        },
+        {
+          "kriteria": "Anak menyatakan jumlah akhir dengan tepat.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM02-I01-PYN-07",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM02-I01",
+      "jenis_soal": "PYN",
+      "pertanyaan": "Kenali jumlah pada kelompok kecil ini lalu jelaskan bilangan yang kamu sebutkan.",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan stimulus dan minta anak menyebutkan jumlah tanpa menunjuk atau membilang satu per satu. Jangan menetapkan batas waktu yang tidak tercantum.",
+      "penjelasan_konsep": "Subitasi berarti mengenali banyak benda dalam kumpulan kecil secara langsung, bukan dengan membilang setiap benda satu per satu.",
+      "penerapan_nyata": "Anak dapat mengenali jumlah kecil kancing atau balok yang terlihat sekilas tanpa menghitung satu per satu.",
+      "butuh_gambar": true,
+      "image_description": "Kumpulan kecil berisi 5 titik biru dengan susunan yang mudah dikenali tanpa membilang satu per satu.",
+      "image_spec": "2D",
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons sesuai tuntutan proses yang diamati.",
+          "bobot": 1
+        },
+        {
+          "kriteria": "Anak menyatakan jumlah akhir dengan tepat.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM02-I01-PYN-08",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM02-I01",
+      "jenis_soal": "PYN",
+      "pertanyaan": "Perhatikan bentuk susunan titik untuk menemukan jumlahnya secara langsung.",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan stimulus dan minta anak menyebutkan jumlah tanpa menunjuk atau membilang satu per satu. Jangan menetapkan batas waktu yang tidak tercantum.",
+      "penjelasan_konsep": "Subitasi berarti mengenali banyak benda dalam kumpulan kecil secara langsung, bukan dengan membilang setiap benda satu per satu.",
+      "penerapan_nyata": "Anak dapat mengenali jumlah kecil kancing atau balok yang terlihat sekilas tanpa menghitung satu per satu.",
+      "butuh_gambar": true,
+      "image_description": "Kumpulan kecil berisi 6 titik biru dengan susunan yang mudah dikenali tanpa membilang satu per satu.",
+      "image_spec": "2D",
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons sesuai tuntutan proses yang diamati.",
+          "bobot": 1
+        },
+        {
+          "kriteria": "Anak menyatakan jumlah akhir dengan tepat.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM02-I01-PYN-09",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM02-I01",
+      "jenis_soal": "PYN",
+      "pertanyaan": "Tanpa menghitung berurutan, tentukan banyak titik yang diperlukan untuk membuat pola ini.",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan stimulus dan minta anak menyebutkan jumlah tanpa menunjuk atau membilang satu per satu. Jangan menetapkan batas waktu yang tidak tercantum.",
+      "penjelasan_konsep": "Subitasi berarti mengenali banyak benda dalam kumpulan kecil secara langsung, bukan dengan membilang setiap benda satu per satu.",
+      "penerapan_nyata": "Anak dapat mengenali jumlah kecil kancing atau balok yang terlihat sekilas tanpa menghitung satu per satu.",
+      "butuh_gambar": true,
+      "image_description": "Kumpulan kecil berisi 4 titik biru dengan susunan yang mudah dikenali tanpa membilang satu per satu.",
+      "image_spec": "2D",
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons sesuai tuntutan proses yang diamati.",
+          "bobot": 1
+        },
+        {
+          "kriteria": "Anak menyatakan jumlah akhir dengan tepat.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM02-I01-PYN-10",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM02-I01",
+      "jenis_soal": "PYN",
+      "pertanyaan": "Gunakan kemampuan mengenali jumlah kecil seketika. Berapa titik pada stimulus?",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan stimulus dan minta anak menyebutkan jumlah tanpa menunjuk atau membilang satu per satu. Jangan menetapkan batas waktu yang tidak tercantum.",
+      "penjelasan_konsep": "Subitasi berarti mengenali banyak benda dalam kumpulan kecil secara langsung, bukan dengan membilang setiap benda satu per satu.",
+      "penerapan_nyata": "Anak dapat mengenali jumlah kecil kancing atau balok yang terlihat sekilas tanpa menghitung satu per satu.",
+      "butuh_gambar": true,
+      "image_description": "Kumpulan kecil berisi 5 titik biru dengan susunan yang mudah dikenali tanpa membilang satu per satu.",
+      "image_spec": "2D",
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons sesuai tuntutan proses yang diamati.",
+          "bobot": 1
+        },
+        {
+          "kriteria": "Anak menyatakan jumlah akhir dengan tepat.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM02-I01-CU-01",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM02-I01",
+      "jenis_soal": "CU",
+      "pertanyaan": "Cek ulang dengan melihat susunan titik tanpa membilang satu-satu. Berapa jumlah yang kamu kenali?",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan stimulus dan minta anak menyebutkan jumlah tanpa menunjuk atau membilang satu per satu. Jangan menetapkan batas waktu yang tidak tercantum.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": true,
+      "image_description": "Kumpulan kecil berisi 4 titik biru dengan susunan yang mudah dikenali tanpa membilang satu per satu.",
+      "image_spec": "2D",
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons sesuai tuntutan proses yang diamati.",
+          "bobot": 1
+        },
+        {
+          "kriteria": "Anak menyatakan jumlah akhir dengan tepat.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM02-I01-CU-02",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM02-I01",
+      "jenis_soal": "CU",
+      "pertanyaan": "Periksa jawabanmu dengan mengamati pola titik secara langsung. Berapa bilangannya?",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan stimulus dan minta anak menyebutkan jumlah tanpa menunjuk atau membilang satu per satu. Jangan menetapkan batas waktu yang tidak tercantum.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": true,
+      "image_description": "Kumpulan kecil berisi 3 titik biru dengan susunan yang mudah dikenali tanpa membilang satu per satu.",
+      "image_spec": "2D",
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons sesuai tuntutan proses yang diamati.",
+          "bobot": 1
+        },
+        {
+          "kriteria": "Anak menyatakan jumlah akhir dengan tepat.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM02-I01-CU-03",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM02-I01",
+      "jenis_soal": "CU",
+      "pertanyaan": "Lihat kembali kumpulan kecil itu dan sebutkan jumlah tanpa menunjuk titik satu per satu.",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan stimulus dan minta anak menyebutkan jumlah tanpa menunjuk atau membilang satu per satu. Jangan menetapkan batas waktu yang tidak tercantum.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": true,
+      "image_description": "Kumpulan kecil berisi 4 titik biru dengan susunan yang mudah dikenali tanpa membilang satu per satu.",
+      "image_spec": "2D",
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons sesuai tuntutan proses yang diamati.",
+          "bobot": 1
+        },
+        {
+          "kriteria": "Anak menyatakan jumlah akhir dengan tepat.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM02-I01-CU-04",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM02-I01",
+      "jenis_soal": "CU",
+      "pertanyaan": "Pastikan kamu mengenali pola seluruh titik sekaligus. Berapa banyak titiknya?",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan stimulus dan minta anak menyebutkan jumlah tanpa menunjuk atau membilang satu per satu. Jangan menetapkan batas waktu yang tidak tercantum.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": true,
+      "image_description": "Kumpulan kecil berisi 5 titik biru dengan susunan yang mudah dikenali tanpa membilang satu per satu.",
+      "image_spec": "2D",
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons sesuai tuntutan proses yang diamati.",
+          "bobot": 1
+        },
+        {
+          "kriteria": "Anak menyatakan jumlah akhir dengan tepat.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM02-I01-CU-05",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM02-I01",
+      "jenis_soal": "CU",
+      "pertanyaan": "Ulangi pengenalan langsung terhadap susunan biru. Apa jumlah yang tampak?",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan stimulus dan minta anak menyebutkan jumlah tanpa menunjuk atau membilang satu per satu. Jangan menetapkan batas waktu yang tidak tercantum.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": true,
+      "image_description": "Kumpulan kecil berisi 6 titik biru dengan susunan yang mudah dikenali tanpa membilang satu per satu.",
+      "image_spec": "2D",
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons sesuai tuntutan proses yang diamati.",
+          "bobot": 1
+        },
+        {
+          "kriteria": "Anak menyatakan jumlah akhir dengan tepat.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM02-I01-CU-06",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM02-I01",
+      "jenis_soal": "CU",
+      "pertanyaan": "Verifikasi jumlah dengan melihat pola, bukan dengan urutan hitungan. Berapa hasilnya?",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan stimulus dan minta anak menyebutkan jumlah tanpa menunjuk atau membilang satu per satu. Jangan menetapkan batas waktu yang tidak tercantum.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": true,
+      "image_description": "Kumpulan kecil berisi 4 titik biru dengan susunan yang mudah dikenali tanpa membilang satu per satu.",
+      "image_spec": "2D",
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons sesuai tuntutan proses yang diamati.",
+          "bobot": 1
+        },
+        {
+          "kriteria": "Anak menyatakan jumlah akhir dengan tepat.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM02-I01-CU-07",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM02-I01",
+      "jenis_soal": "CU",
+      "pertanyaan": "Amati sekali lagi stimulus titik. Bilangan apa yang paling tepat?",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan stimulus dan minta anak menyebutkan jumlah tanpa menunjuk atau membilang satu per satu. Jangan menetapkan batas waktu yang tidak tercantum.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": true,
+      "image_description": "Kumpulan kecil berisi 5 titik biru dengan susunan yang mudah dikenali tanpa membilang satu per satu.",
+      "image_spec": "2D",
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons sesuai tuntutan proses yang diamati.",
+          "bobot": 1
+        },
+        {
+          "kriteria": "Anak menyatakan jumlah akhir dengan tepat.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM02-I01-CU-08",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM02-I01",
+      "jenis_soal": "CU",
+      "pertanyaan": "Coba kenali seluruh kumpulan dalam satu pandangan. Berapa titik yang ada?",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan stimulus dan minta anak menyebutkan jumlah tanpa menunjuk atau membilang satu per satu. Jangan menetapkan batas waktu yang tidak tercantum.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": true,
+      "image_description": "Kumpulan kecil berisi 3 titik biru dengan susunan yang mudah dikenali tanpa membilang satu per satu.",
+      "image_spec": "2D",
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons sesuai tuntutan proses yang diamati.",
+          "bobot": 1
+        },
+        {
+          "kriteria": "Anak menyatakan jumlah akhir dengan tepat.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM02-I01-CU-09",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM02-I01",
+      "jenis_soal": "CU",
+      "pertanyaan": "Periksa apakah jumlah yang kamu sebutkan sesuai dengan pola titik pada gambar.",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan stimulus dan minta anak menyebutkan jumlah tanpa menunjuk atau membilang satu per satu. Jangan menetapkan batas waktu yang tidak tercantum.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": true,
+      "image_description": "Kumpulan kecil berisi 6 titik biru dengan susunan yang mudah dikenali tanpa membilang satu per satu.",
+      "image_spec": "2D",
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons sesuai tuntutan proses yang diamati.",
+          "bobot": 1
+        },
+        {
+          "kriteria": "Anak menyatakan jumlah akhir dengan tepat.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM02-I01-CU-10",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM02-I01",
+      "jenis_soal": "CU",
+      "pertanyaan": "Nyatakan kembali banyak titik setelah mengamati susunan kecil itu.",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan stimulus dan minta anak menyebutkan jumlah tanpa menunjuk atau membilang satu per satu. Jangan menetapkan batas waktu yang tidak tercantum.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": true,
+      "image_description": "Kumpulan kecil berisi 5 titik biru dengan susunan yang mudah dikenali tanpa membilang satu per satu.",
+      "image_spec": "2D",
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons sesuai tuntutan proses yang diamati.",
+          "bobot": 1
+        },
+        {
+          "kriteria": "Anak menyatakan jumlah akhir dengan tepat.",
+          "bobot": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1013 @@
+{
+  "id_indikator": "IND-MTK-A-K1-B.1-KM01-I01",
+  "hierarki": {
+    "CP": "CP-MTK-A-1.1 — Bilangan cacah sampai 100; nilai tempat; perbandingan dan pengurutan; komposisi/dekomposisi; penjumlahan dan pengurangan sampai 20; setengah dan seperempat.",
+    "ATP": "Kelas 1, ATP 1",
+    "TP": "B.1 — Membilang, subitasi, dan membandingkan jumlah benda.",
+    "KM": "KM-MTK-A-K1-B.1-01 — Menentukan banyak benda dalam suatu kumpulan dengan membilang satu per satu secara tepat.",
+    "Indikator": "IND-MTK-A-K1-B.1-KM01-I01 — Menentukan banyak benda dalam satu kumpulan yang ditampilkan melalui gambar dengan membilang setiap benda tepat satu kali dan menyebutkan jumlah akhirnya secara benar.",
+    "kategori": "I"
+  },
+  "soal": [
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM01-I01-DIA-01",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM01-I01",
+      "jenis_soal": "DIA",
+      "pertanyaan": "Berapa banyak lingkaran yang tampak pada gambar? Hitung setiap benda satu kali.",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan stimulus. Amati apakah anak menunjuk atau menelusuri setiap benda tepat satu kali dan menyebutkan jumlah akhirnya; jangan menghitungkan.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": true,
+      "image_description": "4 lingkaran berwarna biru tersusun rapi agar setiap benda dapat ditunjuk satu kali.",
+      "image_spec": "2D",
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons sesuai tuntutan proses yang diamati.",
+          "bobot": 1
+        },
+        {
+          "kriteria": "Anak menyatakan jumlah akhir dengan tepat.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM01-I01-DIA-02",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM01-I01",
+      "jenis_soal": "DIA",
+      "pertanyaan": "Hitung kumpulan persegi pada stimulus. Berapa jumlah akhirnya?",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan stimulus. Amati apakah anak menunjuk atau menelusuri setiap benda tepat satu kali dan menyebutkan jumlah akhirnya; jangan menghitungkan.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": true,
+      "image_description": "6 persegi berwarna biru tersusun rapi agar setiap benda dapat ditunjuk satu kali.",
+      "image_spec": "2D",
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons sesuai tuntutan proses yang diamati.",
+          "bobot": 1
+        },
+        {
+          "kriteria": "Anak menyatakan jumlah akhir dengan tepat.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM01-I01-DIA-03",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM01-I01",
+      "jenis_soal": "DIA",
+      "pertanyaan": "Tunjuk lingkaran satu per satu sambil membilang, lalu sebutkan hasilnya.",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan stimulus. Amati apakah anak menunjuk atau menelusuri setiap benda tepat satu kali dan menyebutkan jumlah akhirnya; jangan menghitungkan.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": true,
+      "image_description": "5 lingkaran berwarna biru tersusun rapi agar setiap benda dapat ditunjuk satu kali.",
+      "image_spec": "2D",
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons sesuai tuntutan proses yang diamati.",
+          "bobot": 1
+        },
+        {
+          "kriteria": "Anak menyatakan jumlah akhir dengan tepat.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM01-I01-DIA-04",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM01-I01",
+      "jenis_soal": "DIA",
+      "pertanyaan": "Perhatikan gambar. Ada berapa persegi seluruhnya?",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan stimulus. Amati apakah anak menunjuk atau menelusuri setiap benda tepat satu kali dan menyebutkan jumlah akhirnya; jangan menghitungkan.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": true,
+      "image_description": "7 persegi berwarna biru tersusun rapi agar setiap benda dapat ditunjuk satu kali.",
+      "image_spec": "2D",
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons sesuai tuntutan proses yang diamati.",
+          "bobot": 1
+        },
+        {
+          "kriteria": "Anak menyatakan jumlah akhir dengan tepat.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM01-I01-DIA-05",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM01-I01",
+      "jenis_soal": "DIA",
+      "pertanyaan": "Berapakah banyak lingkaran dalam kumpulan ini setelah kamu menghitungnya?",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan stimulus. Amati apakah anak menunjuk atau menelusuri setiap benda tepat satu kali dan menyebutkan jumlah akhirnya; jangan menghitungkan.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": true,
+      "image_description": "8 lingkaran berwarna biru tersusun rapi agar setiap benda dapat ditunjuk satu kali.",
+      "image_spec": "2D",
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons sesuai tuntutan proses yang diamati.",
+          "bobot": 1
+        },
+        {
+          "kriteria": "Anak menyatakan jumlah akhir dengan tepat.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM01-I01-DIA-06",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM01-I01",
+      "jenis_soal": "DIA",
+      "pertanyaan": "Hitung dari kiri ke kanan tanpa melewatkan persegi. Berapa hasilnya?",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan stimulus. Amati apakah anak menunjuk atau menelusuri setiap benda tepat satu kali dan menyebutkan jumlah akhirnya; jangan menghitungkan.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": true,
+      "image_description": "3 persegi berwarna biru tersusun rapi agar setiap benda dapat ditunjuk satu kali.",
+      "image_spec": "2D",
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons sesuai tuntutan proses yang diamati.",
+          "bobot": 1
+        },
+        {
+          "kriteria": "Anak menyatakan jumlah akhir dengan tepat.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM01-I01-DIA-07",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM01-I01",
+      "jenis_soal": "DIA",
+      "pertanyaan": "Gunakan satu bilangan untuk setiap lingkaran. Berapa jumlah benda pada gambar?",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan stimulus. Amati apakah anak menunjuk atau menelusuri setiap benda tepat satu kali dan menyebutkan jumlah akhirnya; jangan menghitungkan.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": true,
+      "image_description": "9 lingkaran berwarna biru tersusun rapi agar setiap benda dapat ditunjuk satu kali.",
+      "image_spec": "2D",
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons sesuai tuntutan proses yang diamati.",
+          "bobot": 1
+        },
+        {
+          "kriteria": "Anak menyatakan jumlah akhir dengan tepat.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM01-I01-DIA-08",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM01-I01",
+      "jenis_soal": "DIA",
+      "pertanyaan": "Setelah semua persegi dihitung, bilangan apa yang kamu sebutkan terakhir?",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan stimulus. Amati apakah anak menunjuk atau menelusuri setiap benda tepat satu kali dan menyebutkan jumlah akhirnya; jangan menghitungkan.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": true,
+      "image_description": "10 persegi berwarna biru tersusun rapi agar setiap benda dapat ditunjuk satu kali.",
+      "image_spec": "2D",
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons sesuai tuntutan proses yang diamati.",
+          "bobot": 1
+        },
+        {
+          "kriteria": "Anak menyatakan jumlah akhir dengan tepat.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM01-I01-DIA-09",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM01-I01",
+      "jenis_soal": "DIA",
+      "pertanyaan": "Cermati stimulus dan hitung seluruh lingkaran. Berapa banyak semuanya?",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan stimulus. Amati apakah anak menunjuk atau menelusuri setiap benda tepat satu kali dan menyebutkan jumlah akhirnya; jangan menghitungkan.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": true,
+      "image_description": "12 lingkaran berwarna biru tersusun rapi agar setiap benda dapat ditunjuk satu kali.",
+      "image_spec": "2D",
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons sesuai tuntutan proses yang diamati.",
+          "bobot": 1
+        },
+        {
+          "kriteria": "Anak menyatakan jumlah akhir dengan tepat.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM01-I01-DIA-10",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM01-I01",
+      "jenis_soal": "DIA",
+      "pertanyaan": "Berapa jumlah persegi pada susunan ini? Pastikan tidak ada yang dihitung dua kali.",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan stimulus. Amati apakah anak menunjuk atau menelusuri setiap benda tepat satu kali dan menyebutkan jumlah akhirnya; jangan menghitungkan.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": true,
+      "image_description": "14 persegi berwarna biru tersusun rapi agar setiap benda dapat ditunjuk satu kali.",
+      "image_spec": "2D",
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons sesuai tuntutan proses yang diamati.",
+          "bobot": 1
+        },
+        {
+          "kriteria": "Anak menyatakan jumlah akhir dengan tepat.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM01-I01-PGT-01",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM01-I01",
+      "jenis_soal": "PGT",
+      "pertanyaan": "Tunjuk setiap lingkaran sambil mengucapkan bilangan berurutan. Berapa banyak semuanya?",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan stimulus. Amati apakah anak menunjuk atau menelusuri setiap benda tepat satu kali dan menyebutkan jumlah akhirnya; jangan menghitungkan.",
+      "penjelasan_konsep": "Saat membilang, satu bilangan dipasangkan dengan satu benda dan bilangan terakhir menyatakan jumlah seluruh benda.",
+      "penerapan_nyata": "Anak dapat menggunakan cara ini ketika menghitung mainan atau buah yang tersusun di rumah.",
+      "butuh_gambar": true,
+      "image_description": "5 lingkaran berwarna biru tersusun rapi agar setiap benda dapat ditunjuk satu kali.",
+      "image_spec": "2D",
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons sesuai tuntutan proses yang diamati.",
+          "bobot": 1
+        },
+        {
+          "kriteria": "Anak menyatakan jumlah akhir dengan tepat.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM01-I01-PGT-02",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM01-I01",
+      "jenis_soal": "PGT",
+      "pertanyaan": "Gunakan cara membilang satu-satu pada kumpulan persegi, lalu sampaikan jumlah akhirnya.",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan stimulus. Amati apakah anak menunjuk atau menelusuri setiap benda tepat satu kali dan menyebutkan jumlah akhirnya; jangan menghitungkan.",
+      "penjelasan_konsep": "Saat membilang, satu bilangan dipasangkan dengan satu benda dan bilangan terakhir menyatakan jumlah seluruh benda.",
+      "penerapan_nyata": "Anak dapat menggunakan cara ini ketika menghitung mainan atau buah yang tersusun di rumah.",
+      "butuh_gambar": true,
+      "image_description": "7 persegi berwarna biru tersusun rapi agar setiap benda dapat ditunjuk satu kali.",
+      "image_spec": "2D",
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons sesuai tuntutan proses yang diamati.",
+          "bobot": 1
+        },
+        {
+          "kriteria": "Anak menyatakan jumlah akhir dengan tepat.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM01-I01-PGT-03",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM01-I01",
+      "jenis_soal": "PGT",
+      "pertanyaan": "Telusuri lingkaran dari kiri ke kanan. Bilangan terakhir yang kamu ucapkan menunjukkan berapa benda?",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan stimulus. Amati apakah anak menunjuk atau menelusuri setiap benda tepat satu kali dan menyebutkan jumlah akhirnya; jangan menghitungkan.",
+      "penjelasan_konsep": "Saat membilang, satu bilangan dipasangkan dengan satu benda dan bilangan terakhir menyatakan jumlah seluruh benda.",
+      "penerapan_nyata": "Anak dapat menggunakan cara ini ketika menghitung mainan atau buah yang tersusun di rumah.",
+      "butuh_gambar": true,
+      "image_description": "8 lingkaran berwarna biru tersusun rapi agar setiap benda dapat ditunjuk satu kali.",
+      "image_spec": "2D",
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons sesuai tuntutan proses yang diamati.",
+          "bobot": 1
+        },
+        {
+          "kriteria": "Anak menyatakan jumlah akhir dengan tepat.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM01-I01-PGT-04",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM01-I01",
+      "jenis_soal": "PGT",
+      "pertanyaan": "Hitung dengan memasangkan satu bilangan pada satu persegi. Berapa hasil penghitunganmu?",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan stimulus. Amati apakah anak menunjuk atau menelusuri setiap benda tepat satu kali dan menyebutkan jumlah akhirnya; jangan menghitungkan.",
+      "penjelasan_konsep": "Saat membilang, satu bilangan dipasangkan dengan satu benda dan bilangan terakhir menyatakan jumlah seluruh benda.",
+      "penerapan_nyata": "Anak dapat menggunakan cara ini ketika menghitung mainan atau buah yang tersusun di rumah.",
+      "butuh_gambar": true,
+      "image_description": "3 persegi berwarna biru tersusun rapi agar setiap benda dapat ditunjuk satu kali.",
+      "image_spec": "2D",
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons sesuai tuntutan proses yang diamati.",
+          "bobot": 1
+        },
+        {
+          "kriteria": "Anak menyatakan jumlah akhir dengan tepat.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM01-I01-PGT-05",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM01-I01",
+      "jenis_soal": "PGT",
+      "pertanyaan": "Peragakan cara menghitung seluruh lingkaran tanpa mengulang benda. Berapa jumlahnya?",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan stimulus. Amati apakah anak menunjuk atau menelusuri setiap benda tepat satu kali dan menyebutkan jumlah akhirnya; jangan menghitungkan.",
+      "penjelasan_konsep": "Saat membilang, satu bilangan dipasangkan dengan satu benda dan bilangan terakhir menyatakan jumlah seluruh benda.",
+      "penerapan_nyata": "Anak dapat menggunakan cara ini ketika menghitung mainan atau buah yang tersusun di rumah.",
+      "butuh_gambar": true,
+      "image_description": "9 lingkaran berwarna biru tersusun rapi agar setiap benda dapat ditunjuk satu kali.",
+      "image_spec": "2D",
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons sesuai tuntutan proses yang diamati.",
+          "bobot": 1
+        },
+        {
+          "kriteria": "Anak menyatakan jumlah akhir dengan tepat.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM01-I01-PGT-06",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM01-I01",
+      "jenis_soal": "PGT",
+      "pertanyaan": "Bilanglah setiap persegi tepat satu kali, kemudian nyatakan jumlah kumpulan itu.",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan stimulus. Amati apakah anak menunjuk atau menelusuri setiap benda tepat satu kali dan menyebutkan jumlah akhirnya; jangan menghitungkan.",
+      "penjelasan_konsep": "Saat membilang, satu bilangan dipasangkan dengan satu benda dan bilangan terakhir menyatakan jumlah seluruh benda.",
+      "penerapan_nyata": "Anak dapat menggunakan cara ini ketika menghitung mainan atau buah yang tersusun di rumah.",
+      "butuh_gambar": true,
+      "image_description": "10 persegi berwarna biru tersusun rapi agar setiap benda dapat ditunjuk satu kali.",
+      "image_spec": "2D",
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons sesuai tuntutan proses yang diamati.",
+          "bobot": 1
+        },
+        {
+          "kriteria": "Anak menyatakan jumlah akhir dengan tepat.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM01-I01-PGT-07",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM01-I01",
+      "jenis_soal": "PGT",
+      "pertanyaan": "Gunakan jari untuk menunjuk lingkaran satu per satu. Berapa jumlah benda yang ditemukan?",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan stimulus. Amati apakah anak menunjuk atau menelusuri setiap benda tepat satu kali dan menyebutkan jumlah akhirnya; jangan menghitungkan.",
+      "penjelasan_konsep": "Saat membilang, satu bilangan dipasangkan dengan satu benda dan bilangan terakhir menyatakan jumlah seluruh benda.",
+      "penerapan_nyata": "Anak dapat menggunakan cara ini ketika menghitung mainan atau buah yang tersusun di rumah.",
+      "butuh_gambar": true,
+      "image_description": "12 lingkaran berwarna biru tersusun rapi agar setiap benda dapat ditunjuk satu kali.",
+      "image_spec": "2D",
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons sesuai tuntutan proses yang diamati.",
+          "bobot": 1
+        },
+        {
+          "kriteria": "Anak menyatakan jumlah akhir dengan tepat.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM01-I01-PGT-08",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM01-I01",
+      "jenis_soal": "PGT",
+      "pertanyaan": "Hitung perlahan kumpulan persegi. Apa bilangan terakhir dan apa arti bilangan itu?",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan stimulus. Amati apakah anak menunjuk atau menelusuri setiap benda tepat satu kali dan menyebutkan jumlah akhirnya; jangan menghitungkan.",
+      "penjelasan_konsep": "Saat membilang, satu bilangan dipasangkan dengan satu benda dan bilangan terakhir menyatakan jumlah seluruh benda.",
+      "penerapan_nyata": "Anak dapat menggunakan cara ini ketika menghitung mainan atau buah yang tersusun di rumah.",
+      "butuh_gambar": true,
+      "image_description": "14 persegi berwarna biru tersusun rapi agar setiap benda dapat ditunjuk satu kali.",
+      "image_spec": "2D",
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons sesuai tuntutan proses yang diamati.",
+          "bobot": 1
+        },
+        {
+          "kriteria": "Anak menyatakan jumlah akhir dengan tepat.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM01-I01-PGT-09",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM01-I01",
+      "jenis_soal": "PGT",
+      "pertanyaan": "Tunjukkan bahwa setiap lingkaran sudah mendapat satu hitungan. Berapa jumlah akhirnya?",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan stimulus. Amati apakah anak menunjuk atau menelusuri setiap benda tepat satu kali dan menyebutkan jumlah akhirnya; jangan menghitungkan.",
+      "penjelasan_konsep": "Saat membilang, satu bilangan dipasangkan dengan satu benda dan bilangan terakhir menyatakan jumlah seluruh benda.",
+      "penerapan_nyata": "Anak dapat menggunakan cara ini ketika menghitung mainan atau buah yang tersusun di rumah.",
+      "butuh_gambar": true,
+      "image_description": "4 lingkaran berwarna biru tersusun rapi agar setiap benda dapat ditunjuk satu kali.",
+      "image_spec": "2D",
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons sesuai tuntutan proses yang diamati.",
+          "bobot": 1
+        },
+        {
+          "kriteria": "Anak menyatakan jumlah akhir dengan tepat.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM01-I01-PGT-10",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM01-I01",
+      "jenis_soal": "PGT",
+      "pertanyaan": "Dengan strategi membilang satu-satu, tentukan banyak persegi pada gambar ini.",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan stimulus. Amati apakah anak menunjuk atau menelusuri setiap benda tepat satu kali dan menyebutkan jumlah akhirnya; jangan menghitungkan.",
+      "penjelasan_konsep": "Saat membilang, satu bilangan dipasangkan dengan satu benda dan bilangan terakhir menyatakan jumlah seluruh benda.",
+      "penerapan_nyata": "Anak dapat menggunakan cara ini ketika menghitung mainan atau buah yang tersusun di rumah.",
+      "butuh_gambar": true,
+      "image_description": "6 persegi berwarna biru tersusun rapi agar setiap benda dapat ditunjuk satu kali.",
+      "image_spec": "2D",
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons sesuai tuntutan proses yang diamati.",
+          "bobot": 1
+        },
+        {
+          "kriteria": "Anak menyatakan jumlah akhir dengan tepat.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM01-I01-PYN-01",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM01-I01",
+      "jenis_soal": "PYN",
+      "pertanyaan": "Bayangkan kamu sedang menata lingkaran untuk dibagikan. Hitung semuanya dan sebutkan jumlahnya.",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan stimulus. Amati apakah anak menunjuk atau menelusuri setiap benda tepat satu kali dan menyebutkan jumlah akhirnya; jangan menghitungkan.",
+      "penjelasan_konsep": "Saat membilang, satu bilangan dipasangkan dengan satu benda dan bilangan terakhir menyatakan jumlah seluruh benda.",
+      "penerapan_nyata": "Anak dapat menggunakan cara ini ketika menghitung mainan atau buah yang tersusun di rumah.",
+      "butuh_gambar": true,
+      "image_description": "8 lingkaran berwarna biru tersusun rapi agar setiap benda dapat ditunjuk satu kali.",
+      "image_spec": "2D",
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons sesuai tuntutan proses yang diamati.",
+          "bobot": 1
+        },
+        {
+          "kriteria": "Anak menyatakan jumlah akhir dengan tepat.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM01-I01-PYN-02",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM01-I01",
+      "jenis_soal": "PYN",
+      "pertanyaan": "Seorang teman ingin memastikan jumlah persegi. Tunjukkan cara menghitungnya dan berikan hasil akhir.",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan stimulus. Amati apakah anak menunjuk atau menelusuri setiap benda tepat satu kali dan menyebutkan jumlah akhirnya; jangan menghitungkan.",
+      "penjelasan_konsep": "Saat membilang, satu bilangan dipasangkan dengan satu benda dan bilangan terakhir menyatakan jumlah seluruh benda.",
+      "penerapan_nyata": "Anak dapat menggunakan cara ini ketika menghitung mainan atau buah yang tersusun di rumah.",
+      "butuh_gambar": true,
+      "image_description": "3 persegi berwarna biru tersusun rapi agar setiap benda dapat ditunjuk satu kali.",
+      "image_spec": "2D",
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons sesuai tuntutan proses yang diamati.",
+          "bobot": 1
+        },
+        {
+          "kriteria": "Anak menyatakan jumlah akhir dengan tepat.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM01-I01-PYN-03",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM01-I01",
+      "jenis_soal": "PYN",
+      "pertanyaan": "Jika setiap lingkaran akan diberi satu label, berapa label yang kamu perlukan?",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan stimulus. Amati apakah anak menunjuk atau menelusuri setiap benda tepat satu kali dan menyebutkan jumlah akhirnya; jangan menghitungkan.",
+      "penjelasan_konsep": "Saat membilang, satu bilangan dipasangkan dengan satu benda dan bilangan terakhir menyatakan jumlah seluruh benda.",
+      "penerapan_nyata": "Anak dapat menggunakan cara ini ketika menghitung mainan atau buah yang tersusun di rumah.",
+      "butuh_gambar": true,
+      "image_description": "9 lingkaran berwarna biru tersusun rapi agar setiap benda dapat ditunjuk satu kali.",
+      "image_spec": "2D",
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons sesuai tuntutan proses yang diamati.",
+          "bobot": 1
+        },
+        {
+          "kriteria": "Anak menyatakan jumlah akhir dengan tepat.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM01-I01-PYN-04",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM01-I01",
+      "jenis_soal": "PYN",
+      "pertanyaan": "Periksa kembali kumpulan persegi dengan membilang satu per satu. Berapa banyak yang kamu temukan?",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan stimulus. Amati apakah anak menunjuk atau menelusuri setiap benda tepat satu kali dan menyebutkan jumlah akhirnya; jangan menghitungkan.",
+      "penjelasan_konsep": "Saat membilang, satu bilangan dipasangkan dengan satu benda dan bilangan terakhir menyatakan jumlah seluruh benda.",
+      "penerapan_nyata": "Anak dapat menggunakan cara ini ketika menghitung mainan atau buah yang tersusun di rumah.",
+      "butuh_gambar": true,
+      "image_description": "10 persegi berwarna biru tersusun rapi agar setiap benda dapat ditunjuk satu kali.",
+      "image_spec": "2D",
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons sesuai tuntutan proses yang diamati.",
+          "bobot": 1
+        },
+        {
+          "kriteria": "Anak menyatakan jumlah akhir dengan tepat.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM01-I01-PYN-05",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM01-I01",
+      "jenis_soal": "PYN",
+      "pertanyaan": "Gunakan susunan pada gambar untuk menentukan jumlah lingkaran tanpa menghitung benda yang sama dua kali.",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan stimulus. Amati apakah anak menunjuk atau menelusuri setiap benda tepat satu kali dan menyebutkan jumlah akhirnya; jangan menghitungkan.",
+      "penjelasan_konsep": "Saat membilang, satu bilangan dipasangkan dengan satu benda dan bilangan terakhir menyatakan jumlah seluruh benda.",
+      "penerapan_nyata": "Anak dapat menggunakan cara ini ketika menghitung mainan atau buah yang tersusun di rumah.",
+      "butuh_gambar": true,
+      "image_description": "12 lingkaran berwarna biru tersusun rapi agar setiap benda dapat ditunjuk satu kali.",
+      "image_spec": "2D",
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons sesuai tuntutan proses yang diamati.",
+          "bobot": 1
+        },
+        {
+          "kriteria": "Anak menyatakan jumlah akhir dengan tepat.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM01-I01-PYN-06",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM01-I01",
+      "jenis_soal": "PYN",
+      "pertanyaan": "Kamu hendak memasukkan semua persegi ke dalam kotak. Berapa benda yang harus masuk?",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan stimulus. Amati apakah anak menunjuk atau menelusuri setiap benda tepat satu kali dan menyebutkan jumlah akhirnya; jangan menghitungkan.",
+      "penjelasan_konsep": "Saat membilang, satu bilangan dipasangkan dengan satu benda dan bilangan terakhir menyatakan jumlah seluruh benda.",
+      "penerapan_nyata": "Anak dapat menggunakan cara ini ketika menghitung mainan atau buah yang tersusun di rumah.",
+      "butuh_gambar": true,
+      "image_description": "14 persegi berwarna biru tersusun rapi agar setiap benda dapat ditunjuk satu kali.",
+      "image_spec": "2D",
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons sesuai tuntutan proses yang diamati.",
+          "bobot": 1
+        },
+        {
+          "kriteria": "Anak menyatakan jumlah akhir dengan tepat.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM01-I01-PYN-07",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM01-I01",
+      "jenis_soal": "PYN",
+      "pertanyaan": "Jelaskan melalui tindakan menunjuk bagaimana kamu mengetahui jumlah lingkaran, lalu sebutkan hasilnya.",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan stimulus. Amati apakah anak menunjuk atau menelusuri setiap benda tepat satu kali dan menyebutkan jumlah akhirnya; jangan menghitungkan.",
+      "penjelasan_konsep": "Saat membilang, satu bilangan dipasangkan dengan satu benda dan bilangan terakhir menyatakan jumlah seluruh benda.",
+      "penerapan_nyata": "Anak dapat menggunakan cara ini ketika menghitung mainan atau buah yang tersusun di rumah.",
+      "butuh_gambar": true,
+      "image_description": "4 lingkaran berwarna biru tersusun rapi agar setiap benda dapat ditunjuk satu kali.",
+      "image_spec": "2D",
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons sesuai tuntutan proses yang diamati.",
+          "bobot": 1
+        },
+        {
+          "kriteria": "Anak menyatakan jumlah akhir dengan tepat.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM01-I01-PYN-08",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM01-I01",
+      "jenis_soal": "PYN",
+      "pertanyaan": "Jika satu persegi diambil setelah semua dihitung, berapa jumlah yang semula ada?",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan stimulus. Amati apakah anak menunjuk atau menelusuri setiap benda tepat satu kali dan menyebutkan jumlah akhirnya; jangan menghitungkan.",
+      "penjelasan_konsep": "Saat membilang, satu bilangan dipasangkan dengan satu benda dan bilangan terakhir menyatakan jumlah seluruh benda.",
+      "penerapan_nyata": "Anak dapat menggunakan cara ini ketika menghitung mainan atau buah yang tersusun di rumah.",
+      "butuh_gambar": true,
+      "image_description": "6 persegi berwarna biru tersusun rapi agar setiap benda dapat ditunjuk satu kali.",
+      "image_spec": "2D",
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons sesuai tuntutan proses yang diamati.",
+          "bobot": 1
+        },
+        {
+          "kriteria": "Anak menyatakan jumlah akhir dengan tepat.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM01-I01-PYN-09",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM01-I01",
+      "jenis_soal": "PYN",
+      "pertanyaan": "Hitung kumpulan lingkaran dan cocokkan hasilnya dengan bilangan terakhir yang kamu ucapkan.",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan stimulus. Amati apakah anak menunjuk atau menelusuri setiap benda tepat satu kali dan menyebutkan jumlah akhirnya; jangan menghitungkan.",
+      "penjelasan_konsep": "Saat membilang, satu bilangan dipasangkan dengan satu benda dan bilangan terakhir menyatakan jumlah seluruh benda.",
+      "penerapan_nyata": "Anak dapat menggunakan cara ini ketika menghitung mainan atau buah yang tersusun di rumah.",
+      "butuh_gambar": true,
+      "image_description": "5 lingkaran berwarna biru tersusun rapi agar setiap benda dapat ditunjuk satu kali.",
+      "image_spec": "2D",
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons sesuai tuntutan proses yang diamati.",
+          "bobot": 1
+        },
+        {
+          "kriteria": "Anak menyatakan jumlah akhir dengan tepat.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM01-I01-PYN-10",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM01-I01",
+      "jenis_soal": "PYN",
+      "pertanyaan": "Tentukan banyak persegi pada stimulus untuk menyiapkan jumlah benda yang sama.",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan stimulus. Amati apakah anak menunjuk atau menelusuri setiap benda tepat satu kali dan menyebutkan jumlah akhirnya; jangan menghitungkan.",
+      "penjelasan_konsep": "Saat membilang, satu bilangan dipasangkan dengan satu benda dan bilangan terakhir menyatakan jumlah seluruh benda.",
+      "penerapan_nyata": "Anak dapat menggunakan cara ini ketika menghitung mainan atau buah yang tersusun di rumah.",
+      "butuh_gambar": true,
+      "image_description": "7 persegi berwarna biru tersusun rapi agar setiap benda dapat ditunjuk satu kali.",
+      "image_spec": "2D",
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons sesuai tuntutan proses yang diamati.",
+          "bobot": 1
+        },
+        {
+          "kriteria": "Anak menyatakan jumlah akhir dengan tepat.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM01-I01-CU-01",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM01-I01",
+      "jenis_soal": "CU",
+      "pertanyaan": "Sebagai cek ulang, hitung kembali lingkaran pada gambar. Berapa jumlah yang kamu peroleh?",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan stimulus. Amati apakah anak menunjuk atau menelusuri setiap benda tepat satu kali dan menyebutkan jumlah akhirnya; jangan menghitungkan.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": true,
+      "image_description": "6 lingkaran berwarna biru tersusun rapi agar setiap benda dapat ditunjuk satu kali.",
+      "image_spec": "2D",
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons sesuai tuntutan proses yang diamati.",
+          "bobot": 1
+        },
+        {
+          "kriteria": "Anak menyatakan jumlah akhir dengan tepat.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM01-I01-CU-02",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM01-I01",
+      "jenis_soal": "CU",
+      "pertanyaan": "Periksa ketepatan hitunganmu dengan menunjuk setiap persegi sekali lagi. Berapa hasilnya?",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan stimulus. Amati apakah anak menunjuk atau menelusuri setiap benda tepat satu kali dan menyebutkan jumlah akhirnya; jangan menghitungkan.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": true,
+      "image_description": "5 persegi berwarna biru tersusun rapi agar setiap benda dapat ditunjuk satu kali.",
+      "image_spec": "2D",
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons sesuai tuntutan proses yang diamati.",
+          "bobot": 1
+        },
+        {
+          "kriteria": "Anak menyatakan jumlah akhir dengan tepat.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM01-I01-CU-03",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM01-I01",
+      "jenis_soal": "CU",
+      "pertanyaan": "Lakukan penghitungan ulang dari awal pada kumpulan lingkaran. Berapa banyak semuanya?",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan stimulus. Amati apakah anak menunjuk atau menelusuri setiap benda tepat satu kali dan menyebutkan jumlah akhirnya; jangan menghitungkan.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": true,
+      "image_description": "7 lingkaran berwarna biru tersusun rapi agar setiap benda dapat ditunjuk satu kali.",
+      "image_spec": "2D",
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons sesuai tuntutan proses yang diamati.",
+          "bobot": 1
+        },
+        {
+          "kriteria": "Anak menyatakan jumlah akhir dengan tepat.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM01-I01-CU-04",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM01-I01",
+      "jenis_soal": "CU",
+      "pertanyaan": "Cek susunan persegi satu per satu. Bilangan terakhir yang kamu sebutkan berapa?",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan stimulus. Amati apakah anak menunjuk atau menelusuri setiap benda tepat satu kali dan menyebutkan jumlah akhirnya; jangan menghitungkan.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": true,
+      "image_description": "8 persegi berwarna biru tersusun rapi agar setiap benda dapat ditunjuk satu kali.",
+      "image_spec": "2D",
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons sesuai tuntutan proses yang diamati.",
+          "bobot": 1
+        },
+        {
+          "kriteria": "Anak menyatakan jumlah akhir dengan tepat.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM01-I01-CU-05",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM01-I01",
+      "jenis_soal": "CU",
+      "pertanyaan": "Pastikan tidak ada lingkaran yang terlewat atau terhitung dua kali. Berapa jumlahnya?",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan stimulus. Amati apakah anak menunjuk atau menelusuri setiap benda tepat satu kali dan menyebutkan jumlah akhirnya; jangan menghitungkan.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": true,
+      "image_description": "3 lingkaran berwarna biru tersusun rapi agar setiap benda dapat ditunjuk satu kali.",
+      "image_spec": "2D",
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons sesuai tuntutan proses yang diamati.",
+          "bobot": 1
+        },
+        {
+          "kriteria": "Anak menyatakan jumlah akhir dengan tepat.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM01-I01-CU-06",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM01-I01",
+      "jenis_soal": "CU",
+      "pertanyaan": "Ulangi proses membilang pada stimulus persegi. Berapa hasil pemeriksaanmu?",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan stimulus. Amati apakah anak menunjuk atau menelusuri setiap benda tepat satu kali dan menyebutkan jumlah akhirnya; jangan menghitungkan.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": true,
+      "image_description": "9 persegi berwarna biru tersusun rapi agar setiap benda dapat ditunjuk satu kali.",
+      "image_spec": "2D",
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons sesuai tuntutan proses yang diamati.",
+          "bobot": 1
+        },
+        {
+          "kriteria": "Anak menyatakan jumlah akhir dengan tepat.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM01-I01-CU-07",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM01-I01",
+      "jenis_soal": "CU",
+      "pertanyaan": "Gunakan cara membilang yang sama untuk memeriksa jumlah lingkaran. Apa jawabannya?",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan stimulus. Amati apakah anak menunjuk atau menelusuri setiap benda tepat satu kali dan menyebutkan jumlah akhirnya; jangan menghitungkan.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": true,
+      "image_description": "10 lingkaran berwarna biru tersusun rapi agar setiap benda dapat ditunjuk satu kali.",
+      "image_spec": "2D",
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons sesuai tuntutan proses yang diamati.",
+          "bobot": 1
+        },
+        {
+          "kriteria": "Anak menyatakan jumlah akhir dengan tepat.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM01-I01-CU-08",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM01-I01",
+      "jenis_soal": "CU",
+      "pertanyaan": "Hitung kembali dengan tertib dari kiri ke kanan. Berapa persegi yang terlihat?",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan stimulus. Amati apakah anak menunjuk atau menelusuri setiap benda tepat satu kali dan menyebutkan jumlah akhirnya; jangan menghitungkan.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": true,
+      "image_description": "12 persegi berwarna biru tersusun rapi agar setiap benda dapat ditunjuk satu kali.",
+      "image_spec": "2D",
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons sesuai tuntutan proses yang diamati.",
+          "bobot": 1
+        },
+        {
+          "kriteria": "Anak menyatakan jumlah akhir dengan tepat.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM01-I01-CU-09",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM01-I01",
+      "jenis_soal": "CU",
+      "pertanyaan": "Verifikasi jumlah lingkaran dengan satu bilangan untuk satu benda. Berapa hasil akhir?",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan stimulus. Amati apakah anak menunjuk atau menelusuri setiap benda tepat satu kali dan menyebutkan jumlah akhirnya; jangan menghitungkan.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": true,
+      "image_description": "14 lingkaran berwarna biru tersusun rapi agar setiap benda dapat ditunjuk satu kali.",
+      "image_spec": "2D",
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons sesuai tuntutan proses yang diamati.",
+          "bobot": 1
+        },
+        {
+          "kriteria": "Anak menyatakan jumlah akhir dengan tepat.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.1-KM01-I01-CU-10",
+      "id_indikator": "IND-MTK-A-K1-B.1-KM01-I01",
+      "jenis_soal": "CU",
+      "pertanyaan": "Setelah memeriksa semua persegi, nyatakan jumlah seluruh benda secara tepat.",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan stimulus. Amati apakah anak menunjuk atau menelusuri setiap benda tepat satu kali dan menyebutkan jumlah akhirnya; jangan menghitungkan.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": true,
+      "image_description": "4 persegi berwarna biru tersusun rapi agar setiap benda dapat ditunjuk satu kali.",
+      "image_spec": "2D",
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons sesuai tuntutan proses yang diamati.",
+          "bobot": 1
+        },
+        {
+          "kriteria": "Anak menyatakan jumlah akhir dengan tepat.",
+          "bobot": 1
+        }
+      ]
+    }
+  ]
+}
