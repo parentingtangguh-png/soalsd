@@ -23,7 +23,7 @@ Status **Final** hanya digunakan setelah hasil disetujui, disimpan, diverifikasi
 | 2 | AGENTS.md, lima skill, struktur, register, persetujuan | Final | Branch `setup/tahap-2-persiapan`, commit diperiksa `1811052`, persetujuan dicatat pada `1c28b3e`, merge commit `14e156a`, PR `#7` | Tahap 3 dapat diajukan/dimulai sesuai persetujuan; belum dimulai |
 | 3 | Delapan perangkat produksi | Final | Branch `build/tahap-3-perangkat`, commit diperiksa `81acc59`, persetujuan dicatat pada branch, merge commit `5d01801`, PR `#9`; `tests/test_devices.py` lulus; uji CLI lulus | Tahap 4 dapat disiapkan; belum dimulai |
 | 4 | Verifikasi lingkungan produksi | Final | PR #12; merge `1560fbdf17df82d942c1bf974a4e8d890427e639`; `docs/verifikasi_tahap4.md` | Final untuk lingkungan teknis sintetis; pemeriksaan pedagogis/substansi berlaku pada indikator produksi |
-| 5 | Analisis 10 indikator | Menunggu persetujuan | `docs/pengajuan_MIG-G4-PERSIAPAN-10-INDIKATOR.md`; PR pengajuan ini | Menunggu keputusan Romo; setiap indikator dianalisis terpisah |
+| 5 | Analisis 10 indikator | Disetujui, menunggu finalisasi | PR #14; `docs/pengajuan_MIG-G4-PERSIAPAN-10-INDIKATOR.md` | Setelah finalisasi, mulai 10 penugasan analisis terpisah |
 
 ## Register indikator dan soal
 
@@ -31,7 +31,7 @@ Belum ada soal produksi. Draf, data uji, dan ilustrasi tidak dihitung sebagai so
 
 | ID indikator | Tahap aktif | JSON | HTML | Gambar | Status soal | Status verifikasi | Persetujuan |
 |---|---|---|---|---|---|---|---|
-| `IND-MTK-A-K1-B.1-KM01-I01` | Menunggu persetujuan | Belum ada | Belum ada | Belum ada | Belum dimulai | Belum diuji | PR pengajuan 10 indikator |
+| `IND-MTK-A-K1-B.1-KM01-I01` | Menunggu persetujuan | Belum ada | Belum ada | Belum ada | Belum dimulai | Belum diuji | Disetujui melalui PR #14 |
 | `IND-MTK-A-K1-B.1-KM02-I01` | Menunggu persetujuan | Belum ada | Belum ada | Belum ada | Belum dimulai | Belum diuji | PR pengajuan 10 indikator |
 | `IND-MTK-A-K1-B.1-KM03-I01` | Menunggu persetujuan | Belum ada | Belum ada | Belum ada | Belum dimulai | Belum diuji | PR pengajuan 10 indikator |
 | `IND-MTK-A-K1-B.3-KM01-I01` | Menunggu persetujuan | Belum ada | Belum ada | Belum ada | Belum dimulai | Belum diuji | PR pengajuan 10 indikator |
