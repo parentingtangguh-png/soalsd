@@ -56,6 +56,14 @@
   - Tombol Berikutnya berpindah dari soal 1 ke soal 2.
   - Setelah satu respons disimpan, laporan menampilkan `Terjawab: 1/10` dan menahan laporan lengkap sampai seluruh soal dijawab.
 
+## Audit browser lanjutan
+
+- HTML lokal dibuka langsung di Chrome.
+- Mode Pemeriksaan menampilkan pertanyaan, label Stimulus, dan gambar aktual.
+- Mode Pengerjaan menampilkan pertanyaan, label Stimulus, gambar, dua ceklis rubrik, navigasi, dan laporan.
+- Respons pada soal pertama tersimpan; tombol Berikutnya berpindah ke soal kedua; laporan menampilkan `Terjawab: 1/10` dan `Nilai: belum lengkap`.
+- Audit menemukan ambiguitas pada instruksi DIA-02 tentang urutan dua baris. Instruksi diperbaiki menjadi baris atas kiri-ke-kanan lalu baris bawah, dan JSON/HTML diperbarui serta divalidasi ulang.
+
 ## Batas
 
 - “Lulus internal” bukan persetujuan akhir Romo.
