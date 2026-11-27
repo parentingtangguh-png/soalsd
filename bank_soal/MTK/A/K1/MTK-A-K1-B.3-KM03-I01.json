@@ -1,0 +1,813 @@
+{
+  "id_indikator": "IND-MTK-A-K1-B.3-KM03-I01",
+  "hierarki": {
+    "CP": "CP-MTK-A-1.1 — Bilangan cacah sampai 100; nilai tempat; perbandingan dan pengurutan; komposisi/dekomposisi; penjumlahan dan pengurangan sampai 20; setengah dan seperempat.",
+    "ATP": "Kelas 1, ATP 2",
+    "TP": "B.3 — Urutan, komposisi, dekomposisi, dan nilai tempat sampai 20.",
+    "KM": "KM-MTK-A-K1-B.3-03 — Menguraikan bilangan cacah sampai 20 menjadi bagian-bagian bilangan yang membentuknya.",
+    "Indikator": "IND-MTK-A-K1-B.3-KM03-I01 — Menguraikan bilangan cacah sampai 20 yang disajikan melalui gambar atau lambang bilangan menjadi bagian-bagian bilangan yang membentuknya, kemudian menyatakan hasil penguraian secara tepat.",
+    "kategori": "II"
+  },
+  "soal": [
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.3-KM03-I01-DIA-01",
+      "id_indikator": "IND-MTK-A-K1-B.3-KM03-I01",
+      "jenis_soal": "DIA",
+      "pertanyaan": "Perhatikan informasi berikut. Bilangan 5 dapat diuraikan menjadi dua bagian. Pilih pasangan bagian yang jumlahnya tepat 5. Kedua bagian harus membentuk kembali bilangan semula.",
+      "pilihan": {
+        "A": "2 dan 3",
+        "B": "3 dan 3",
+        "C": "2 dan 4"
+      },
+      "kunci_jawaban": "A",
+      "panduan_orang_tua": "Bacakan bilangan dan pilihan. Biarkan anak menentukan pasangan bagian yang membentuk bilangan tersebut.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": false,
+      "image_description": null,
+      "image_spec": null,
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.3-KM03-I01-DIA-02",
+      "id_indikator": "IND-MTK-A-K1-B.3-KM03-I01",
+      "jenis_soal": "DIA",
+      "pertanyaan": "Jawablah berdasarkan stimulus yang tersedia. Bilangan 7 dapat diuraikan menjadi dua bagian. Pilih pasangan bagian yang jumlahnya tepat 7. Tidak boleh ada bagian yang lebih besar daripada bilangan utuhnya.",
+      "pilihan": {
+        "A": "5 dan 3",
+        "B": "4 dan 3",
+        "C": "4 dan 4"
+      },
+      "kunci_jawaban": "B",
+      "panduan_orang_tua": "Bacakan bilangan dan pilihan. Biarkan anak menentukan pasangan bagian yang membentuk bilangan tersebut.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": false,
+      "image_description": null,
+      "image_spec": null,
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.3-KM03-I01-DIA-03",
+      "id_indikator": "IND-MTK-A-K1-B.3-KM03-I01",
+      "jenis_soal": "DIA",
+      "pertanyaan": "Gunakan data pada soal ini. Bilangan 7 dapat diuraikan menjadi dua bagian. Pilih pasangan bagian yang jumlahnya tepat 7. Bayangkan jumlah itu dibagi menjadi dua kelompok benda.",
+      "pilihan": {
+        "A": "5 dan 3",
+        "B": "6 dan 2",
+        "C": "5 dan 2"
+      },
+      "kunci_jawaban": "C",
+      "panduan_orang_tua": "Bacakan bilangan dan pilihan. Biarkan anak menentukan pasangan bagian yang membentuk bilangan tersebut.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": false,
+      "image_description": null,
+      "image_spec": null,
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.3-KM03-I01-DIA-04",
+      "id_indikator": "IND-MTK-A-K1-B.3-KM03-I01",
+      "jenis_soal": "DIA",
+      "pertanyaan": "Cermati bilangan dan keterangan yang diberikan. Bilangan 9 dapat diuraikan menjadi dua bagian. Pilih pasangan bagian yang jumlahnya tepat 9. Pasangan pilihan menunjukkan dua bagian dari satu keseluruhan.",
+      "pilihan": {
+        "A": "6 dan 3",
+        "B": "7 dan 3",
+        "C": "6 dan 4"
+      },
+      "kunci_jawaban": "A",
+      "panduan_orang_tua": "Bacakan bilangan dan pilihan. Biarkan anak menentukan pasangan bagian yang membentuk bilangan tersebut.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": false,
+      "image_description": null,
+      "image_spec": null,
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.3-KM03-I01-DIA-05",
+      "id_indikator": "IND-MTK-A-K1-B.3-KM03-I01",
+      "jenis_soal": "DIA",
+      "pertanyaan": "Amati situasi pada pertanyaan berikut. Bilangan 11 dapat diuraikan menjadi dua bagian. Pilih pasangan bagian yang jumlahnya tepat 11. Jumlah kedua bagian menjadi pemeriksaan terhadap jawabanmu.",
+      "pilihan": {
+        "A": "8 dan 4",
+        "B": "7 dan 4",
+        "C": "7 dan 5"
+      },
+      "kunci_jawaban": "B",
+      "panduan_orang_tua": "Bacakan bilangan dan pilihan. Biarkan anak menentukan pasangan bagian yang membentuk bilangan tersebut.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": false,
+      "image_description": null,
+      "image_spec": null,
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.3-KM03-I01-DIA-06",
+      "id_indikator": "IND-MTK-A-K1-B.3-KM03-I01",
+      "jenis_soal": "DIA",
+      "pertanyaan": "Baca tugas ini dengan teliti. Bilangan 10 dapat diuraikan menjadi dua bagian. Pilih pasangan bagian yang jumlahnya tepat 10. Gunakan pasangan bilangan untuk mewakili satu kumpulan utuh.",
+      "pilihan": {
+        "A": "8 dan 3",
+        "B": "9 dan 2",
+        "C": "8 dan 2"
+      },
+      "kunci_jawaban": "C",
+      "panduan_orang_tua": "Bacakan bilangan dan pilihan. Biarkan anak menentukan pasangan bagian yang membentuk bilangan tersebut.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": false,
+      "image_description": null,
+      "image_spec": null,
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.3-KM03-I01-DIA-07",
+      "id_indikator": "IND-MTK-A-K1-B.3-KM03-I01",
+      "jenis_soal": "DIA",
+      "pertanyaan": "Periksa semua informasi sebelum menjawab. Bilangan 14 dapat diuraikan menjadi dua bagian. Pilih pasangan bagian yang jumlahnya tepat 14. Pilih penguraian yang dapat digabungkan kembali tanpa sisa.",
+      "pilihan": {
+        "A": "9 dan 5",
+        "B": "10 dan 5",
+        "C": "9 dan 6"
+      },
+      "kunci_jawaban": "A",
+      "panduan_orang_tua": "Bacakan bilangan dan pilihan. Biarkan anak menentukan pasangan bagian yang membentuk bilangan tersebut.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": false,
+      "image_description": null,
+      "image_spec": null,
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.3-KM03-I01-DIA-08",
+      "id_indikator": "IND-MTK-A-K1-B.3-KM03-I01",
+      "jenis_soal": "DIA",
+      "pertanyaan": "Pahami keadaan yang dijelaskan pada soal. Bilangan 14 dapat diuraikan menjadi dua bagian. Pilih pasangan bagian yang jumlahnya tepat 14. Dua bagian boleh berbeda, tetapi jumlahnya harus tetap.",
+      "pilihan": {
+        "A": "11 dan 4",
+        "B": "10 dan 4",
+        "C": "10 dan 5"
+      },
+      "kunci_jawaban": "B",
+      "panduan_orang_tua": "Bacakan bilangan dan pilihan. Biarkan anak menentukan pasangan bagian yang membentuk bilangan tersebut.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": false,
+      "image_description": null,
+      "image_spec": null,
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.3-KM03-I01-DIA-09",
+      "id_indikator": "IND-MTK-A-K1-B.3-KM03-I01",
+      "jenis_soal": "DIA",
+      "pertanyaan": "Gunakan lambang atau bilangan yang terlihat. Bilangan 13 dapat diuraikan menjadi dua bagian. Pilih pasangan bagian yang jumlahnya tepat 13. Perhatikan bahwa bilangan utuh tidak berubah setelah diuraikan.",
+      "pilihan": {
+        "A": "6 dan 8",
+        "B": "7 dan 7",
+        "C": "6 dan 7"
+      },
+      "kunci_jawaban": "C",
+      "panduan_orang_tua": "Bacakan bilangan dan pilihan. Biarkan anak menentukan pasangan bagian yang membentuk bilangan tersebut.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": false,
+      "image_description": null,
+      "image_spec": null,
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.3-KM03-I01-DIA-10",
+      "id_indikator": "IND-MTK-A-K1-B.3-KM03-I01",
+      "jenis_soal": "DIA",
+      "pertanyaan": "Tentukan jawaban dari keadaan berikut. Bilangan 16 dapat diuraikan menjadi dua bagian. Pilih pasangan bagian yang jumlahnya tepat 16. Temukan pasangan yang paling tepat untuk memecah jumlah tersebut.",
+      "pilihan": {
+        "A": "11 dan 5",
+        "B": "12 dan 5",
+        "C": "11 dan 6"
+      },
+      "kunci_jawaban": "A",
+      "panduan_orang_tua": "Bacakan bilangan dan pilihan. Biarkan anak menentukan pasangan bagian yang membentuk bilangan tersebut.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": false,
+      "image_description": null,
+      "image_spec": null,
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.3-KM03-I01-PGT-01",
+      "id_indikator": "IND-MTK-A-K1-B.3-KM03-I01",
+      "jenis_soal": "PGT",
+      "pertanyaan": "Gunakan cara yang sudah dipelajari. Bilangan 9 dapat diuraikan menjadi dua bagian. Pilih pasangan bagian yang jumlahnya tepat 9. Kedua bagian harus membentuk kembali bilangan semula.",
+      "pilihan": {
+        "A": "7 dan 3",
+        "B": "6 dan 3",
+        "C": "6 dan 4"
+      },
+      "kunci_jawaban": "B",
+      "panduan_orang_tua": "Bacakan bilangan dan pilihan. Biarkan anak menentukan pasangan bagian yang membentuk bilangan tersebut.",
+      "penjelasan_konsep": "Menguraikan bilangan berarti menemukan bagian-bagian yang jika digabungkan kembali membentuk bilangan semula.",
+      "penerapan_nyata": "Anak dapat memikirkan dua kelompok benda yang jika digabungkan menjadi jumlah yang sama.",
+      "butuh_gambar": false,
+      "image_description": null,
+      "image_spec": null,
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.3-KM03-I01-PGT-02",
+      "id_indikator": "IND-MTK-A-K1-B.3-KM03-I01",
+      "jenis_soal": "PGT",
+      "pertanyaan": "Terapkan konsepnya pada keadaan ini. Bilangan 11 dapat diuraikan menjadi dua bagian. Pilih pasangan bagian yang jumlahnya tepat 11. Tidak boleh ada bagian yang lebih besar daripada bilangan utuhnya.",
+      "pilihan": {
+        "A": "7 dan 5",
+        "B": "8 dan 4",
+        "C": "7 dan 4"
+      },
+      "kunci_jawaban": "C",
+      "panduan_orang_tua": "Bacakan bilangan dan pilihan. Biarkan anak menentukan pasangan bagian yang membentuk bilangan tersebut.",
+      "penjelasan_konsep": "Menguraikan bilangan berarti menemukan bagian-bagian yang jika digabungkan kembali membentuk bilangan semula.",
+      "penerapan_nyata": "Anak dapat memikirkan dua kelompok benda yang jika digabungkan menjadi jumlah yang sama.",
+      "butuh_gambar": false,
+      "image_description": null,
+      "image_spec": null,
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.3-KM03-I01-PGT-03",
+      "id_indikator": "IND-MTK-A-K1-B.3-KM03-I01",
+      "jenis_soal": "PGT",
+      "pertanyaan": "Jelaskan pemikiranmu melalui pilihan yang tepat. Bilangan 10 dapat diuraikan menjadi dua bagian. Pilih pasangan bagian yang jumlahnya tepat 10. Bayangkan jumlah itu dibagi menjadi dua kelompok benda.",
+      "pilihan": {
+        "A": "8 dan 2",
+        "B": "9 dan 2",
+        "C": "8 dan 3"
+      },
+      "kunci_jawaban": "A",
+      "panduan_orang_tua": "Bacakan bilangan dan pilihan. Biarkan anak menentukan pasangan bagian yang membentuk bilangan tersebut.",
+      "penjelasan_konsep": "Menguraikan bilangan berarti menemukan bagian-bagian yang jika digabungkan kembali membentuk bilangan semula.",
+      "penerapan_nyata": "Anak dapat memikirkan dua kelompok benda yang jika digabungkan menjadi jumlah yang sama.",
+      "butuh_gambar": false,
+      "image_description": null,
+      "image_spec": null,
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.3-KM03-I01-PGT-04",
+      "id_indikator": "IND-MTK-A-K1-B.3-KM03-I01",
+      "jenis_soal": "PGT",
+      "pertanyaan": "Hubungkan informasi soal dengan konsep bilangan. Bilangan 14 dapat diuraikan menjadi dua bagian. Pilih pasangan bagian yang jumlahnya tepat 14. Pasangan pilihan menunjukkan dua bagian dari satu keseluruhan.",
+      "pilihan": {
+        "A": "10 dan 5",
+        "B": "9 dan 5",
+        "C": "9 dan 6"
+      },
+      "kunci_jawaban": "B",
+      "panduan_orang_tua": "Bacakan bilangan dan pilihan. Biarkan anak menentukan pasangan bagian yang membentuk bilangan tersebut.",
+      "penjelasan_konsep": "Menguraikan bilangan berarti menemukan bagian-bagian yang jika digabungkan kembali membentuk bilangan semula.",
+      "penerapan_nyata": "Anak dapat memikirkan dua kelompok benda yang jika digabungkan menjadi jumlah yang sama.",
+      "butuh_gambar": false,
+      "image_description": null,
+      "image_spec": null,
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.3-KM03-I01-PGT-05",
+      "id_indikator": "IND-MTK-A-K1-B.3-KM03-I01",
+      "jenis_soal": "PGT",
+      "pertanyaan": "Gunakan strategi yang membantu menemukan jawaban. Bilangan 14 dapat diuraikan menjadi dua bagian. Pilih pasangan bagian yang jumlahnya tepat 14. Jumlah kedua bagian menjadi pemeriksaan terhadap jawabanmu.",
+      "pilihan": {
+        "A": "10 dan 5",
+        "B": "11 dan 4",
+        "C": "10 dan 4"
+      },
+      "kunci_jawaban": "C",
+      "panduan_orang_tua": "Bacakan bilangan dan pilihan. Biarkan anak menentukan pasangan bagian yang membentuk bilangan tersebut.",
+      "penjelasan_konsep": "Menguraikan bilangan berarti menemukan bagian-bagian yang jika digabungkan kembali membentuk bilangan semula.",
+      "penerapan_nyata": "Anak dapat memikirkan dua kelompok benda yang jika digabungkan menjadi jumlah yang sama.",
+      "butuh_gambar": false,
+      "image_description": null,
+      "image_spec": null,
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.3-KM03-I01-PGT-06",
+      "id_indikator": "IND-MTK-A-K1-B.3-KM03-I01",
+      "jenis_soal": "PGT",
+      "pertanyaan": "Perhatikan hubungan antarbagian pada soal. Bilangan 13 dapat diuraikan menjadi dua bagian. Pilih pasangan bagian yang jumlahnya tepat 13. Gunakan pasangan bilangan untuk mewakili satu kumpulan utuh.",
+      "pilihan": {
+        "A": "6 dan 7",
+        "B": "7 dan 7",
+        "C": "6 dan 8"
+      },
+      "kunci_jawaban": "A",
+      "panduan_orang_tua": "Bacakan bilangan dan pilihan. Biarkan anak menentukan pasangan bagian yang membentuk bilangan tersebut.",
+      "penjelasan_konsep": "Menguraikan bilangan berarti menemukan bagian-bagian yang jika digabungkan kembali membentuk bilangan semula.",
+      "penerapan_nyata": "Anak dapat memikirkan dua kelompok benda yang jika digabungkan menjadi jumlah yang sama.",
+      "butuh_gambar": false,
+      "image_description": null,
+      "image_spec": null,
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.3-KM03-I01-PGT-07",
+      "id_indikator": "IND-MTK-A-K1-B.3-KM03-I01",
+      "jenis_soal": "PGT",
+      "pertanyaan": "Tunjukkan pemahamanmu terhadap situasi berikut. Bilangan 16 dapat diuraikan menjadi dua bagian. Pilih pasangan bagian yang jumlahnya tepat 16. Pilih penguraian yang dapat digabungkan kembali tanpa sisa.",
+      "pilihan": {
+        "A": "12 dan 5",
+        "B": "11 dan 5",
+        "C": "11 dan 6"
+      },
+      "kunci_jawaban": "B",
+      "panduan_orang_tua": "Bacakan bilangan dan pilihan. Biarkan anak menentukan pasangan bagian yang membentuk bilangan tersebut.",
+      "penjelasan_konsep": "Menguraikan bilangan berarti menemukan bagian-bagian yang jika digabungkan kembali membentuk bilangan semula.",
+      "penerapan_nyata": "Anak dapat memikirkan dua kelompok benda yang jika digabungkan menjadi jumlah yang sama.",
+      "butuh_gambar": false,
+      "image_description": null,
+      "image_spec": null,
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.3-KM03-I01-PGT-08",
+      "id_indikator": "IND-MTK-A-K1-B.3-KM03-I01",
+      "jenis_soal": "PGT",
+      "pertanyaan": "Pilih jawaban setelah memeriksa konsepnya. Bilangan 5 dapat diuraikan menjadi dua bagian. Pilih pasangan bagian yang jumlahnya tepat 5. Dua bagian boleh berbeda, tetapi jumlahnya harus tetap.",
+      "pilihan": {
+        "A": "2 dan 4",
+        "B": "3 dan 3",
+        "C": "2 dan 3"
+      },
+      "kunci_jawaban": "C",
+      "panduan_orang_tua": "Bacakan bilangan dan pilihan. Biarkan anak menentukan pasangan bagian yang membentuk bilangan tersebut.",
+      "penjelasan_konsep": "Menguraikan bilangan berarti menemukan bagian-bagian yang jika digabungkan kembali membentuk bilangan semula.",
+      "penerapan_nyata": "Anak dapat memikirkan dua kelompok benda yang jika digabungkan menjadi jumlah yang sama.",
+      "butuh_gambar": false,
+      "image_description": null,
+      "image_spec": null,
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.3-KM03-I01-PGT-09",
+      "id_indikator": "IND-MTK-A-K1-B.3-KM03-I01",
+      "jenis_soal": "PGT",
+      "pertanyaan": "Gunakan penalaranmu, bukan tebakan. Bilangan 7 dapat diuraikan menjadi dua bagian. Pilih pasangan bagian yang jumlahnya tepat 7. Perhatikan bahwa bilangan utuh tidak berubah setelah diuraikan.",
+      "pilihan": {
+        "A": "4 dan 3",
+        "B": "5 dan 3",
+        "C": "4 dan 4"
+      },
+      "kunci_jawaban": "A",
+      "panduan_orang_tua": "Bacakan bilangan dan pilihan. Biarkan anak menentukan pasangan bagian yang membentuk bilangan tersebut.",
+      "penjelasan_konsep": "Menguraikan bilangan berarti menemukan bagian-bagian yang jika digabungkan kembali membentuk bilangan semula.",
+      "penerapan_nyata": "Anak dapat memikirkan dua kelompok benda yang jika digabungkan menjadi jumlah yang sama.",
+      "butuh_gambar": false,
+      "image_description": null,
+      "image_spec": null,
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.3-KM03-I01-PGT-10",
+      "id_indikator": "IND-MTK-A-K1-B.3-KM03-I01",
+      "jenis_soal": "PGT",
+      "pertanyaan": "Terapkan pemahaman bilangan pada contoh ini. Bilangan 7 dapat diuraikan menjadi dua bagian. Pilih pasangan bagian yang jumlahnya tepat 7. Temukan pasangan yang paling tepat untuk memecah jumlah tersebut.",
+      "pilihan": {
+        "A": "6 dan 2",
+        "B": "5 dan 2",
+        "C": "5 dan 3"
+      },
+      "kunci_jawaban": "B",
+      "panduan_orang_tua": "Bacakan bilangan dan pilihan. Biarkan anak menentukan pasangan bagian yang membentuk bilangan tersebut.",
+      "penjelasan_konsep": "Menguraikan bilangan berarti menemukan bagian-bagian yang jika digabungkan kembali membentuk bilangan semula.",
+      "penerapan_nyata": "Anak dapat memikirkan dua kelompok benda yang jika digabungkan menjadi jumlah yang sama.",
+      "butuh_gambar": false,
+      "image_description": null,
+      "image_spec": null,
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.3-KM03-I01-PYN-01",
+      "id_indikator": "IND-MTK-A-K1-B.3-KM03-I01",
+      "jenis_soal": "PYN",
+      "pertanyaan": "Bayangkan situasi ini terjadi dalam kegiatan sehari-hari. Bilangan 14 dapat diuraikan menjadi dua bagian. Pilih pasangan bagian yang jumlahnya tepat 14. Kedua bagian harus membentuk kembali bilangan semula.",
+      "pilihan": {
+        "A": "9 dan 6",
+        "B": "10 dan 5",
+        "C": "9 dan 5"
+      },
+      "kunci_jawaban": "C",
+      "panduan_orang_tua": "Bacakan bilangan dan pilihan. Biarkan anak menentukan pasangan bagian yang membentuk bilangan tersebut.",
+      "penjelasan_konsep": "Menguraikan bilangan berarti menemukan bagian-bagian yang jika digabungkan kembali membentuk bilangan semula.",
+      "penerapan_nyata": "Anak dapat memikirkan dua kelompok benda yang jika digabungkan menjadi jumlah yang sama.",
+      "butuh_gambar": false,
+      "image_description": null,
+      "image_spec": null,
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.3-KM03-I01-PYN-02",
+      "id_indikator": "IND-MTK-A-K1-B.3-KM03-I01",
+      "jenis_soal": "PYN",
+      "pertanyaan": "Gunakan informasi berikut untuk membantu sebuah keputusan. Bilangan 14 dapat diuraikan menjadi dua bagian. Pilih pasangan bagian yang jumlahnya tepat 14. Tidak boleh ada bagian yang lebih besar daripada bilangan utuhnya.",
+      "pilihan": {
+        "A": "10 dan 4",
+        "B": "11 dan 4",
+        "C": "10 dan 5"
+      },
+      "kunci_jawaban": "A",
+      "panduan_orang_tua": "Bacakan bilangan dan pilihan. Biarkan anak menentukan pasangan bagian yang membentuk bilangan tersebut.",
+      "penjelasan_konsep": "Menguraikan bilangan berarti menemukan bagian-bagian yang jika digabungkan kembali membentuk bilangan semula.",
+      "penerapan_nyata": "Anak dapat memikirkan dua kelompok benda yang jika digabungkan menjadi jumlah yang sama.",
+      "butuh_gambar": false,
+      "image_description": null,
+      "image_spec": null,
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.3-KM03-I01-PYN-03",
+      "id_indikator": "IND-MTK-A-K1-B.3-KM03-I01",
+      "jenis_soal": "PYN",
+      "pertanyaan": "Pikirkan cara menerapkan konsep ini di luar latihan. Bilangan 13 dapat diuraikan menjadi dua bagian. Pilih pasangan bagian yang jumlahnya tepat 13. Bayangkan jumlah itu dibagi menjadi dua kelompok benda.",
+      "pilihan": {
+        "A": "7 dan 7",
+        "B": "6 dan 7",
+        "C": "6 dan 8"
+      },
+      "kunci_jawaban": "B",
+      "panduan_orang_tua": "Bacakan bilangan dan pilihan. Biarkan anak menentukan pasangan bagian yang membentuk bilangan tersebut.",
+      "penjelasan_konsep": "Menguraikan bilangan berarti menemukan bagian-bagian yang jika digabungkan kembali membentuk bilangan semula.",
+      "penerapan_nyata": "Anak dapat memikirkan dua kelompok benda yang jika digabungkan menjadi jumlah yang sama.",
+      "butuh_gambar": false,
+      "image_description": null,
+      "image_spec": null,
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.3-KM03-I01-PYN-04",
+      "id_indikator": "IND-MTK-A-K1-B.3-KM03-I01",
+      "jenis_soal": "PYN",
+      "pertanyaan": "Selesaikan tantangan kecil pada situasi berikut. Bilangan 16 dapat diuraikan menjadi dua bagian. Pilih pasangan bagian yang jumlahnya tepat 16. Pasangan pilihan menunjukkan dua bagian dari satu keseluruhan.",
+      "pilihan": {
+        "A": "11 dan 6",
+        "B": "12 dan 5",
+        "C": "11 dan 5"
+      },
+      "kunci_jawaban": "C",
+      "panduan_orang_tua": "Bacakan bilangan dan pilihan. Biarkan anak menentukan pasangan bagian yang membentuk bilangan tersebut.",
+      "penjelasan_konsep": "Menguraikan bilangan berarti menemukan bagian-bagian yang jika digabungkan kembali membentuk bilangan semula.",
+      "penerapan_nyata": "Anak dapat memikirkan dua kelompok benda yang jika digabungkan menjadi jumlah yang sama.",
+      "butuh_gambar": false,
+      "image_description": null,
+      "image_spec": null,
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.3-KM03-I01-PYN-05",
+      "id_indikator": "IND-MTK-A-K1-B.3-KM03-I01",
+      "jenis_soal": "PYN",
+      "pertanyaan": "Gunakan bilangan untuk menjelaskan keadaan yang diberikan. Bilangan 5 dapat diuraikan menjadi dua bagian. Pilih pasangan bagian yang jumlahnya tepat 5. Jumlah kedua bagian menjadi pemeriksaan terhadap jawabanmu.",
+      "pilihan": {
+        "A": "2 dan 3",
+        "B": "3 dan 3",
+        "C": "2 dan 4"
+      },
+      "kunci_jawaban": "A",
+      "panduan_orang_tua": "Bacakan bilangan dan pilihan. Biarkan anak menentukan pasangan bagian yang membentuk bilangan tersebut.",
+      "penjelasan_konsep": "Menguraikan bilangan berarti menemukan bagian-bagian yang jika digabungkan kembali membentuk bilangan semula.",
+      "penerapan_nyata": "Anak dapat memikirkan dua kelompok benda yang jika digabungkan menjadi jumlah yang sama.",
+      "butuh_gambar": false,
+      "image_description": null,
+      "image_spec": null,
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.3-KM03-I01-PYN-06",
+      "id_indikator": "IND-MTK-A-K1-B.3-KM03-I01",
+      "jenis_soal": "PYN",
+      "pertanyaan": "Perhatikan kebutuhan pada cerita singkat ini. Bilangan 7 dapat diuraikan menjadi dua bagian. Pilih pasangan bagian yang jumlahnya tepat 7. Gunakan pasangan bilangan untuk mewakili satu kumpulan utuh.",
+      "pilihan": {
+        "A": "5 dan 3",
+        "B": "4 dan 3",
+        "C": "4 dan 4"
+      },
+      "kunci_jawaban": "B",
+      "panduan_orang_tua": "Bacakan bilangan dan pilihan. Biarkan anak menentukan pasangan bagian yang membentuk bilangan tersebut.",
+      "penjelasan_konsep": "Menguraikan bilangan berarti menemukan bagian-bagian yang jika digabungkan kembali membentuk bilangan semula.",
+      "penerapan_nyata": "Anak dapat memikirkan dua kelompok benda yang jika digabungkan menjadi jumlah yang sama.",
+      "butuh_gambar": false,
+      "image_description": null,
+      "image_spec": null,
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.3-KM03-I01-PYN-07",
+      "id_indikator": "IND-MTK-A-K1-B.3-KM03-I01",
+      "jenis_soal": "PYN",
+      "pertanyaan": "Tentukan hasil yang berguna untuk kegiatan berikut. Bilangan 7 dapat diuraikan menjadi dua bagian. Pilih pasangan bagian yang jumlahnya tepat 7. Pilih penguraian yang dapat digabungkan kembali tanpa sisa.",
+      "pilihan": {
+        "A": "5 dan 3",
+        "B": "6 dan 2",
+        "C": "5 dan 2"
+      },
+      "kunci_jawaban": "C",
+      "panduan_orang_tua": "Bacakan bilangan dan pilihan. Biarkan anak menentukan pasangan bagian yang membentuk bilangan tersebut.",
+      "penjelasan_konsep": "Menguraikan bilangan berarti menemukan bagian-bagian yang jika digabungkan kembali membentuk bilangan semula.",
+      "penerapan_nyata": "Anak dapat memikirkan dua kelompok benda yang jika digabungkan menjadi jumlah yang sama.",
+      "butuh_gambar": false,
+      "image_description": null,
+      "image_spec": null,
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.3-KM03-I01-PYN-08",
+      "id_indikator": "IND-MTK-A-K1-B.3-KM03-I01",
+      "jenis_soal": "PYN",
+      "pertanyaan": "Gunakan strategi bilangan untuk menyelesaikan masalah ini. Bilangan 9 dapat diuraikan menjadi dua bagian. Pilih pasangan bagian yang jumlahnya tepat 9. Dua bagian boleh berbeda, tetapi jumlahnya harus tetap.",
+      "pilihan": {
+        "A": "6 dan 3",
+        "B": "7 dan 3",
+        "C": "6 dan 4"
+      },
+      "kunci_jawaban": "A",
+      "panduan_orang_tua": "Bacakan bilangan dan pilihan. Biarkan anak menentukan pasangan bagian yang membentuk bilangan tersebut.",
+      "penjelasan_konsep": "Menguraikan bilangan berarti menemukan bagian-bagian yang jika digabungkan kembali membentuk bilangan semula.",
+      "penerapan_nyata": "Anak dapat memikirkan dua kelompok benda yang jika digabungkan menjadi jumlah yang sama.",
+      "butuh_gambar": false,
+      "image_description": null,
+      "image_spec": null,
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.3-KM03-I01-PYN-09",
+      "id_indikator": "IND-MTK-A-K1-B.3-KM03-I01",
+      "jenis_soal": "PYN",
+      "pertanyaan": "Hubungkan tugas ini dengan benda atau kegiatan nyata. Bilangan 11 dapat diuraikan menjadi dua bagian. Pilih pasangan bagian yang jumlahnya tepat 11. Perhatikan bahwa bilangan utuh tidak berubah setelah diuraikan.",
+      "pilihan": {
+        "A": "8 dan 4",
+        "B": "7 dan 4",
+        "C": "7 dan 5"
+      },
+      "kunci_jawaban": "B",
+      "panduan_orang_tua": "Bacakan bilangan dan pilihan. Biarkan anak menentukan pasangan bagian yang membentuk bilangan tersebut.",
+      "penjelasan_konsep": "Menguraikan bilangan berarti menemukan bagian-bagian yang jika digabungkan kembali membentuk bilangan semula.",
+      "penerapan_nyata": "Anak dapat memikirkan dua kelompok benda yang jika digabungkan menjadi jumlah yang sama.",
+      "butuh_gambar": false,
+      "image_description": null,
+      "image_spec": null,
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.3-KM03-I01-PYN-10",
+      "id_indikator": "IND-MTK-A-K1-B.3-KM03-I01",
+      "jenis_soal": "PYN",
+      "pertanyaan": "Buktikan pemahamanmu melalui situasi yang berbeda. Bilangan 10 dapat diuraikan menjadi dua bagian. Pilih pasangan bagian yang jumlahnya tepat 10. Temukan pasangan yang paling tepat untuk memecah jumlah tersebut.",
+      "pilihan": {
+        "A": "8 dan 3",
+        "B": "9 dan 2",
+        "C": "8 dan 2"
+      },
+      "kunci_jawaban": "C",
+      "panduan_orang_tua": "Bacakan bilangan dan pilihan. Biarkan anak menentukan pasangan bagian yang membentuk bilangan tersebut.",
+      "penjelasan_konsep": "Menguraikan bilangan berarti menemukan bagian-bagian yang jika digabungkan kembali membentuk bilangan semula.",
+      "penerapan_nyata": "Anak dapat memikirkan dua kelompok benda yang jika digabungkan menjadi jumlah yang sama.",
+      "butuh_gambar": false,
+      "image_description": null,
+      "image_spec": null,
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.3-KM03-I01-CU-01",
+      "id_indikator": "IND-MTK-A-K1-B.3-KM03-I01",
+      "jenis_soal": "CU",
+      "pertanyaan": "Periksa kembali pemahamanmu. Bilangan 16 dapat diuraikan menjadi dua bagian. Pilih pasangan bagian yang jumlahnya tepat 16. Kedua bagian harus membentuk kembali bilangan semula.",
+      "pilihan": {
+        "A": "11 dan 5",
+        "B": "12 dan 5",
+        "C": "11 dan 6"
+      },
+      "kunci_jawaban": "A",
+      "panduan_orang_tua": "Bacakan bilangan dan pilihan. Biarkan anak menentukan pasangan bagian yang membentuk bilangan tersebut.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": false,
+      "image_description": null,
+      "image_spec": null,
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.3-KM03-I01-CU-02",
+      "id_indikator": "IND-MTK-A-K1-B.3-KM03-I01",
+      "jenis_soal": "CU",
+      "pertanyaan": "Lakukan pengecekan dengan teliti. Bilangan 5 dapat diuraikan menjadi dua bagian. Pilih pasangan bagian yang jumlahnya tepat 5. Tidak boleh ada bagian yang lebih besar daripada bilangan utuhnya.",
+      "pilihan": {
+        "A": "3 dan 3",
+        "B": "2 dan 3",
+        "C": "2 dan 4"
+      },
+      "kunci_jawaban": "B",
+      "panduan_orang_tua": "Bacakan bilangan dan pilihan. Biarkan anak menentukan pasangan bagian yang membentuk bilangan tersebut.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": false,
+      "image_description": null,
+      "image_spec": null,
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.3-KM03-I01-CU-03",
+      "id_indikator": "IND-MTK-A-K1-B.3-KM03-I01",
+      "jenis_soal": "CU",
+      "pertanyaan": "Pastikan hubungan bilangan pada jawabanmu benar. Bilangan 7 dapat diuraikan menjadi dua bagian. Pilih pasangan bagian yang jumlahnya tepat 7. Bayangkan jumlah itu dibagi menjadi dua kelompok benda.",
+      "pilihan": {
+        "A": "4 dan 4",
+        "B": "5 dan 3",
+        "C": "4 dan 3"
+      },
+      "kunci_jawaban": "C",
+      "panduan_orang_tua": "Bacakan bilangan dan pilihan. Biarkan anak menentukan pasangan bagian yang membentuk bilangan tersebut.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": false,
+      "image_description": null,
+      "image_spec": null,
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.3-KM03-I01-CU-04",
+      "id_indikator": "IND-MTK-A-K1-B.3-KM03-I01",
+      "jenis_soal": "CU",
+      "pertanyaan": "Uji kembali cara yang kamu gunakan. Bilangan 7 dapat diuraikan menjadi dua bagian. Pilih pasangan bagian yang jumlahnya tepat 7. Pasangan pilihan menunjukkan dua bagian dari satu keseluruhan.",
+      "pilihan": {
+        "A": "5 dan 2",
+        "B": "6 dan 2",
+        "C": "5 dan 3"
+      },
+      "kunci_jawaban": "A",
+      "panduan_orang_tua": "Bacakan bilangan dan pilihan. Biarkan anak menentukan pasangan bagian yang membentuk bilangan tersebut.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": false,
+      "image_description": null,
+      "image_spec": null,
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.3-KM03-I01-CU-05",
+      "id_indikator": "IND-MTK-A-K1-B.3-KM03-I01",
+      "jenis_soal": "CU",
+      "pertanyaan": "Cermati ulang informasi sebelum memilih. Bilangan 9 dapat diuraikan menjadi dua bagian. Pilih pasangan bagian yang jumlahnya tepat 9. Jumlah kedua bagian menjadi pemeriksaan terhadap jawabanmu.",
+      "pilihan": {
+        "A": "7 dan 3",
+        "B": "6 dan 3",
+        "C": "6 dan 4"
+      },
+      "kunci_jawaban": "B",
+      "panduan_orang_tua": "Bacakan bilangan dan pilihan. Biarkan anak menentukan pasangan bagian yang membentuk bilangan tersebut.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": false,
+      "image_description": null,
+      "image_spec": null,
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.3-KM03-I01-CU-06",
+      "id_indikator": "IND-MTK-A-K1-B.3-KM03-I01",
+      "jenis_soal": "CU",
+      "pertanyaan": "Verifikasi jawabanmu pada tugas ini. Bilangan 11 dapat diuraikan menjadi dua bagian. Pilih pasangan bagian yang jumlahnya tepat 11. Gunakan pasangan bilangan untuk mewakili satu kumpulan utuh.",
+      "pilihan": {
+        "A": "7 dan 5",
+        "B": "8 dan 4",
+        "C": "7 dan 4"
+      },
+      "kunci_jawaban": "C",
+      "panduan_orang_tua": "Bacakan bilangan dan pilihan. Biarkan anak menentukan pasangan bagian yang membentuk bilangan tersebut.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": false,
+      "image_description": null,
+      "image_spec": null,
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.3-KM03-I01-CU-07",
+      "id_indikator": "IND-MTK-A-K1-B.3-KM03-I01",
+      "jenis_soal": "CU",
+      "pertanyaan": "Tinjau kembali bilangan yang tersedia. Bilangan 10 dapat diuraikan menjadi dua bagian. Pilih pasangan bagian yang jumlahnya tepat 10. Pilih penguraian yang dapat digabungkan kembali tanpa sisa.",
+      "pilihan": {
+        "A": "8 dan 2",
+        "B": "9 dan 2",
+        "C": "8 dan 3"
+      },
+      "kunci_jawaban": "A",
+      "panduan_orang_tua": "Bacakan bilangan dan pilihan. Biarkan anak menentukan pasangan bagian yang membentuk bilangan tersebut.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": false,
+      "image_description": null,
+      "image_spec": null,
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.3-KM03-I01-CU-08",
+      "id_indikator": "IND-MTK-A-K1-B.3-KM03-I01",
+      "jenis_soal": "CU",
+      "pertanyaan": "Pastikan tidak ada informasi yang terlewat. Bilangan 14 dapat diuraikan menjadi dua bagian. Pilih pasangan bagian yang jumlahnya tepat 14. Dua bagian boleh berbeda, tetapi jumlahnya harus tetap.",
+      "pilihan": {
+        "A": "10 dan 5",
+        "B": "9 dan 5",
+        "C": "9 dan 6"
+      },
+      "kunci_jawaban": "B",
+      "panduan_orang_tua": "Bacakan bilangan dan pilihan. Biarkan anak menentukan pasangan bagian yang membentuk bilangan tersebut.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": false,
+      "image_description": null,
+      "image_spec": null,
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.3-KM03-I01-CU-09",
+      "id_indikator": "IND-MTK-A-K1-B.3-KM03-I01",
+      "jenis_soal": "CU",
+      "pertanyaan": "Cek ketepatan pemahaman terhadap konsep. Bilangan 14 dapat diuraikan menjadi dua bagian. Pilih pasangan bagian yang jumlahnya tepat 14. Perhatikan bahwa bilangan utuh tidak berubah setelah diuraikan.",
+      "pilihan": {
+        "A": "10 dan 5",
+        "B": "11 dan 4",
+        "C": "10 dan 4"
+      },
+      "kunci_jawaban": "C",
+      "panduan_orang_tua": "Bacakan bilangan dan pilihan. Biarkan anak menentukan pasangan bagian yang membentuk bilangan tersebut.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": false,
+      "image_description": null,
+      "image_spec": null,
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.3-KM03-I01-CU-10",
+      "id_indikator": "IND-MTK-A-K1-B.3-KM03-I01",
+      "jenis_soal": "CU",
+      "pertanyaan": "Nyatakan hasil pemeriksaanmu secara tepat. Bilangan 13 dapat diuraikan menjadi dua bagian. Pilih pasangan bagian yang jumlahnya tepat 13. Temukan pasangan yang paling tepat untuk memecah jumlah tersebut.",
+      "pilihan": {
+        "A": "6 dan 7",
+        "B": "7 dan 7",
+        "C": "6 dan 8"
+      },
+      "kunci_jawaban": "A",
+      "panduan_orang_tua": "Bacakan bilangan dan pilihan. Biarkan anak menentukan pasangan bagian yang membentuk bilangan tersebut.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": false,
+      "image_description": null,
+      "image_spec": null,
+      "metode_penilaian": "OTOMATIS",
+      "rubrik_penilaian": null
+    }
+  ]
+}

@@ -1,0 +1,853 @@
+{
+  "id_indikator": "IND-MTK-A-K1-B.2-KM01-I01",
+  "hierarki": {
+    "CP": "CP-MTK-A-1.1 — Bilangan cacah sampai 100; nilai tempat; perbandingan dan pengurutan; komposisi/dekomposisi; penjumlahan dan pengurangan sampai 20; setengah dan seperempat.",
+    "ATP": "Kelas 1, ATP 3",
+    "TP": "B.2 — Membaca dan menulis bilangan sampai 20.",
+    "KM": "KM-MTK-A-K1-B.2-01 — Mengenali lambang bilangan cacah sampai 20 dan menyebutkan nama bilangannya secara tepat.",
+    "Indikator": "IND-MTK-A-K1-B.2-KM01-I01 — Mengenali lambang bilangan cacah sampai 20 yang disajikan secara tertulis, kemudian menyebutkan nama bilangan yang sesuai dengan lambang tersebut secara tepat.",
+    "kategori": "I"
+  },
+  "soal": [
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.2-KM01-I01-DIA-01",
+      "id_indikator": "IND-MTK-A-K1-B.2-KM01-I01",
+      "jenis_soal": "DIA",
+      "pertanyaan": "Perhatikan informasi berikut. Lihat lambang bilangan 3. Sebutkan nama bilangan itu. Ucapkan nama bilangan dengan lafal yang jelas.",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan lambang bilangan dan minta anak menyebutkan namanya. Catat ucapan anak tanpa menawarkan pilihan nama.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": false,
+      "image_description": null,
+      "image_spec": null,
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons yang sesuai dengan hubungan atau nilai yang diminta.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.2-KM01-I01-DIA-02",
+      "id_indikator": "IND-MTK-A-K1-B.2-KM01-I01",
+      "jenis_soal": "DIA",
+      "pertanyaan": "Jawablah berdasarkan stimulus yang tersedia. Lihat lambang bilangan 5. Sebutkan nama bilangan itu. Hubungkan lambang tertulis dengan kata bilangannya.",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan lambang bilangan dan minta anak menyebutkan namanya. Catat ucapan anak tanpa menawarkan pilihan nama.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": false,
+      "image_description": null,
+      "image_spec": null,
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons yang sesuai dengan hubungan atau nilai yang diminta.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.2-KM01-I01-DIA-03",
+      "id_indikator": "IND-MTK-A-K1-B.2-KM01-I01",
+      "jenis_soal": "DIA",
+      "pertanyaan": "Gunakan data pada soal ini. Lihat lambang bilangan 7. Sebutkan nama bilangan itu. Baca angka sebagai satu nama bilangan yang utuh.",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan lambang bilangan dan minta anak menyebutkan namanya. Catat ucapan anak tanpa menawarkan pilihan nama.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": false,
+      "image_description": null,
+      "image_spec": null,
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons yang sesuai dengan hubungan atau nilai yang diminta.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.2-KM01-I01-DIA-04",
+      "id_indikator": "IND-MTK-A-K1-B.2-KM01-I01",
+      "jenis_soal": "DIA",
+      "pertanyaan": "Cermati bilangan dan keterangan yang diberikan. Lihat lambang bilangan 9. Sebutkan nama bilangan itu. Perhatikan kedua digit jika lambangnya terdiri dari dua angka.",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan lambang bilangan dan minta anak menyebutkan namanya. Catat ucapan anak tanpa menawarkan pilihan nama.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": false,
+      "image_description": null,
+      "image_spec": null,
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons yang sesuai dengan hubungan atau nilai yang diminta.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.2-KM01-I01-DIA-05",
+      "id_indikator": "IND-MTK-A-K1-B.2-KM01-I01",
+      "jenis_soal": "DIA",
+      "pertanyaan": "Amati situasi pada pertanyaan berikut. Lihat lambang bilangan 11. Sebutkan nama bilangan itu. Nama yang dipilih harus sesuai dengan lambang tersebut.",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan lambang bilangan dan minta anak menyebutkan namanya. Catat ucapan anak tanpa menawarkan pilihan nama.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": false,
+      "image_description": null,
+      "image_spec": null,
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons yang sesuai dengan hubungan atau nilai yang diminta.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.2-KM01-I01-DIA-06",
+      "id_indikator": "IND-MTK-A-K1-B.2-KM01-I01",
+      "jenis_soal": "DIA",
+      "pertanyaan": "Baca tugas ini dengan teliti. Lihat lambang bilangan 12. Sebutkan nama bilangan itu. Gunakan kosakata bilangan yang tepat.",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan lambang bilangan dan minta anak menyebutkan namanya. Catat ucapan anak tanpa menawarkan pilihan nama.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": false,
+      "image_description": null,
+      "image_spec": null,
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons yang sesuai dengan hubungan atau nilai yang diminta.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.2-KM01-I01-DIA-07",
+      "id_indikator": "IND-MTK-A-K1-B.2-KM01-I01",
+      "jenis_soal": "DIA",
+      "pertanyaan": "Periksa semua informasi sebelum menjawab. Lihat lambang bilangan 14. Sebutkan nama bilangan itu. Jangan membaca digit secara terpisah jika membentuk satu bilangan.",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan lambang bilangan dan minta anak menyebutkan namanya. Catat ucapan anak tanpa menawarkan pilihan nama.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": false,
+      "image_description": null,
+      "image_spec": null,
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons yang sesuai dengan hubungan atau nilai yang diminta.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.2-KM01-I01-DIA-08",
+      "id_indikator": "IND-MTK-A-K1-B.2-KM01-I01",
+      "jenis_soal": "DIA",
+      "pertanyaan": "Pahami keadaan yang dijelaskan pada soal. Lihat lambang bilangan 16. Sebutkan nama bilangan itu. Sampaikan nama bilangan sesuai aturan bahasa Indonesia.",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan lambang bilangan dan minta anak menyebutkan namanya. Catat ucapan anak tanpa menawarkan pilihan nama.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": false,
+      "image_description": null,
+      "image_spec": null,
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons yang sesuai dengan hubungan atau nilai yang diminta.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.2-KM01-I01-DIA-09",
+      "id_indikator": "IND-MTK-A-K1-B.2-KM01-I01",
+      "jenis_soal": "DIA",
+      "pertanyaan": "Gunakan lambang atau bilangan yang terlihat. Lihat lambang bilangan 18. Sebutkan nama bilangan itu. Cocokkan lambang pada soal dengan nama yang kamu ketahui.",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan lambang bilangan dan minta anak menyebutkan namanya. Catat ucapan anak tanpa menawarkan pilihan nama.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": false,
+      "image_description": null,
+      "image_spec": null,
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons yang sesuai dengan hubungan atau nilai yang diminta.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.2-KM01-I01-DIA-10",
+      "id_indikator": "IND-MTK-A-K1-B.2-KM01-I01",
+      "jenis_soal": "DIA",
+      "pertanyaan": "Tentukan jawaban dari keadaan berikut. Lihat lambang bilangan 20. Sebutkan nama bilangan itu. Pastikan nama yang diucapkan mewakili nilai lambang.",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan lambang bilangan dan minta anak menyebutkan namanya. Catat ucapan anak tanpa menawarkan pilihan nama.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": false,
+      "image_description": null,
+      "image_spec": null,
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons yang sesuai dengan hubungan atau nilai yang diminta.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.2-KM01-I01-PGT-01",
+      "id_indikator": "IND-MTK-A-K1-B.2-KM01-I01",
+      "jenis_soal": "PGT",
+      "pertanyaan": "Gunakan cara yang sudah dipelajari. Lihat lambang bilangan 9. Sebutkan nama bilangan itu. Ucapkan nama bilangan dengan lafal yang jelas.",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan lambang bilangan dan minta anak menyebutkan namanya. Catat ucapan anak tanpa menawarkan pilihan nama.",
+      "penjelasan_konsep": "Lambang bilangan adalah tanda tertulis yang mewakili nama dan banyaknya suatu bilangan.",
+      "penerapan_nyata": "Anak dapat membaca nomor rumah atau nomor halaman dengan menyebutkan nama bilangannya.",
+      "butuh_gambar": false,
+      "image_description": null,
+      "image_spec": null,
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons yang sesuai dengan hubungan atau nilai yang diminta.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.2-KM01-I01-PGT-02",
+      "id_indikator": "IND-MTK-A-K1-B.2-KM01-I01",
+      "jenis_soal": "PGT",
+      "pertanyaan": "Terapkan konsepnya pada keadaan ini. Lihat lambang bilangan 11. Sebutkan nama bilangan itu. Hubungkan lambang tertulis dengan kata bilangannya.",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan lambang bilangan dan minta anak menyebutkan namanya. Catat ucapan anak tanpa menawarkan pilihan nama.",
+      "penjelasan_konsep": "Lambang bilangan adalah tanda tertulis yang mewakili nama dan banyaknya suatu bilangan.",
+      "penerapan_nyata": "Anak dapat membaca nomor rumah atau nomor halaman dengan menyebutkan nama bilangannya.",
+      "butuh_gambar": false,
+      "image_description": null,
+      "image_spec": null,
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons yang sesuai dengan hubungan atau nilai yang diminta.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.2-KM01-I01-PGT-03",
+      "id_indikator": "IND-MTK-A-K1-B.2-KM01-I01",
+      "jenis_soal": "PGT",
+      "pertanyaan": "Jelaskan pemikiranmu melalui pilihan yang tepat. Lihat lambang bilangan 12. Sebutkan nama bilangan itu. Baca angka sebagai satu nama bilangan yang utuh.",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan lambang bilangan dan minta anak menyebutkan namanya. Catat ucapan anak tanpa menawarkan pilihan nama.",
+      "penjelasan_konsep": "Lambang bilangan adalah tanda tertulis yang mewakili nama dan banyaknya suatu bilangan.",
+      "penerapan_nyata": "Anak dapat membaca nomor rumah atau nomor halaman dengan menyebutkan nama bilangannya.",
+      "butuh_gambar": false,
+      "image_description": null,
+      "image_spec": null,
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons yang sesuai dengan hubungan atau nilai yang diminta.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.2-KM01-I01-PGT-04",
+      "id_indikator": "IND-MTK-A-K1-B.2-KM01-I01",
+      "jenis_soal": "PGT",
+      "pertanyaan": "Hubungkan informasi soal dengan konsep bilangan. Lihat lambang bilangan 14. Sebutkan nama bilangan itu. Perhatikan kedua digit jika lambangnya terdiri dari dua angka.",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan lambang bilangan dan minta anak menyebutkan namanya. Catat ucapan anak tanpa menawarkan pilihan nama.",
+      "penjelasan_konsep": "Lambang bilangan adalah tanda tertulis yang mewakili nama dan banyaknya suatu bilangan.",
+      "penerapan_nyata": "Anak dapat membaca nomor rumah atau nomor halaman dengan menyebutkan nama bilangannya.",
+      "butuh_gambar": false,
+      "image_description": null,
+      "image_spec": null,
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons yang sesuai dengan hubungan atau nilai yang diminta.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.2-KM01-I01-PGT-05",
+      "id_indikator": "IND-MTK-A-K1-B.2-KM01-I01",
+      "jenis_soal": "PGT",
+      "pertanyaan": "Gunakan strategi yang membantu menemukan jawaban. Lihat lambang bilangan 16. Sebutkan nama bilangan itu. Nama yang dipilih harus sesuai dengan lambang tersebut.",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan lambang bilangan dan minta anak menyebutkan namanya. Catat ucapan anak tanpa menawarkan pilihan nama.",
+      "penjelasan_konsep": "Lambang bilangan adalah tanda tertulis yang mewakili nama dan banyaknya suatu bilangan.",
+      "penerapan_nyata": "Anak dapat membaca nomor rumah atau nomor halaman dengan menyebutkan nama bilangannya.",
+      "butuh_gambar": false,
+      "image_description": null,
+      "image_spec": null,
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons yang sesuai dengan hubungan atau nilai yang diminta.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.2-KM01-I01-PGT-06",
+      "id_indikator": "IND-MTK-A-K1-B.2-KM01-I01",
+      "jenis_soal": "PGT",
+      "pertanyaan": "Perhatikan hubungan antarbagian pada soal. Lihat lambang bilangan 18. Sebutkan nama bilangan itu. Gunakan kosakata bilangan yang tepat.",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan lambang bilangan dan minta anak menyebutkan namanya. Catat ucapan anak tanpa menawarkan pilihan nama.",
+      "penjelasan_konsep": "Lambang bilangan adalah tanda tertulis yang mewakili nama dan banyaknya suatu bilangan.",
+      "penerapan_nyata": "Anak dapat membaca nomor rumah atau nomor halaman dengan menyebutkan nama bilangannya.",
+      "butuh_gambar": false,
+      "image_description": null,
+      "image_spec": null,
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons yang sesuai dengan hubungan atau nilai yang diminta.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.2-KM01-I01-PGT-07",
+      "id_indikator": "IND-MTK-A-K1-B.2-KM01-I01",
+      "jenis_soal": "PGT",
+      "pertanyaan": "Tunjukkan pemahamanmu terhadap situasi berikut. Lihat lambang bilangan 20. Sebutkan nama bilangan itu. Jangan membaca digit secara terpisah jika membentuk satu bilangan.",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan lambang bilangan dan minta anak menyebutkan namanya. Catat ucapan anak tanpa menawarkan pilihan nama.",
+      "penjelasan_konsep": "Lambang bilangan adalah tanda tertulis yang mewakili nama dan banyaknya suatu bilangan.",
+      "penerapan_nyata": "Anak dapat membaca nomor rumah atau nomor halaman dengan menyebutkan nama bilangannya.",
+      "butuh_gambar": false,
+      "image_description": null,
+      "image_spec": null,
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons yang sesuai dengan hubungan atau nilai yang diminta.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.2-KM01-I01-PGT-08",
+      "id_indikator": "IND-MTK-A-K1-B.2-KM01-I01",
+      "jenis_soal": "PGT",
+      "pertanyaan": "Pilih jawaban setelah memeriksa konsepnya. Lihat lambang bilangan 3. Sebutkan nama bilangan itu. Sampaikan nama bilangan sesuai aturan bahasa Indonesia.",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan lambang bilangan dan minta anak menyebutkan namanya. Catat ucapan anak tanpa menawarkan pilihan nama.",
+      "penjelasan_konsep": "Lambang bilangan adalah tanda tertulis yang mewakili nama dan banyaknya suatu bilangan.",
+      "penerapan_nyata": "Anak dapat membaca nomor rumah atau nomor halaman dengan menyebutkan nama bilangannya.",
+      "butuh_gambar": false,
+      "image_description": null,
+      "image_spec": null,
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons yang sesuai dengan hubungan atau nilai yang diminta.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.2-KM01-I01-PGT-09",
+      "id_indikator": "IND-MTK-A-K1-B.2-KM01-I01",
+      "jenis_soal": "PGT",
+      "pertanyaan": "Gunakan penalaranmu, bukan tebakan. Lihat lambang bilangan 5. Sebutkan nama bilangan itu. Cocokkan lambang pada soal dengan nama yang kamu ketahui.",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan lambang bilangan dan minta anak menyebutkan namanya. Catat ucapan anak tanpa menawarkan pilihan nama.",
+      "penjelasan_konsep": "Lambang bilangan adalah tanda tertulis yang mewakili nama dan banyaknya suatu bilangan.",
+      "penerapan_nyata": "Anak dapat membaca nomor rumah atau nomor halaman dengan menyebutkan nama bilangannya.",
+      "butuh_gambar": false,
+      "image_description": null,
+      "image_spec": null,
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons yang sesuai dengan hubungan atau nilai yang diminta.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.2-KM01-I01-PGT-10",
+      "id_indikator": "IND-MTK-A-K1-B.2-KM01-I01",
+      "jenis_soal": "PGT",
+      "pertanyaan": "Terapkan pemahaman bilangan pada contoh ini. Lihat lambang bilangan 7. Sebutkan nama bilangan itu. Pastikan nama yang diucapkan mewakili nilai lambang.",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan lambang bilangan dan minta anak menyebutkan namanya. Catat ucapan anak tanpa menawarkan pilihan nama.",
+      "penjelasan_konsep": "Lambang bilangan adalah tanda tertulis yang mewakili nama dan banyaknya suatu bilangan.",
+      "penerapan_nyata": "Anak dapat membaca nomor rumah atau nomor halaman dengan menyebutkan nama bilangannya.",
+      "butuh_gambar": false,
+      "image_description": null,
+      "image_spec": null,
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons yang sesuai dengan hubungan atau nilai yang diminta.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.2-KM01-I01-PYN-01",
+      "id_indikator": "IND-MTK-A-K1-B.2-KM01-I01",
+      "jenis_soal": "PYN",
+      "pertanyaan": "Bayangkan situasi ini terjadi dalam kegiatan sehari-hari. Lihat lambang bilangan 14. Sebutkan nama bilangan itu. Ucapkan nama bilangan dengan lafal yang jelas.",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan lambang bilangan dan minta anak menyebutkan namanya. Catat ucapan anak tanpa menawarkan pilihan nama.",
+      "penjelasan_konsep": "Lambang bilangan adalah tanda tertulis yang mewakili nama dan banyaknya suatu bilangan.",
+      "penerapan_nyata": "Anak dapat membaca nomor rumah atau nomor halaman dengan menyebutkan nama bilangannya.",
+      "butuh_gambar": false,
+      "image_description": null,
+      "image_spec": null,
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons yang sesuai dengan hubungan atau nilai yang diminta.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.2-KM01-I01-PYN-02",
+      "id_indikator": "IND-MTK-A-K1-B.2-KM01-I01",
+      "jenis_soal": "PYN",
+      "pertanyaan": "Gunakan informasi berikut untuk membantu sebuah keputusan. Lihat lambang bilangan 16. Sebutkan nama bilangan itu. Hubungkan lambang tertulis dengan kata bilangannya.",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan lambang bilangan dan minta anak menyebutkan namanya. Catat ucapan anak tanpa menawarkan pilihan nama.",
+      "penjelasan_konsep": "Lambang bilangan adalah tanda tertulis yang mewakili nama dan banyaknya suatu bilangan.",
+      "penerapan_nyata": "Anak dapat membaca nomor rumah atau nomor halaman dengan menyebutkan nama bilangannya.",
+      "butuh_gambar": false,
+      "image_description": null,
+      "image_spec": null,
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons yang sesuai dengan hubungan atau nilai yang diminta.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.2-KM01-I01-PYN-03",
+      "id_indikator": "IND-MTK-A-K1-B.2-KM01-I01",
+      "jenis_soal": "PYN",
+      "pertanyaan": "Pikirkan cara menerapkan konsep ini di luar latihan. Lihat lambang bilangan 18. Sebutkan nama bilangan itu. Baca angka sebagai satu nama bilangan yang utuh.",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan lambang bilangan dan minta anak menyebutkan namanya. Catat ucapan anak tanpa menawarkan pilihan nama.",
+      "penjelasan_konsep": "Lambang bilangan adalah tanda tertulis yang mewakili nama dan banyaknya suatu bilangan.",
+      "penerapan_nyata": "Anak dapat membaca nomor rumah atau nomor halaman dengan menyebutkan nama bilangannya.",
+      "butuh_gambar": false,
+      "image_description": null,
+      "image_spec": null,
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons yang sesuai dengan hubungan atau nilai yang diminta.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.2-KM01-I01-PYN-04",
+      "id_indikator": "IND-MTK-A-K1-B.2-KM01-I01",
+      "jenis_soal": "PYN",
+      "pertanyaan": "Selesaikan tantangan kecil pada situasi berikut. Lihat lambang bilangan 20. Sebutkan nama bilangan itu. Perhatikan kedua digit jika lambangnya terdiri dari dua angka.",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan lambang bilangan dan minta anak menyebutkan namanya. Catat ucapan anak tanpa menawarkan pilihan nama.",
+      "penjelasan_konsep": "Lambang bilangan adalah tanda tertulis yang mewakili nama dan banyaknya suatu bilangan.",
+      "penerapan_nyata": "Anak dapat membaca nomor rumah atau nomor halaman dengan menyebutkan nama bilangannya.",
+      "butuh_gambar": false,
+      "image_description": null,
+      "image_spec": null,
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons yang sesuai dengan hubungan atau nilai yang diminta.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.2-KM01-I01-PYN-05",
+      "id_indikator": "IND-MTK-A-K1-B.2-KM01-I01",
+      "jenis_soal": "PYN",
+      "pertanyaan": "Gunakan bilangan untuk menjelaskan keadaan yang diberikan. Lihat lambang bilangan 3. Sebutkan nama bilangan itu. Nama yang dipilih harus sesuai dengan lambang tersebut.",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan lambang bilangan dan minta anak menyebutkan namanya. Catat ucapan anak tanpa menawarkan pilihan nama.",
+      "penjelasan_konsep": "Lambang bilangan adalah tanda tertulis yang mewakili nama dan banyaknya suatu bilangan.",
+      "penerapan_nyata": "Anak dapat membaca nomor rumah atau nomor halaman dengan menyebutkan nama bilangannya.",
+      "butuh_gambar": false,
+      "image_description": null,
+      "image_spec": null,
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons yang sesuai dengan hubungan atau nilai yang diminta.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.2-KM01-I01-PYN-06",
+      "id_indikator": "IND-MTK-A-K1-B.2-KM01-I01",
+      "jenis_soal": "PYN",
+      "pertanyaan": "Perhatikan kebutuhan pada cerita singkat ini. Lihat lambang bilangan 5. Sebutkan nama bilangan itu. Gunakan kosakata bilangan yang tepat.",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan lambang bilangan dan minta anak menyebutkan namanya. Catat ucapan anak tanpa menawarkan pilihan nama.",
+      "penjelasan_konsep": "Lambang bilangan adalah tanda tertulis yang mewakili nama dan banyaknya suatu bilangan.",
+      "penerapan_nyata": "Anak dapat membaca nomor rumah atau nomor halaman dengan menyebutkan nama bilangannya.",
+      "butuh_gambar": false,
+      "image_description": null,
+      "image_spec": null,
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons yang sesuai dengan hubungan atau nilai yang diminta.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.2-KM01-I01-PYN-07",
+      "id_indikator": "IND-MTK-A-K1-B.2-KM01-I01",
+      "jenis_soal": "PYN",
+      "pertanyaan": "Tentukan hasil yang berguna untuk kegiatan berikut. Lihat lambang bilangan 7. Sebutkan nama bilangan itu. Jangan membaca digit secara terpisah jika membentuk satu bilangan.",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan lambang bilangan dan minta anak menyebutkan namanya. Catat ucapan anak tanpa menawarkan pilihan nama.",
+      "penjelasan_konsep": "Lambang bilangan adalah tanda tertulis yang mewakili nama dan banyaknya suatu bilangan.",
+      "penerapan_nyata": "Anak dapat membaca nomor rumah atau nomor halaman dengan menyebutkan nama bilangannya.",
+      "butuh_gambar": false,
+      "image_description": null,
+      "image_spec": null,
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons yang sesuai dengan hubungan atau nilai yang diminta.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.2-KM01-I01-PYN-08",
+      "id_indikator": "IND-MTK-A-K1-B.2-KM01-I01",
+      "jenis_soal": "PYN",
+      "pertanyaan": "Gunakan strategi bilangan untuk menyelesaikan masalah ini. Lihat lambang bilangan 9. Sebutkan nama bilangan itu. Sampaikan nama bilangan sesuai aturan bahasa Indonesia.",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan lambang bilangan dan minta anak menyebutkan namanya. Catat ucapan anak tanpa menawarkan pilihan nama.",
+      "penjelasan_konsep": "Lambang bilangan adalah tanda tertulis yang mewakili nama dan banyaknya suatu bilangan.",
+      "penerapan_nyata": "Anak dapat membaca nomor rumah atau nomor halaman dengan menyebutkan nama bilangannya.",
+      "butuh_gambar": false,
+      "image_description": null,
+      "image_spec": null,
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons yang sesuai dengan hubungan atau nilai yang diminta.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.2-KM01-I01-PYN-09",
+      "id_indikator": "IND-MTK-A-K1-B.2-KM01-I01",
+      "jenis_soal": "PYN",
+      "pertanyaan": "Hubungkan tugas ini dengan benda atau kegiatan nyata. Lihat lambang bilangan 11. Sebutkan nama bilangan itu. Cocokkan lambang pada soal dengan nama yang kamu ketahui.",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan lambang bilangan dan minta anak menyebutkan namanya. Catat ucapan anak tanpa menawarkan pilihan nama.",
+      "penjelasan_konsep": "Lambang bilangan adalah tanda tertulis yang mewakili nama dan banyaknya suatu bilangan.",
+      "penerapan_nyata": "Anak dapat membaca nomor rumah atau nomor halaman dengan menyebutkan nama bilangannya.",
+      "butuh_gambar": false,
+      "image_description": null,
+      "image_spec": null,
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons yang sesuai dengan hubungan atau nilai yang diminta.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.2-KM01-I01-PYN-10",
+      "id_indikator": "IND-MTK-A-K1-B.2-KM01-I01",
+      "jenis_soal": "PYN",
+      "pertanyaan": "Buktikan pemahamanmu melalui situasi yang berbeda. Lihat lambang bilangan 12. Sebutkan nama bilangan itu. Pastikan nama yang diucapkan mewakili nilai lambang.",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan lambang bilangan dan minta anak menyebutkan namanya. Catat ucapan anak tanpa menawarkan pilihan nama.",
+      "penjelasan_konsep": "Lambang bilangan adalah tanda tertulis yang mewakili nama dan banyaknya suatu bilangan.",
+      "penerapan_nyata": "Anak dapat membaca nomor rumah atau nomor halaman dengan menyebutkan nama bilangannya.",
+      "butuh_gambar": false,
+      "image_description": null,
+      "image_spec": null,
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons yang sesuai dengan hubungan atau nilai yang diminta.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.2-KM01-I01-CU-01",
+      "id_indikator": "IND-MTK-A-K1-B.2-KM01-I01",
+      "jenis_soal": "CU",
+      "pertanyaan": "Periksa kembali pemahamanmu. Lihat lambang bilangan 20. Sebutkan nama bilangan itu. Ucapkan nama bilangan dengan lafal yang jelas.",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan lambang bilangan dan minta anak menyebutkan namanya. Catat ucapan anak tanpa menawarkan pilihan nama.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": false,
+      "image_description": null,
+      "image_spec": null,
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons yang sesuai dengan hubungan atau nilai yang diminta.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.2-KM01-I01-CU-02",
+      "id_indikator": "IND-MTK-A-K1-B.2-KM01-I01",
+      "jenis_soal": "CU",
+      "pertanyaan": "Lakukan pengecekan dengan teliti. Lihat lambang bilangan 3. Sebutkan nama bilangan itu. Hubungkan lambang tertulis dengan kata bilangannya.",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan lambang bilangan dan minta anak menyebutkan namanya. Catat ucapan anak tanpa menawarkan pilihan nama.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": false,
+      "image_description": null,
+      "image_spec": null,
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons yang sesuai dengan hubungan atau nilai yang diminta.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.2-KM01-I01-CU-03",
+      "id_indikator": "IND-MTK-A-K1-B.2-KM01-I01",
+      "jenis_soal": "CU",
+      "pertanyaan": "Pastikan hubungan bilangan pada jawabanmu benar. Lihat lambang bilangan 5. Sebutkan nama bilangan itu. Baca angka sebagai satu nama bilangan yang utuh.",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan lambang bilangan dan minta anak menyebutkan namanya. Catat ucapan anak tanpa menawarkan pilihan nama.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": false,
+      "image_description": null,
+      "image_spec": null,
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons yang sesuai dengan hubungan atau nilai yang diminta.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.2-KM01-I01-CU-04",
+      "id_indikator": "IND-MTK-A-K1-B.2-KM01-I01",
+      "jenis_soal": "CU",
+      "pertanyaan": "Uji kembali cara yang kamu gunakan. Lihat lambang bilangan 7. Sebutkan nama bilangan itu. Perhatikan kedua digit jika lambangnya terdiri dari dua angka.",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan lambang bilangan dan minta anak menyebutkan namanya. Catat ucapan anak tanpa menawarkan pilihan nama.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": false,
+      "image_description": null,
+      "image_spec": null,
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons yang sesuai dengan hubungan atau nilai yang diminta.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.2-KM01-I01-CU-05",
+      "id_indikator": "IND-MTK-A-K1-B.2-KM01-I01",
+      "jenis_soal": "CU",
+      "pertanyaan": "Cermati ulang informasi sebelum memilih. Lihat lambang bilangan 9. Sebutkan nama bilangan itu. Nama yang dipilih harus sesuai dengan lambang tersebut.",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan lambang bilangan dan minta anak menyebutkan namanya. Catat ucapan anak tanpa menawarkan pilihan nama.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": false,
+      "image_description": null,
+      "image_spec": null,
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons yang sesuai dengan hubungan atau nilai yang diminta.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.2-KM01-I01-CU-06",
+      "id_indikator": "IND-MTK-A-K1-B.2-KM01-I01",
+      "jenis_soal": "CU",
+      "pertanyaan": "Verifikasi jawabanmu pada tugas ini. Lihat lambang bilangan 11. Sebutkan nama bilangan itu. Gunakan kosakata bilangan yang tepat.",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan lambang bilangan dan minta anak menyebutkan namanya. Catat ucapan anak tanpa menawarkan pilihan nama.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": false,
+      "image_description": null,
+      "image_spec": null,
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons yang sesuai dengan hubungan atau nilai yang diminta.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.2-KM01-I01-CU-07",
+      "id_indikator": "IND-MTK-A-K1-B.2-KM01-I01",
+      "jenis_soal": "CU",
+      "pertanyaan": "Tinjau kembali bilangan yang tersedia. Lihat lambang bilangan 12. Sebutkan nama bilangan itu. Jangan membaca digit secara terpisah jika membentuk satu bilangan.",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan lambang bilangan dan minta anak menyebutkan namanya. Catat ucapan anak tanpa menawarkan pilihan nama.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": false,
+      "image_description": null,
+      "image_spec": null,
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons yang sesuai dengan hubungan atau nilai yang diminta.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.2-KM01-I01-CU-08",
+      "id_indikator": "IND-MTK-A-K1-B.2-KM01-I01",
+      "jenis_soal": "CU",
+      "pertanyaan": "Pastikan tidak ada informasi yang terlewat. Lihat lambang bilangan 14. Sebutkan nama bilangan itu. Sampaikan nama bilangan sesuai aturan bahasa Indonesia.",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan lambang bilangan dan minta anak menyebutkan namanya. Catat ucapan anak tanpa menawarkan pilihan nama.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": false,
+      "image_description": null,
+      "image_spec": null,
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons yang sesuai dengan hubungan atau nilai yang diminta.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.2-KM01-I01-CU-09",
+      "id_indikator": "IND-MTK-A-K1-B.2-KM01-I01",
+      "jenis_soal": "CU",
+      "pertanyaan": "Cek ketepatan pemahaman terhadap konsep. Lihat lambang bilangan 16. Sebutkan nama bilangan itu. Cocokkan lambang pada soal dengan nama yang kamu ketahui.",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan lambang bilangan dan minta anak menyebutkan namanya. Catat ucapan anak tanpa menawarkan pilihan nama.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": false,
+      "image_description": null,
+      "image_spec": null,
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons yang sesuai dengan hubungan atau nilai yang diminta.",
+          "bobot": 1
+        }
+      ]
+    },
+    {
+      "id_soal": "SOAL-MTK-A-K1-B.2-KM01-I01-CU-10",
+      "id_indikator": "IND-MTK-A-K1-B.2-KM01-I01",
+      "jenis_soal": "CU",
+      "pertanyaan": "Nyatakan hasil pemeriksaanmu secara tepat. Lihat lambang bilangan 18. Sebutkan nama bilangan itu. Pastikan nama yang diucapkan mewakili nilai lambang.",
+      "pilihan": null,
+      "kunci_jawaban": null,
+      "panduan_orang_tua": "Tampilkan lambang bilangan dan minta anak menyebutkan namanya. Catat ucapan anak tanpa menawarkan pilihan nama.",
+      "penjelasan_konsep": null,
+      "penerapan_nyata": null,
+      "butuh_gambar": false,
+      "image_description": null,
+      "image_spec": null,
+      "metode_penilaian": "ORANG_TUA",
+      "rubrik_penilaian": [
+        {
+          "kriteria": "Anak memberikan respons yang sesuai dengan hubungan atau nilai yang diminta.",
+          "bobot": 1
+        }
+      ]
+    }
+  ]
+}
