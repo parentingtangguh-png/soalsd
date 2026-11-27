@@ -28,5 +28,5 @@ Setiap persetujuan produksi harus mencantumkan:
 |---|---|---|---|---|
 | `MIG-T2-PERSIAPAN` | Tahap Migrasi 2 | AGENTS.md, lima skill, struktur, register, dan mekanisme persetujuan | Final | PR #7 telah masuk `main` melalui merge commit `14e156a`; Tahap 3 dapat disiapkan |
 | `MIG-T3-PERANGKAT` | Tahap Migrasi 3 | Delapan perangkat produksi | Final | PR #9 masuk `main` melalui merge `5d01801`; siapkan Tahap 4 |
-| `MIG-T4-VERIFIKASI` | Tahap Migrasi 4 | Verifikasi lingkungan produksi | Menunggu persetujuan | Uji responsif 390×844 dan 768×1024 lulus; PR #12 dan laporan diperbarui; pemeriksaan pedagogis, substansi, dan empiris masih terbuka |
+| `MIG-T4-VERIFIKASI` | Tahap Migrasi 4 | Verifikasi lingkungan produksi | Disetujui, menunggu finalisasi | Keputusan Romo diterima; PR #12 siap difinalkan; batas pemeriksaan pedagogis/substansi/empiris tetap berlaku pada indikator produksi |
 | `IND-MTK-A-K1-B.1-KM01-I01` | Tahap 1 penyusunan | Analisis dan rancangan empat jenis soal | Belum dimulai | Menunggu Tahap 4 dan persiapan produksi |
