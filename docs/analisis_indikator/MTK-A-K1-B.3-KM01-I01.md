@@ -21,7 +21,7 @@
 
 **Rumusan indikator verbatim:**
 
-> Wajib disalin dari baris indikator IND-MTK-A-K1-B.3-KM01-I01 pada dokumen hierarki saat berkas produksi dibuat.
+> Mengurutkan sejumlah bilangan cacah sampai 20 yang disajikan secara acak menjadi urutan dari bilangan terkecil ke terbesar atau dari bilangan terbesar ke terkecil secara tepat.
 
 ## Hasil analisis kompetensi
 
