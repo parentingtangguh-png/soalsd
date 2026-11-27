@@ -52,7 +52,8 @@
 - Antiduplikasi lokal: 10 record, 0 benturan ID, 0 duplikasi identik, 0 kandidat kemiripan.
 - Browser aktual:
   - Mode Pemeriksaan menampilkan pertanyaan dan gambar stimulus.
-  - Mode Pengerjaan menampilkan pertanyaan, label Stimulus, gambar, dan ceklis rubrik.
+  - Mode Pengerjaan menampilkan seluruh 10 soal untuk review pengajuan, masing-masing dengan pertanyaan, label Stimulus, gambar, dan rubrik.
+- Mode Pengerjaan menyediakan opsi kembali ke tampilan satu per satu untuk uji interaksi.
   - Tombol Berikutnya berpindah dari soal 1 ke soal 2.
   - Setelah satu respons disimpan, laporan menampilkan `Terjawab: 1/10` dan menahan laporan lengkap sampai seluruh soal dijawab.
 
@@ -61,7 +62,7 @@
 - HTML lokal dibuka langsung di Chrome.
 - Mode Pemeriksaan menampilkan pertanyaan, label Stimulus, dan gambar aktual.
 - Mode Pengerjaan menampilkan pertanyaan, label Stimulus, gambar, dua ceklis rubrik, navigasi, dan laporan.
-- Respons pada soal pertama tersimpan; tombol Berikutnya berpindah ke soal kedua; laporan menampilkan `Terjawab: 1/10` dan `Nilai: belum lengkap`.
+- Setelah kembali ke tampilan satu per satu, respons pada soal pertama tersimpan; tombol Berikutnya berpindah ke soal kedua; laporan menampilkan `Terjawab: 1/10` dan `Nilai: belum lengkap`.
 - Audit menemukan ambiguitas pada instruksi DIA-02 tentang urutan dua baris. Instruksi diperbaiki menjadi baris atas kiri-ke-kanan lalu baris bawah, dan JSON/HTML diperbarui serta divalidasi ulang.
 
 ## Batas
