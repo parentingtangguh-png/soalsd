@@ -3,6 +3,8 @@
 Tanggal audit: 27 November 2026  
 Lingkup: 10 indikator Matematika Fase A Kelas 1, masing-masing 4 jenis soal × 10 butir.
 
+Pengajuan: PR #31 — `production/mtk-a-k1-10-indikator-400` menuju `main`.
+
 ## Acuan
 
 - Dokumen induk final: `ringkasan_bank_soal_sd_v5-salinan 61.md`.
@@ -52,7 +54,7 @@ Bukti mesin: `docs/verifikasi_produksi/MTK-A-K1-10-INDIKATOR-400-antidupe.json`.
 
 ## Keputusan status
 
-Paket **belum Final** dan **belum boleh dianggap lulus keseluruhan**. Paket layak diajukan untuk audit Romo karena seluruh 400 soal dan atributnya sudah terlihat, tetapi pengajuan harus menyertakan catatan 52 kandidat kemiripan serta status uji browser dan substansi yang masih terbuka.
+Paket **belum Final** dan **belum boleh dianggap lulus keseluruhan**. Paket layak diajukan untuk audit Romo melalui PR #31 karena seluruh 400 soal dan atributnya sudah terlihat, tetapi pengajuan harus menyertakan catatan 52 kandidat kemiripan serta status uji browser dan substansi yang masih terbuka.
 
 Tindakan berikutnya:
 
