@@ -7,8 +7,9 @@ soalsd/
 ├── AGENTS.md
 ├── .agents/skills/
 ├── .github/
+├── ringkasan_bank_soal_sd_v5-salinan 62.md (calon acuan aktif setelah penetapan)
+├── ringkasan_bank_soal_sd_v5-salinan 61.md (dipertahankan; arsip setelah penetapan 62)
 ├── docs/
-│   ├── ringkasan_bank_soal_sd_v5-salinan 61.md
 │   ├── register_bank_soal.md
 │   ├── catatan_persetujuan.md
 │   ├── struktur_direktori.md

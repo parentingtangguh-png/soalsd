@@ -31,14 +31,14 @@ Jangan menggunakan checkout lama, ringkasan percakapan, atau asumsi sebagai peng
 
 Dokumen induk pada saat penyusunan skill ini adalah:
 
-`ringkasan_bank_soal_sd_v5-salinan 61.md`
+`ringkasan_bank_soal_sd_v5-salinan 62.md`
 
 Gunakan dokumen induk terbaru yang telah disetujui, diverifikasi, dan ditetapkan sebagai acuan bersama.
 
 Hierarki kewenangan:
 
 1. Keputusan Romo yang telah disetujui.
-2. Dokumen induk final V5-salinan 61 yang telah ditetapkan sebagai acuan bersama.
+2. Dokumen induk final V5-salinan 62 (setelah penetapan eksplisit) yang telah ditetapkan sebagai acuan bersama.
 3. Rancangan indikator yang telah disetujui.
 4. AGENTS.md dan SKILL.md.
 5. Instruksi tugas Codex.
