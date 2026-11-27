@@ -7,7 +7,7 @@
 - **Lingkup:** Verifikasi lingkungan produksi menggunakan data sintetis.
 - **Branch:** `verify/tahap-4-lingkungan`
 - **Pull request:** PR #12
-- **Status pengajuan:** Disetujui, menunggu finalisasi melalui merge PR #12.
+- **Status pengajuan:** Final setelah merge PR #12.
 
 ## Acuan
 
@@ -35,7 +35,7 @@ Uji tablet/ponsel tetap dicatat **Belum diuji**, dan pengajuan Tahap 4 dilanjutk
 
 ## Permintaan persetujuan
 
-Hasil Tahap 4 telah disetujui Romo berdasarkan bukti aktual yang tersedia. Tindakan berikutnya dibatasi pada Gerbang 4, yaitu persiapan produksi; persetujuan ini tidak menyetujui isi soal tertentu.
+Hasil Tahap 4 telah disetujui Romo berdasarkan bukti aktual yang tersedia dan PR #12 telah masuk `main` melalui merge `1560fbdf17df82d942c1bf974a4e8d890427e639`. Tindakan berikutnya adalah Gerbang 4, yaitu persiapan produksi; persetujuan ini tidak menyetujui isi soal tertentu.
 
 ## Batas
 
