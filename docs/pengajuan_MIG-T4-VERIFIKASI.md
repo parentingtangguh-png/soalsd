@@ -31,7 +31,7 @@ Uji responsif aktual kemudian dijalankan pada override 390×844 (ponsel) dan 768
 
 ## Keputusan Romo
 
-Uji tablet/ponsel tetap dicatat **Belum diuji**, dan pengajuan Tahap 4 dilanjutkan dengan status **Menunggu persetujuan**. Keputusan ini tidak mengubah status menjadi Final dan tidak membuka produksi soal.
+Uji tablet/ponsel telah diperiksa pada viewport 390×844 dan 768×1024, kemudian pengajuan Tahap 4 disetujui dan difinalkan melalui PR #12. Status Final berlaku untuk lingkungan teknis sintetis; pemeriksaan pedagogis, substansi pendidikan, dan empiris pada indikator produksi tetap belum diuji.
 
 ## Permintaan persetujuan
 
